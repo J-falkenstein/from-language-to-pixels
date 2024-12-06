@@ -1,0 +1,65 @@
+SVG (Scalable Vector Graphics) is a popular file format for describing two-dimensional vector graphics in XML format. SVG provides a flexible and versatile platform for creating detailed and scalable visual representations.
+
+With SVG code, shapes can be defined using geometric primitives such as rectangles, circles, and lines, as well as more complex paths. Additionally, attributes like colors, gradients, and transformations can be applied to customize the appearance of the elements. The hierarchical structure of SVG allows for grouping and layering of objects, enabling the creation of intricate illustrations and graphical compositions.
+
+Here is an example of html code for an SVG showing a christmas ornament:  
+<svg width="200" height="200" viewBox="-100 -100 200 200”>
+  <circle cx="0" cy="20" r="70" fill="#D1495B" />
+
+  <circle
+    cx="0"
+    cy="-75"
+    r="12"
+    fill="none"
+    stroke="#F79257"
+    stroke-width="2"
+  />
+
+  <rect x="-17.5" y="-65" width="35" height="20" fill="#F79257" />
+</svg>
+###
+
+Here is an example of html code for an SVG showing a christmas tree:
+<svg width="200" height="200" viewBox="-100 -100 200 200">
+  <polygon points="0,0 80,120 -80,120" fill="#234236" />
+  <polygon points="0,-40 60,60 -60,60" fill="#0C5C4C" />
+  <polygon points="0,-80 40,0 -40,0" fill="#38755B" />
+  <rect x="-20" y="120" width="40" height="30" fill="brown" />
+</svg>     
+###
+
+Here is an example of html code for an SVG showing a star:
+<svg width="200" height="200" viewBox="-100 -100 200 200">      
+  <g transform="translate(0 5)">
+    <g>
+      <polygon points="0,0 36,-50 0,-100" fill="#EDD8B7" />
+      <polygon points="0,0 -36,-50 0,-100" fill="#E5C39C" />
+    </g>
+    <g transform="rotate(72)">
+      <polygon points="0,0 36,-50 0,-100" fill="#EDD8B7" />
+      <polygon points="0,0 -36,-50 0,-100" fill="#E5C39C" />
+    </g>
+    <g transform="rotate(-72)">
+      <polygon points="0,0 36,-50 0,-100" fill="#EDD8B7" />
+      <polygon points="0,0 -36,-50 0,-100" fill="#E5C39C" />
+    </g>
+    <g transform="rotate(144)">
+      <polygon points="0,0 36,-50 0,-100" fill="#EDD8B7" />
+      <polygon points="0,0 -36,-50 0,-100" fill="#E5C39C" />
+    </g>
+    <g transform="rotate(-144)">
+      <polygon points="0,0 36,-50 0,-100" fill="#EDD8B7" />
+      <polygon points="0,0 -36,-50 0,-100" fill="#E5C39C" />
+    </g>
+  </g>
+</svg> 
+###
+
+Here is an example of html code for an SVG showing a circle:     
+<svg width= "400" height= "400">
+  <circle cx= "100" cy= "100" r="90" stroke= "red" stroke-width="1" fill="grey" />
+</svg>
+###
+
+Now I want an image of [object]. [description]
+Here is an example of html code for an SVG showing [object]:

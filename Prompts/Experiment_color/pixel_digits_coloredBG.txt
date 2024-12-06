@@ -1,0 +1,49 @@
+Images displayed on a computer screen are actually a collection of dots of color, called pixels. If you look really closely at the screen, you will be able to see the individual pixels. The collection of pixels that make up an image are stored as a matrix. Each pixel can represent a different color. 
+We can represent different objects (e.g., numbers, letters, or shapes) by creating a pixel matrix which consists different symbols and each symbol stands for a different color. In our 8x8 pixel matrix, we use the following symbols to encode color: white (represented by "0"), black ("1"), red ("2"), yellow ("3), green ("4"), and blue ("5"). This means each entry of the matrix is either a 0, a 1, a 2, a 3, a 4, or a 5. The matrix should be of the size 8 by 8. 
+
+Here is an example of an 8 by 8 pixel matrix showing a black number three with a white background:
+00000000
+01111110
+00000110
+00111100
+00001110
+00000110
+01111100 
+00000000
+###
+
+Here is an example of a grid of pixels that form an image of a blue number two on a yellow background:
+33333333
+33555533
+35533553
+33335533
+33355333
+33553333
+35555553
+33333333
+###
+
+Here is an example of a grid of pixels that form an image of a red number eight on green background:
+44444444
+44222244
+42244224
+44222244
+42244224
+44224244
+44422444
+44444444
+###
+
+Here is an example of a grid of pixels that form an image of a black number six on blue background:
+55555555
+55111155
+51155555
+51155555
+55111155
+51155115
+55111155
+55555555
+###
+
+
+This is an example of a grid of pixels that form a image  [object]:

@@ -1,0 +1,49 @@
+Images displayed on a computer screen are actually a collection of dots of color, called pixels. If you look really closely at the screen, you will be able to see the individual pixels. The collection of pixels that make up an image are stored as a matrix.
+We can represent different objects (e.g., numbers, letters, or shapes) by creating a pixel matrix which consists of 0s and 1s. The matrix should be of the size 8 by 8. Each entry represents a pixel of a black or a white pixel. That means the image has a display capable of 8 pixels in width and 8 pixels in height. Since there are only 64 pixels in total the objects to be displayed are significantly simplified.
+
+
+Here is an example of an 8 by 8 pixel matrix showing the forward slash symbol:
+00000000
+00011000
+00011000
+00000000
+11111111
+00000000
+00011000
+00011000
+###
+
+Here is an example of a grid of pixels that form an image of the division sign:
+00000110
+00001100
+00011000
+00110000
+01100000
+11000000
+00000000
+00000000
+###
+
+Here is an example of a grid of pixels that form an image of the dot symbol: 
+00000000
+00111100
+01100110
+00001100
+00011000
+00010000
+00000000
+00010000
+###
+
+Here is an example of a grid of pixels that form an image of the question mark: 
+00000000
+00000000
+00000000
+00000000
+00001100
+00001100
+00000000
+00000000
+###
+
+This is an example of a grid of pixels that form an image of [object]:

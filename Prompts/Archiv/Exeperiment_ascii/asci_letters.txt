@@ -1,0 +1,49 @@
+Ascii art is a form of visual representation created using characters from the American Standard Code for Information Interchange (ASCII) character set. It is a simple yet expressive way to create images, logos, or illustrations using a combination of letters, numbers, and special characters. Ascii art is popularly used in computer graphics, online forums, and text-based applications.
+
+In ascii art, the basic building blocks are characters from the ASCII character set, which includes symbols like letters, numbers, punctuation marks, and even whitespace characters. By arranging these characters in a specific pattern and sequence, one can create recognizable images or convey complex ideas. The positioning of characters within a grid-like structure, such as a rectangular or square matrix, allows the creation of visual compositions.
+
+Here is an example of an ascii art showing the letter H:
+'''  
+|\     /|
+| )   ( |
+| (___) |
+|  ___  |
+| (   ) |
+| )   ( |
+|/     \|
+'''
+###
+
+Here is an example of ascii art that forms an image of the letter F:
+'''
+ _____ 
+|  ___|
+| |_   
+|  _|  
+|_|    
+   
+'''       
+###
+
+Here is an example of ascii art that forms an image of the letter A:
+'''  
+    .    
+   / \   
+  /___\  
+ /     \ 
+'       `
+'''
+###
+
+Here is an example ascii art that forms an image of the letter G:
+'''     
+    ______
+  .' ___  |
+ / .'   \_|   
+| |    ____  
+ \ `.___]  _| 
+  `._____.'    
+'''
+###
+
+Render an ascii art of [object]:

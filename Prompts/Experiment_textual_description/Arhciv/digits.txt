@@ -1,0 +1,16 @@
+Imagine you are describing various objects to a blind person to enable them to draw each object accurately. Please provide a detailed visual description of the following object, 
+including its fundamental shape, distinctive features, proportions, alignments with other elements, and relevant spatial relationships. Use clear and concise language to convey the visual characteristics of the object.
+
+Here is an example of a visual description of the number 8: 
+"""The digit 8 resembles two identical circles that are tangent to each other at a single point, with one on top of the other. The top circle is slightly smaller than the bottom one, and they are aligned in a straight vertical orientation. The interior of both circles is typically empty, forming a clear, open space within each circle."""
+
+Here is an example of a visual description of the number 7: 
+"""The  number 7 consists of one horizontal line at the top and one diagonal line, its top end touches the horizontal line on its right end and is slightly longer than the horizontal line. The diagonal is tilted to the rigth."""
+
+Here is an example of the number 3: 
+"""The number 3 is comprised of two distinct curved elements. It resembles an upper-case letter 'C' or half circle that has been mirrored horizontally. The curved top element starts on the left side, corving upwards and then returns to the right, curving down and then left again, ending in the middle. The bottom element is horizontally mirrored."""
+
+Here is an example of the number 6: 
+"""The number 6 consists of a circle at the bottom which is connected to a curved vertical line which start at upper left side of the circe and slightly curves to the left."""
+
+Here is an example of [object]:

@@ -32,4 +32,5 @@ The parameters are all set inside the script.
 python script.py
 ### Output
 Text: Stored in output/text/
+
 Images: Stored in output/images/

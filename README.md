@@ -1,6 +1,6 @@
 # From Language to Pixels: Task Recognition and Task Learning in LLMs
 
-This repository contains the paper, code, data, and prompts used in the research published at the [**GenBench Workshop, EMNLP 2024**](https://aclanthology.org/2024.genbench-1.2/)).
+This repository contains the paper, code, data, and prompts used in the research published at the [**GenBench Workshop at EMNLP 2024**](https://aclanthology.org/2024.genbench-1.2/).
 
 ## Abstract  
 LLMs can perform unseen tasks by learning from a few in-context examples. How in-context learning works is still uncertain. We investigate the mechanisms of in-context learning on a challenging non-language task. The task requires the LLM to generate pixel matrices representing images of basic shapes. We introduce a framework to analyze if this task is solved by recognizing similar formats from the training data (task recognition) or by understanding the instructions and learning the skill de novo during inference (task learning). Our experiments demonstrate that LLMs generate meaningful pixel matrices with task recognition and fail to learn such tasks when encountering unfamiliar formats. Our findings offer insights into LLMs’ learning mechanisms and their generalization ability to guide future research on their seemingly human-like behavior.

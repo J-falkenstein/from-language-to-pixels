@@ -1,0 +1,6 @@
+Here is an example of ascii art that forms an image of the equal sign:
+'''
+ _______ 
+|       |
+|_______|
+'''

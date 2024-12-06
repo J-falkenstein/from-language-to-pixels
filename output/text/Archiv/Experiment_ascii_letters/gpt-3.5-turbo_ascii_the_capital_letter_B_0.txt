@@ -1,0 +1,9 @@
+Here is an example of ascii art that forms an image of the letter B:
+'''
+ ____  
+| __ ) 
+|  _ \ 
+| |_) |
+|____/ 
+
+'''

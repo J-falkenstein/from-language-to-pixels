@@ -1,0 +1,1 @@
+Unfortunately, the text response format does not allow for the display of images or symbols. However, a pixel matrix representation of the greater than sign would consist of black pixels forming the shape of the symbol on a white background. Each pixel in the matrix would have RGB values of (0, 0, 0) for black and (255, 255, 255) for white.

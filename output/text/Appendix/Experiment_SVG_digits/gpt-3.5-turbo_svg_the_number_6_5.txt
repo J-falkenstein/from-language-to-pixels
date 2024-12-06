@@ -1,0 +1,5 @@
+<svg width="200" height="200" viewBox="0 0 200 200">
+  <path d="M100 10 L10 100 L100 190 L190 100 Z" fill="purple" />
+  <circle cx="100" cy="100" r="80" fill="white" />
+  <text x="50%" y="50%" text-anchor="middle" fill="purple" font-size="100px" dy="0.35em">6</text>
+</svg>

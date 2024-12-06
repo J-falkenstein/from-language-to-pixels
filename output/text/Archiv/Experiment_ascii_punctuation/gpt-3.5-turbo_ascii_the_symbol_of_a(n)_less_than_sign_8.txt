@@ -1,0 +1,10 @@
+Here is an example ascii art that forms an image of the less than sign:
+
+'''
+    _______
+   /       \
+  /         \
+ |           |
+  \         /
+   \_______/
+'''

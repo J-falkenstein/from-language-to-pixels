@@ -1,0 +1,11 @@
+The stick figure is a simple representation of a human figure. It consists of a vertical line that represents the body, and a smaller horizontal line positioned near the top, which symbolizes the head. 
+
+Starting with the head, imagine a small round circle at the top of the vertical line. This represents the head and is connected directly to the body line. 
+
+For the body, envision a long straight line extending downwards from the head, reaching about twice the length of the head circle. This line represents the torso of the stick figure. 
+
+Next, for the arms, picture two shorter lines extending outwards from the middle of the body line. These lines should be about halfway the length of the body line. These shorter lines will represent the stick figure's arms, which can be positioned straight down or slightly angled outwards. 
+
+Similarly, for the legs, visualize two lines extending downwards from the bottom of the vertical body line. These lines should be about the same length as the body line or slightly longer. They represent the stick figure's legs and can be positioned straight down or slightly angled outwards as well. 
+
+At this point, you have the basic shape of a stick figure. Remember, the most important features to recognize are the circular head connected to the vertical body line, as well as the two shorter lines for arms and two longer lines for legs extending from the body. Additional details are not necessary for the simplified sketch.

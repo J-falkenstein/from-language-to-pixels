@@ -1,0 +1,23 @@
+<svg width="400" height="400">
+  <rect x="0" y="0" width="50" height="50" fill="#FFF" />
+  <rect x="50" y="0" width="50" height="50" fill="#000" />
+  <rect x="100" y="0" width="50" height="50" fill="#FFF" />
+  <rect x="150" y="0" width="50" height="50" fill="#000" />
+  <rect x="200" y="0" width="50" height="50" fill="#FFF" />
+  <rect x="250" y="0" width="50" height="50" fill="#000" />
+  <rect x="300" y="0" width="50" height="50" fill="#FFF" />
+  <rect x="350" y="0" width="50" height="50" fill="#000" />
+
+  // Repeat pattern for remaining rows
+  <rect x="0" y="50" width="50" height="50" fill="#000" />
+  <rect x="50" y="50" width="50" height="50" fill="#FFF" />
+  <rect x="100" y="50" width="50" height="50" fill="#000" />
+  <rect x="150" y="50" width="50" height="50" fill="#FFF" />
+  <rect x="200" y="50" width="50" height="50" fill="#000" />
+  <rect x="250" y="50" width="50" height="50" fill="#FFF" />
+  <rect x="300" y="50" width="50" height="50" fill="#000" />
+  <rect x="350" y="50" width="50" height="50" fill="#FFF" />
+
+  // Repeat pattern for remaining rows
+
+</svg>

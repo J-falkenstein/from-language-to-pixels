@@ -1,0 +1,11 @@
+Here is an example of an ascii art representation of the greater than sign symbol:
+
+```
+    _______
+  /      /
+ /      /
+/______/
+       \
+        \
+         \
+```

@@ -1,0 +1,6 @@
+<svg width="500" height="500">
+  <path d="M100 350 Q150 220 200 350 Q250 220 300 350 Q350 220 400 350" fill="#79BE80" />
+  <circle cx="250" cy="150" r="40" fill="#DDBB55" />
+  <circle cx="250" cy="200" r="25" fill="#DDBB55" />
+  <circle cx="250" cy="250" r="15" fill="#DDBB55" />
+</svg>

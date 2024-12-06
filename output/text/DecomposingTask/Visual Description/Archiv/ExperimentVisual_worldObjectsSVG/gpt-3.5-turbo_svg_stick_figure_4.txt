@@ -1,0 +1,11 @@
+<svg width="200" height="200" viewBox="-100 -100 200 200">      
+  <circle cx="0" cy="-80" r="15" fill="black" />
+  <line x1="0" y1="-65" x2="0" y2="-35" stroke="black" stroke-width="3" />
+  <line x1="-10" y1="-50" x2="10" y2="-50" stroke="black" stroke-width="3" />
+  <line x1="-25" y1="-20" x2="25" y2="-20" stroke="black" stroke-width="3" />
+  <line x1="-25" y1="0" x2="25" y2="0" stroke="black" stroke-width="3" />
+  <line x1="-30" y1="0" x2="-40" y2="10" stroke="black" stroke-width="3" />
+  <line x1="30" y1="0" x2="40" y2="10" stroke="black" stroke-width="3" />
+  <line x1="-15" y1="-100" x2="-15" y2="-80" stroke="black" stroke-width="3" />
+  <line x1="15" y1="-100" x2="15" y2="-80" stroke="black" stroke-width="3" />
+</svg>

@@ -1,0 +1,16 @@
+<svg width="200" height="200" viewBox="-100 -100 200 200">
+  <!-- Roof -->
+  <polygon points="-80,80 0,160 80,80" fill="#D1495B" />
+  <!-- House body -->
+  <rect x="-70" y="-80" width="140" height="160" fill="#F79257" />
+  <!-- Ground line -->
+  <line x1="-90" y1="80" x2="90" y2="80" stroke="#38755B" stroke-width="5" />
+  <!-- Entrance/Door -->
+  <line x1="0" y1="80" x2="0" y2="-20" stroke="#234236" stroke-width="10" />
+  <!-- Windows -->
+  <rect x="-45" y="-40" width="30" height="30" fill="#0C5C4C" />
+  <rect x="15" y="-40" width="30" height="30" fill="#0C5C4C" />
+  <!-- Chimneys -->
+  <rect x="-60" y="-100" width="20" height="40" fill="#234236" />
+  <rect x="40" y="-100" width="20" height="40" fill="#234236" />
+</svg>

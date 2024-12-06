@@ -1,0 +1,9 @@
+Here is an example of ASCII art representing the at sign symbol:
+'''
+   ____  
+ /  @ @ \ 
+ \     _/ 
+  |   |  
+  |   |  
+   \___/  
+'''

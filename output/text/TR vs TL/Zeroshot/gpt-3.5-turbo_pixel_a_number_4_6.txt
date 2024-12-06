@@ -1,0 +1,11 @@
+```
+00000000
+00111000
+01111100
+11001100
+11001100
+11111110
+00011000
+00011000
+```
+The image above represents the number 4 using a pixel matrix. Each entry in the matrix represents a pixel, and a '0' represents a black pixel while a '1' represents a white pixel. By arranging the pixels in a specific pattern, we can create different objects or shapes.

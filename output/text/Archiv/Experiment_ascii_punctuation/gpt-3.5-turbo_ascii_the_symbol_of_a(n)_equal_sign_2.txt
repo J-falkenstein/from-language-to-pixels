@@ -1,0 +1,8 @@
+Here is an example of ASCII art showing the equal sign:
+
+'''
+ ________ 
+|________|
+ ________ 
+|________|
+'''

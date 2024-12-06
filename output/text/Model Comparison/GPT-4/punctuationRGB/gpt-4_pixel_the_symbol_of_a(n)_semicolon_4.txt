@@ -1,0 +1,12 @@
+Since it's hard to represent a semicolon in a pixel matrix textually, I'll simplify the representation. We'll take an 8x8 matrix again, where "W" represents a white pixel (255,255,255), and "B" represents a black pixel (0,0,0):
+
+[ WWWWWWWW ]
+[ WWWWWWWW ]
+[ WWWWWWBW ]
+[ WWWWWWWW ]
+[ WWWWWWBW ]
+[ WWWWWWBW ]
+[ WWWWWWWW ]
+[ WWWWWWWW ]
+
+In this simplified matrix, the black pixels represent the image of a semicolon. In a real image, the semicolon would be made up of many more pixels, and there are likely to be many different shades of color involved.

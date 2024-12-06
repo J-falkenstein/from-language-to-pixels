@@ -1,0 +1,10 @@
+ Here is an example of an ascii art representing the number 1:
+
+'''
+  __  
+ /_ | 
+  | | 
+  | | 
+  | | 
+  |_| 
+'''

@@ -1,0 +1,12 @@
+The @ symbol would be too complex to represent accurately in an 8x8 pixel matrix, especially considering the complexity of its curves and detail. Here, however, is a very simple, and stylized representation. It might not be easily recognized as an @ symbol, but it should give a vague impression of one:
+
+[ (255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255) ]
+[ (255, 255, 255)(255, 255, 255)(0, 0, 0)(0, 0, 0)(0, 0, 0)(255, 255, 255)(255, 255, 255)(255, 255, 255) ]
+[ (255, 255, 255)(0, 0, 0)(255, 255, 255)(255, 255, 255)(0, 0, 0)(0, 0, 0)(255, 255, 255)(255, 255, 255) ]
+[ (255, 255, 255)(0, 0, 0)(255, 255, 255)(0, 0, 0)(255, 255, 255)(0, 0, 0)(255, 255, 255)(255, 255, 255) ]
+[ (255, 255, 255)(0, 0, 0)(255, 255, 255)(255, 255, 255)(0, 0, 0)(0, 0, 0)(255, 255, 255)(255, 255, 255) ]
+[ (255, 255, 255)(255, 255, 255)(0, 0, 0)(0, 0, 0)(0, 0, 0)(255, 255, 255)(255, 255, 255)(255, 255, 255) ]
+[ (255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255) ]
+[ (255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255) ] 
+
+Please note that with an 8x8 grid is extremely limiting, and actual images would require many more pixels to accurately represent complex shapes and colors.

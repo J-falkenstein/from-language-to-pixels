@@ -1,0 +1,18 @@
+Due to the limitation of text format, it's impossible to fully represent a pixel matrix of a complex object like a car. Usually, a digital image of a car will be made up of thousands, if not millions, of pixels and it's impossible to effectively depict this in text. 
+
+These pixel matrices will be stored in a digital file and interpreted by software designed to create an image from this data, such as photo editing or viewing software. Image files can be format in JPEG, GIF, PNG, BMP and many more, and they all store pixel information in different ways.
+
+In computer programming, one way to represent a pixel matrix in a simple plain black and white image could be using a two-dimensional array, where a 1 represents a black pixel and a 0 represents a white pixel.
+
+Here's a simple example that represents a 8x8 pixel checkerboard:
+
+1 0 1 0 1 0 1 0
+0 1 0 1 0 1 0 1
+1 0 1 0 1 0 1 0
+0 1 0 1 0 1 0 1
+1 0 1 0 1 0 1 0
+0 1 0 1 0 1 0 1
+1 0 1 0 1 0 1 0
+0 1 0 1 0 1 0 1
+
+But keep in mind, real images are extremely complex and contain a broad array of colors, each of which is represented by a specific RGB value. So, a real image of a car would be extremely complex to represent in this format. A typical color image can contain over 16 million colors, all of which can be represented by a unique RGB value.

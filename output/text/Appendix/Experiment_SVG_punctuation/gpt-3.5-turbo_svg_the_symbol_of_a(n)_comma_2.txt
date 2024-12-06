@@ -1,0 +1,5 @@
+<svg width="50" height="50" viewBox="-25 -25 50 50">
+  <path d="M-10,0a10,10 0 1,0 20,0a10,10 0 1,0 -20,0" fill="black" />
+  <path d="M-15,0a15,15 0 1,0 30,0a15,15 0 1,0 -30,0" fill="white" />
+  <circle cx="-5" cy="0" r="3" fill="black" />
+</svg>

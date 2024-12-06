@@ -1,0 +1,9 @@
+The stick figure is a simple drawing that represents a human body. It consists of a vertical line for the body, a horizontal line for the arms, and another horizontal line for the legs. The head is represented by a small circle or an oval shape at the top of the vertical line. 
+
+The arms are attached to the body at about halfway down the vertical line. They extend straight out to the sides and are usually about the same length as the vertical line representing the body. 
+
+The legs are attached to the body at the bottom of the vertical line. They extend straight down and are slightly longer than the arms. The feet can be indicated by small acute angles or by slightly extending the lines at the bottom of the legs to represent shoes.
+
+The stick figure does not have any facial features, but if desired, you can add two dots to represent the eyes and a small curved line to represent the mouth within the head circle.
+
+Overall, the stick figure is a simplified representation of a human body, using basic lines and shapes to convey the essential form and posture.

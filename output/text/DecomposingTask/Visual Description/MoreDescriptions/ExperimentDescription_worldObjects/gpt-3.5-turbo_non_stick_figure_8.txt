@@ -1,0 +1,8 @@
+The stick figure is a simple representation of a human or animal, consisting of straight lines and a circle. 
+
+For a human stick figure, start with a vertical line for the body, which represents the torso. At the top of the line, draw a small circle for the head. Add two short lines extending from the bottom of the torso for the legs, and two longer lines extending from the sides of the torso for the arms. The legs can be straight or slightly bent at the knees, depending on the pose you want to depict. The arms can also be straight or bent at the elbows, resembling the shape of the letter 'L'. 
+Optional features include drawing a small line through the torso to indicate the waist, or adding small lines at the ends of the arms and legs to represent hands and feet.
+
+For an animal stick figure, the basic structure is similar. Start with a vertical line for the body and a small circle for the head. Add shorter lines for the legs, positioning them based on the animal you want to depict. For instance, for a dog stick figure, the front legs can be shorter and closer together than the back legs. The arms can be represented by shorter lines, and you can add small lines at the end of the legs to indicate paws or claws. 
+
+Remember, the goal is to simplify and convey the essence of the object, so focus on the basic shapes and proportions while omitting unnecessary details.

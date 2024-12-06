@@ -1,0 +1,1 @@
+There seems to be a slight misunderstanding. These pixel matrices represent singular numbers or symbols, not combination of numbers. To represent the number 32, we would have to create two separate 8x8 matrices, one for number 3 and one for number 2.

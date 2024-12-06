@@ -1,0 +1,9 @@
+To draw a simplified version of the digit 4, imagine a straight vertical line pointing downward, similar to the letter "I." Now, starting from the upper portion of this line, extend a shorter horizontal line towards the right. This line should be positioned slightly below the top of the vertical line. 
+
+Next, from the end of the shorter horizontal line, draw a diagonal line towards the bottom left, slanting inwards. This diagonal line should be approximately half the length of the vertical line and should meet it at a slight angle. 
+
+Finally, connect the bottom of the diagonal line with the bottom of the vertical line by drawing another straight horizontal line.
+
+In summary, the simplified digit 4 has a vertical line pointing downward with a shorter horizontal line extending towards the right from its upper portion. From the end of the shorter line, a diagonal line slants inwards towards the bottom left, meeting the vertical line. The digit is completed by connecting the bottom of the diagonal line with the bottom of the vertical line using a horizontal line.
+
+Remember, this description aims to convey the overall shape and key features of the digit, allowing the blind person to recognize it, rather than focusing on minute details.

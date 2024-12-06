@@ -1,0 +1,12 @@
+```
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+11111111
+```
+
+In this pixel matrix, the 0s represent white pixels and the 1s represent black pixels. The arrangement of the pixels forms the shape of the number 7.

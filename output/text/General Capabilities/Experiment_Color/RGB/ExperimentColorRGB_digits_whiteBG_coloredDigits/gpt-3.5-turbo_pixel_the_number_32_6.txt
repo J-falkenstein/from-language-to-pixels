@@ -1,0 +1,1 @@
+I'm sorry, but I cannot generate images. However, you can represent the number 32 using a pixel matrix by assigning the appropriate RGB values to each pixel.

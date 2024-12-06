@@ -1,0 +1,1 @@
+"""The symbol of a right bracket is a vertical line that extends from the upper left corner to the lower right corner. It is straight and aligned in a vertical orientation. The line is slightly longer on the right side, creating a diagonal slant as it descends from left to right. The top and bottom ends of the line are open, forming clear spaces."""

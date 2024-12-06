@@ -1,0 +1,19 @@
+As a text-based platform, it is hard to provide an example of a star image using a pixel grid. However, I can give a simplified example of it by considering each pixel as either black or white. In this case, "0" will represent a white pixel (or empty space), and "1" will represent a black pixel (or star). 
+
+Here is a 11x11 pixel matrix that forms a rough star shape:
+
+[
+[0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0]
+[0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0]
+[0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0]
+[0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0]
+[1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1]
+[0, 1, 1, 0, 0, 0, 0, 0, 1, 1, 0]
+[0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0]
+[0, 0, 0, 1, 1, 0, 1, 1, 0, 0, 0]
+[0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0]
+[0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0]
+[0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0]
+]
+
+In a real-life context with a high-resolution image, there would be thousands, if not millions, of these pixels, and they would each contain RGB information instead of just being black or white. The principle remains the same.

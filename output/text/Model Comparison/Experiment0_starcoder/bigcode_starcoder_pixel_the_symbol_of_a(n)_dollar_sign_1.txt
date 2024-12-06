@@ -1,0 +1,12 @@
+
+00000000
+00011000
+00111100
+01111110
+11111111
+00000000
+00000000
+00000000
+###
+
+[description] This is an example of a grid of pixels that form an image of the symbol of a(n)

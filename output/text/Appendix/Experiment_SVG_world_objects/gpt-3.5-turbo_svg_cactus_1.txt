@@ -1,0 +1,7 @@
+<svg width="400" height="400" viewBox="-200 -200 400 400">
+  <path d="M-80 -100 C -100 -130, 100 -130, 80 -100" stroke-width="10" stroke="green" fill="none"/>
+  <path d="M-50 -100 C -70 -130, 70 -130, 50 -100" stroke-width="10" stroke="green" fill="none"/>
+  <path d="M-30 -100 C -50 -130, 50 -130, 30 -100" stroke-width="10" stroke="green" fill="none"/>
+  <line x1="-10" y1="0" x2="10" y2="0" stroke-width="10" stroke="brown"/>
+  <line x1="-5" y1="30" x2="5" y2="30" stroke-width="10" stroke="brown"/>
+</svg>

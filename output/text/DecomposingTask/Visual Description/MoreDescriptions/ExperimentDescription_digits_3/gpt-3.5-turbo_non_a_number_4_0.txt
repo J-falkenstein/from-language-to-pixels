@@ -1,0 +1,11 @@
+To describe the visual characteristics of the number 4 to a blind person, the fundamental shape is similar to a tilted rectangle. Start by drawing a vertical line downward slightly angled to the right. At the bottom of this line, draw a horizontal line going to the left, slightly shorter in length. This forms the top part of the tilted rectangle.
+
+Next, draw a diagonal line starting from the top right corner of the vertical line towards the bottom left corner of the horizontal line. This diagonal line should be slightly shorter than the vertical line. The purpose of this line is to create a right angle at the bottom right corner of the tilted rectangle.
+
+Now, let's focus on the distinctive features. Towards the bottom of the vertical line, draw a small curved line that bends away from the rectangle, forming a hook-like shape. This hook distinguishes the number 4 from other digits.
+
+To indicate proportions and alignments, the horizontal line should be about two-thirds the length of the vertical line. The diagonal line should be slightly longer than half the length of the vertical line.
+
+Important spatial relationships include the vertical line being positioned more towards the left side of the rectangle, while the diagonal line intersects with the horizontal line at the bottom right corner, forming a right angle.
+
+By following these descriptions, a simplified version of the number 4 can be drawn, capturing its essential elements and allowing a blind person to recognize it.

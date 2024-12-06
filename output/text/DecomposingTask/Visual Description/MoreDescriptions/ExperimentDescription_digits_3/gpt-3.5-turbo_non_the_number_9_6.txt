@@ -1,0 +1,11 @@
+To describe the digit 9 to a visually impaired person, the fundamental shape of the number resembles a lowercase "g" or a balloon floating upwards. 
+
+Start by drawing a vertical line, starting from the top and stretching downwards about two-thirds of the total height. This vertical line serves as the main body of the digit. At the bottom endpoint of this line, make a small curve towards the right, forming a semi-circle or a small hook facing towards the right side.
+
+Now, imagine a small, slightly tilted "c" or a backward "3" shape starting from the upper-right side of the vertical line, just below the top endpoint. This shape should be about one-third of the height of the digit. The top endpoint of this "c" is slightly rounded, curving towards the left side.
+
+Positioned below the small "c" shape, draw a slightly curved line angling downwards and then bending towards the right side, resembling a backward "J". This line starts slightly below the middle of the vertical line and ends just above the bottom endpoint of the vertical line.
+
+Lastly, describe a small, half-closed semi-circle at the rightmost end of the "J" shape, approximately halfway between the bottom endpoint of the vertical line and the end of the "J". This semi-circle curves slightly upwards, facing the right side.
+
+Remember, the main body consists of a vertical line with a small hook at the bottom right, followed by a small, slightly tilted "c" shape starting from the upper-right side of the vertical line. Below the "c" shape, there is a curved line resembling a backward "J", and finally, a small, half-closed semi-circle is positioned at the rightmost end of the "J" shape.

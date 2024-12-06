@@ -1,0 +1,10 @@
+Here is an ASCII art representation of the capital letter P:
+
+```
+ _______ 
+|  _____|
+| |_____ 
+|_____  |
+ _____| |
+|______|
+```

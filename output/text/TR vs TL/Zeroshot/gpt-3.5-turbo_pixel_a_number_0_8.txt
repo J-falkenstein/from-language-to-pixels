@@ -1,0 +1,12 @@
+```
+00011000
+01111100
+11000110
+11000110
+11000110
+11000110
+01111100
+00011000
+```
+
+In this matrix, the 0s represent white pixels and the 1s represent black pixels. The arrangement of these pixels creates the image of the number 0.

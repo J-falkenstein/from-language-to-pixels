@@ -1,0 +1,1 @@
+Invalid input. The number 10 cannot be represented using a 16x16 pixel matrix as it requires more than 16 pixels in width.

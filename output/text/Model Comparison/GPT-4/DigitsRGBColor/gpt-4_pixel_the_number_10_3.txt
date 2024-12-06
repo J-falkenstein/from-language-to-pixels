@@ -1,0 +1,16 @@
+Given the width and height of a pixel matrix to present digital images, it would be very complex to manually depict a two-digit number like 10. A simple example of an 8x8 pixel matrix representation does not have enough resolution to represent more than one digit without losing granularity. However, assuming a larger grid of pixels and a very simplified visual representation, it could look something like this:
+
+```
+[
+(255,255,255)(255,255,255)(255,255,255)(0,0,0)(0,0,0)(255,255,255)(0,0,0)(0,0,0)(255,255,255)(255,255,255)
+(255,255,255)(255,255,255)(0,0,0)(255,255,255)(255,255,255)(0,0,0)(255,255,255)(255,255,255)(255,255,255)(255,255,255)
+(255,255,255)(255,255,255)(0,0,0)(255,255,255)(255,255,255)(0,0,0)(255,255,255)(255,255,255)(255,255,255)(255,255,255)
+(255,255,255)(255,255,255)(0,0,0)(255,255,255)(255,255,255)(0,0,0)(255,255,255)(0,0,0)(255,255,255)(255,255,255)
+(255,255,255)(255,255,255)(0,0,0)(255,255,255)(255,255,255)(0,0,0)(255,255,255)(0,0,0)(255,255,255)(255,255,255)
+(255,255,255)(255,255,255)(0,0,0)(255,255,255)(255,255,255)(0,0,0)(255,255,255)(0,0,0)(255,255,255)(255,255,255)
+(255,255,255)(255,255,255)(255,255,255)(0,0,0)(0,0,0)(255,255,255)(255,255,255)(0,0,0)(255,255,255)(255,255,255)
+(255,255,255)(255,255,255)(255,255,255)(255,255,255)(255,255,255)(255,255,255)(255,255,255)(255,255,255)(255,255,255)(255,255,255)
+]
+```
+
+Here, (0,0,0) represent black or digit number, and (255,255,255) represent white or the background. But in practice, images are represented by much larger matrices with hundreds or thousands of rows and columns, and that's how they're able to depict complex images with high levels of detail.

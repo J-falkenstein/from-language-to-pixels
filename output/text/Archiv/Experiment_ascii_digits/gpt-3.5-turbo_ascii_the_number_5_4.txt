@@ -1,0 +1,11 @@
+Here is an example of an ASCII art of the number 5:
+
+```
+  .-""""""-.
+ /          \
+|   5   5   |
+|  .   :   ,|
+\   .     /
+ '.     .'
+   '-...-'
+```

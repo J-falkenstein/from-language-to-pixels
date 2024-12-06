@@ -1,0 +1,7 @@
+"""The symbol of the at sign (@) is formed by two distinctive elements: a circle and a curved stroke. The circle serves as the foundation of the symbol, starting from the bottom left and extending counterclockwise to the top, then gently curving back towards the lower right. The circular shape is closed and becomes thinner towards the top and bottom, resembling an elongated oval. 
+
+Connected to the top right endpoint of the circle is a curved stroke that extends outward and downward in a smooth arc. This stroke is slightly elongated, curving gently to the left before tapering off to a point. It intersects with the right side of the circle at a diagonal angle, forming a seamless connection.
+
+The proportions of the at sign are well-balanced, with the circle taking up the majority of the space and the curved stroke adding a graceful accent. The alignment between the circle and the stroke is precise, with the curved stroke positioned at a slight angle to the right of the vertical axis passing through the center of the circle.
+
+Overall, the at sign is a visually pleasing combination of a circular form and a curved stroke, creating a unique and recognizable symbol."""

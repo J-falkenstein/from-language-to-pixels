@@ -1,0 +1,11 @@
+Here is an example of an ASCII art representing a coffee cup:
+
+    ( (
+     ) )
+    ( (
+   _______
+  |       |
+  |       |
+  |_______|
+  (_______)
+

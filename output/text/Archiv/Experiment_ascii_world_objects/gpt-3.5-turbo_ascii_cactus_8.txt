@@ -1,0 +1,9 @@
+Here is an example of an ascii art of a cactus:
+
+      /\
+     /  \
+    / __ \
+   /_/  \_\
+   \ \__/ /
+    \____/
+

@@ -1,0 +1,21 @@
+objects.
+
+1. Apple:
+The apple is a round fruit with a smooth surface. It is slightly bigger than a fist and has a slightly flattened bottom, making it stable when placed on a table. At the top, there is a small, indented stem that connects to a leafy cap. The color varies from bright green to shades of red and yellow.
+
+2. Chair:
+A chair is a rectangular object used for sitting. It has a flat, horizontal seat that is about knee height when placed on the floor. The backrest is vertical and slightly curved, providing support. On each side of the backrest, there are armrests that extend outwards. The legs are vertical and positioned at each corner of the seat, evenly distributed for stability.
+
+3. Bicycle:
+A bicycle consists of two main circular wheels connected by a horizontal bar. The front wheel is slightly smaller compared to the back wheel. Above the front wheel, there is a handlebar that allows steering. Towards the back, there is a seat mounted on a vertical post. Pedals are attached to a set of horizontal rods connected to the back wheel, allowing for propulsion.
+
+4. Book:
+A book is a rectangular object made of multiple sheets of paper bound together. The front cover is slightly bigger than the inside pages. The spine, located on the left side of the book, connects the front cover and back cover. The book can be opened to reveal the pages, which are connected to the spine and bound on the other side, forming a book block.
+
+5. Car:
+A car is a rectangular object with a sloping front and a flat roof. It has four circular wheels, two on each side, positioned at the corners of the car. Towards the front, there is a windshield that slopes backward and a pair of headlights on each side. At the rear, there are taillights. The doors are located on the sides, with handles to open and close them.
+
+6. Tree:
+A tree has a vertical trunk that extends from the ground, branching out into smaller and thinner limbs. The top of the tree forms a canopy of leaves, which vary in shape and size depending on the tree species. The leaves are positioned densely, creating a full appearance. The base of the tree widens to provide stability and support.
+
+Remember, the purpose of these descriptions is to provide basic visual information to a blind person, allowing them to create a simplified sketch.

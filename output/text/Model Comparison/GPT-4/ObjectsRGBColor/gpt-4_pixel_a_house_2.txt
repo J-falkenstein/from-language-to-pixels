@@ -1,0 +1,12 @@
+The pixel matrix for a house would be quite large and complex given the various details and colors involved in its representation. For purposes of depiction, a simple example is shown below, representing a very small and simplified monochrome (black and white) house.
+
+[ (255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255) ]
+[ (255, 255, 255)(255, 255, 255)(255, 255, 255)(0, 0, 0)(0, 0, 0)(255, 255, 255)(255, 255, 255)(255, 255, 255) ]
+[ (255, 255, 255)(255, 255, 255)(0, 0, 0)(255, 255, 255)(255, 255, 255)(0, 0, 0)(255, 255, 255)(255, 255, 255) ]
+[ (255, 255, 255)(0, 0, 0)(255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255)(0, 0, 0)(255, 255, 255) ]
+[ (255, 255, 255)(0, 0, 0)(255, 255, 255)(0, 0, 0)(0, 0, 0)(255, 255, 255)(0, 0, 0)(255, 255, 255) ]
+[ (255, 255, 255)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0)(255, 255, 255) ]
+[ (255, 255, 255)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0)(255, 255, 255) ]
+[ (255, 255, 255)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0)(255, 255, 255) ]
+
+Note: This 8 x 8 pixel matrix is very simplified and does not capture the complexity of an actual house image. Real world images would use much larger matrices with more complex color combinations.

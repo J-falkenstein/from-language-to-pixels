@@ -1,0 +1,13 @@
+Here is an example of a grid of pixels that form an image of a house:
+
+0 0 0 0 0 0 0 0
+0 0 1 1 1 1 0 0
+0 1 0 0 0 0 1 0
+0 1 0 0 0 0 1 0
+0 1 1 1 1 1 1 0
+0 1 0 0 0 0 1 0
+0 1 0 0 0 0 1 0
+0 1 0 0 0 0 1 0
+0 0 0 0 0 0 0 0
+
+In this image, the 0s represent black pixels and the 1s represent white pixels. The arrangement of the pixels forms the shape of a house.

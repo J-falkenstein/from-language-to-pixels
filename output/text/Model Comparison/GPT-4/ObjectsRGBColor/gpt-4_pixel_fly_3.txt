@@ -1,0 +1,12 @@
+As a text-based AI, I'm unable to draw images. However, here's a rough ASCII representation of how a fly might look in a pixel matrix:
+
+[ (0, 0, 0) (0, 0, 0) (255, 255, 255) (255, 255, 255) (255, 255, 255) (255, 255, 255) (0, 0, 0) (0, 0, 0) ]
+[ (0, 0, 0) (0, 0, 0) (255, 255, 255) (0, 0, 0) (0, 0, 0) (255, 255, 255) (0, 0, 0) (0, 0, 0) ]
+[ (255, 255, 255) (255, 255, 255) (0, 0, 0) (0, 0, 0) (0, 0, 0) (0, 0, 0) (255, 255, 255) (255, 255, 255) ]
+[ (255, 255, 255) (0, 0, 0) (0, 0, 0) (255, 255, 255) (255, 255, 255) (0, 0, 0) (0, 0, 0) (255, 255, 255) ]
+[ (255, 255, 255) (0, 0, 0) (0, 0, 0) (255, 255, 255) (255, 255, 255) (0, 0, 0) (0, 0, 0) (255, 255, 255) ]
+[ (255, 255, 255) (255, 255, 255) (0, 0, 0) (0, 0, 0) (0, 0, 0) (0, 0, 0) (255, 255, 255) (255, 255, 255) ]
+[ (0, 0, 0) (0, 0, 0) (255, 255, 255) (0, 0, 0) (0, 0, 0) (255, 255, 255) (0, 0, 0) (0, 0, 0) ]
+[ (0, 0, 0) (0, 0, 0) (255, 255, 255) (255, 255, 255) (255, 255, 255) (255, 255, 255) (0, 0, 0) (0, 0, 0) ]
+
+Note that academic studies on computer vision usually use larger matrices and more complex shapes for accuracy. Also, keep in mind that the example above is a simplification, and a real digital image of a fly would be much more detailed and would use more colors.

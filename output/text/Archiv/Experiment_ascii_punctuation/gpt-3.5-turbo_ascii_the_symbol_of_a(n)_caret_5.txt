@@ -1,0 +1,6 @@
+Here is an ASCII art representation of the caret symbol (^):
+
+   ^
+  ^ ^
+ ^   ^
+^     ^

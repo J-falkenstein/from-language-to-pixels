@@ -1,0 +1,11 @@
+As the images are represented as an 8 by 8 pixel grid, the number 10 would be represented as two different images, one for the number 1 and one for the number 0. Here, we illustrate this as two consecutive grids.
+
+The number 1:
+00000000
+00011000
+00111000
+00011000
+00011000
+00011000
+01111110
+00000000

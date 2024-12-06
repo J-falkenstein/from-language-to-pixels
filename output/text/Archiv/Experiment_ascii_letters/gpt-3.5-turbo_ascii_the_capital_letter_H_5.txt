@@ -1,0 +1,11 @@
+Here is an example of an ascii art showing the capital letter H:
+
+```
+  __  __  
+ |  \/  | 
+ | \  / | 
+ | |\/| | 
+ | |  | | 
+ |_|  |_| 
+```
+

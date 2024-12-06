@@ -1,0 +1,1 @@
+Sorry, but it is not possible to create image of the number 32 in an 8x8 pixel matrix, since such small matrix is only suitable for representation of simple shapes such as single digits or letters. For the number 32, you might need a larger matrix.

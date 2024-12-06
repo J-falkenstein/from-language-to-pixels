@@ -1,0 +1,1 @@
+"""The single quote symbol is a small curved line that resembles a tiny, backwards letter 'c'. It starts at a point on the left side and curves inward towards the right, ending at a point close to where it began. The line is relatively short and has a slight slant to the right. It is typically positioned above the center of the line it is meant to indicate or emphasize."""

@@ -1,0 +1,10 @@
+Here is an ascii art of the number 3:
+
+```
+  ___  
+ / _ \ 
+| |_) |
+|  __/ 
+| |    
+|_|    
+```

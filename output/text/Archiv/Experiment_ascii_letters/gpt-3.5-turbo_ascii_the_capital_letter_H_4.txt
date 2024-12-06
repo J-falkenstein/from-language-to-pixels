@@ -1,0 +1,11 @@
+Here is an example of an ASCII art representation of the capital letter H:
+
+```
+H       H
+H       H
+HHHHHHHHH
+H       H
+H       H
+H       H
+H       H
+```

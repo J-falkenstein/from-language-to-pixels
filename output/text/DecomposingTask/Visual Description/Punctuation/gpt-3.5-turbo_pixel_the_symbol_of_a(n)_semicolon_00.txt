@@ -1,0 +1,7 @@
+A simplified visual representation of the symbol of a semicolon that can be created in an 8x8 pixel artwork can be described as follows:
+
+The symbol consists of two distinct parts, each occupying a quadrant of the 8x8 pixel grid. The upper-left quadrant is a narrow vertical line that extends from the top to the bottom of the quadrant. The upper-right quadrant is a larger loop or curve, starting from the top-right corner and smoothly curving towards the center of the quadrant, and then turning back towards the bottom-right corner, forming a half-circle shape.
+
+The vertical line on the left side of the symbol should be centered in the left half of the grid, with a thickness of one pixel. The curved part on the right side should start about one pixel below the top-right corner and follow a smooth curve towards the center. The curve should then change direction and continue downwards, ending about one pixel above the bottom-right corner.
+
+Maintaining the proportions and alignments described above will ensure that the simplified rendition of the semicolon symbol is recognizable within the constraints of an 8x8 pixel artwork.

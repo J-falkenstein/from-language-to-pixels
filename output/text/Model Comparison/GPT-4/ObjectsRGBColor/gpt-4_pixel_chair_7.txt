@@ -1,0 +1,12 @@
+Assuming the image of a chair uses black for the chair's outline and white for other areas:
+
+[ (255, 255, 255)(255, 255, 255)(255, 255, 255)(0, 0, 0)(0, 0, 0)(255, 255, 255) (255, 255, 255)(255, 255, 255) ]
+[ (255, 255, 255)(255, 255, 255)(0, 0, 0)(0, 0, 0)(0, 0, 0)(255, 255, 255)(255, 255, 255)(255, 255, 255) ]
+[ (255, 255, 255)(0, 0, 0)(0, 0, 0)(255, 255, 255) (255, 255, 255) (0, 0, 0)(0, 0, 0)(255, 255, 255) ]
+[ (255, 255, 255)(0, 0, 0)(255, 255, 255)(0, 0, 0)(0, 0, 0)(255, 255, 255)(0, 0, 0)(255, 255, 255) ]
+[ (0, 0, 0)(0, 0, 0)(255, 255, 255)(0, 0, 0)(0, 0, 0)(255, 255, 255)(0, 0, 0)(0, 0, 0) ]
+[ (0, 0, 0)(0, 0, 0)(255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255)(0, 0, 0)(0, 0, 0) ]
+[ (255, 255, 255)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0)(255, 255, 255) ]
+[ (255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255) ]
+
+In this simple representation, a straight back and seat chair with four legs is shown. The black pixels form the outline of the chair and the white pixels are the background. It should be noted that this is an overly simplified representation for the purpose of explanation and actual images contain far more pixels and a wider array of colors.

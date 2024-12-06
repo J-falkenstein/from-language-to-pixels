@@ -1,0 +1,1 @@
+"""The capital letter O is a perfect circle that is symmetrical in shape. It has a smooth, continuous outline, with no angles or corners. The circle is centered within its boundaries, meaning that the space between the circle and the edges of the letter is equal on all sides. The interior of the circle is typically empty, forming a clear, open space within the letter."""

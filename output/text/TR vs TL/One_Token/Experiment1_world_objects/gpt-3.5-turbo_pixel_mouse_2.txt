@@ -1,0 +1,10 @@
+Unfortunately, as an AI text-based model, I am unable to directly generate or display images. However, I can provide you with a pixel matrix representation of a mouse image that you can visualize by imagining a grid of 8 by 8 pixels. Here is an example:
+ 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0
+ 0 1 1 1 1 1 0 0
+ 0 1 0 0 0 1 0 0
+ 0 0 1 1 1 0 0 0
+ 0 0 0 0 1 0 0 0
+ 0 0 0 0 1 1 0 0
+ 0 0 0 0 0 0 0 0
+Please note that this is just a simplified representation and may not accurately depict a realistic mouse image.

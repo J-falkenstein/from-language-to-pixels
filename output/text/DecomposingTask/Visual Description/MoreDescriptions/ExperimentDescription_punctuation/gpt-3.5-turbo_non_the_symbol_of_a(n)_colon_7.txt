@@ -1,0 +1,1 @@
+"""The symbol of a colon is comprised of two vertically aligned dots. The dots are equal in size and shape, and are positioned one on top of the other in perfect alignment. The bottom dot serves as a base, while the top dot is positioned directly above it, with no space in between. Both dots are circular in shape, with smooth edges and no visible irregularities."""

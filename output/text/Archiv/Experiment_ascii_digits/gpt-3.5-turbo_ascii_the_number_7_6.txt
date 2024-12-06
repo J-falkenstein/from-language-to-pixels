@@ -1,0 +1,10 @@
+Here is an example ascii art that forms an image of the number seven:
+
+'''
+ _______ 
+|  ____ \
+| |__\_| |
+|  ____  |
+| |___| |
+|_______|
+'''

@@ -1,0 +1,9 @@
+Here is an example of an ascii art representing the number nine:
+
+'''
+ .-----.
+/  ____|
+\  \ 
+ .-`   |
+|_____/ 
+'''

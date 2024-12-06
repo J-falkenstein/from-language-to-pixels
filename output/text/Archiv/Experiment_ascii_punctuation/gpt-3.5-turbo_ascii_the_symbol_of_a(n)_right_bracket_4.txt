@@ -1,0 +1,6 @@
+Here is an example of an ascii art showing the right bracket symbol:
+
+```
+     ______ 
+    |______]
+```

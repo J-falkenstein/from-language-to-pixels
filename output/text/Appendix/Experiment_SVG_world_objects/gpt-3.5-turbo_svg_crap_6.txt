@@ -1,0 +1,9 @@
+<svg width="200" height="200" viewBox="-100 -100 200 200">
+  <circle cx="0" cy="0" r="70" fill="#8B4513" />
+  <circle cx="-30" cy="-30" r="25" fill="brown" />
+  <circle cx="30" cy="-30" r="25" fill="brown" />
+  <circle cx="-25" cy="0" r="25" fill="brown" />
+  <circle cx="25" cy="0" r="25" fill="brown" />
+  <circle cx="-30" cy="30" r="25" fill="brown" />
+  <circle cx="30" cy="30" r="25" fill="brown" />
+</svg>

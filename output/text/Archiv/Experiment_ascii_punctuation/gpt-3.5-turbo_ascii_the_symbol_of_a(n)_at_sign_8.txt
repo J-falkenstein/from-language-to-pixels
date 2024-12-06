@@ -1,0 +1,8 @@
+Here is an ASCII art representation of the at sign (@):
+
+```
+   __  
+ /  _`) 
+(  (_(_) 
+\____)  
+```

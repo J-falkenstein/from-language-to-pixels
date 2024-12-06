@@ -1,0 +1,11 @@
+```
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+11111111
+```
+In this example, each "1" represents a black pixel while each "0" represents a white pixel. The combination of these pixels creates the image of the number 7 on the screen.

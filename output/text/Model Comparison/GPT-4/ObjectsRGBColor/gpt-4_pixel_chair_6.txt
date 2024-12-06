@@ -1,0 +1,5 @@
+Unfortunately, due to the limited representation of text, it is impossible to provide a pixel matrix that accurately represents an image of a chair. A pixel matrix for such a complex image would not only be vast, but also unreadable in a text format. The examples provided above utilize very simple 8x8 matrices to represent uncomplicated, blocky images of numbers. These are meant to give a basic understanding of how pixel matrices work. 
+
+In practice, the images we see on our digital screens, such as a photo of a chair or even this text, are composed of hundreds of thousands to millions of pixels, each with their own RGB value. 
+
+To visualize this, you could imagine an extremely large grid, with each cell in the grid representing a pixel. Each of these pixels would have a different RGB value corresponding to the color of that point in the image. All combined, these pixels would form the image of the chair. However, attempting to represent this in a text format would be impractical and not very illuminating.

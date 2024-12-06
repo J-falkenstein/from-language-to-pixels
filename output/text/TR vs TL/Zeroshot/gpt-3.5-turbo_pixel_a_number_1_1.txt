@@ -1,0 +1,12 @@
+```
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+```
+
+Each 0 represents a white pixel and each 1 represents a black pixel. In this example, all pixels are white, hence forming a blank image.

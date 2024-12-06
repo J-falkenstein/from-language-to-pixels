@@ -1,0 +1,1 @@
+Unfortunately, the example of a grid of pixels forming the symbol of a caret is missing. Could you please provide the pixel values for each pixel in the grid?

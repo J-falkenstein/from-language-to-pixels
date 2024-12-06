@@ -1,0 +1,5 @@
+The digit "7" has a straight vertical line as its fundamental shape. Imagine drawing a tall and straight line, starting from the top and extending downwards. This line should be placed slightly towards the right side of the drawing area.
+
+To distinguish it from other digits, the top of the vertical line should have a horizontal line extending towards the right, creating a small and short horizontal stroke. This stroke is positioned slightly above the midpoint of the vertical line and should be approximately half the length of the vertical line.
+
+That's it! The key features of the digit 7 are a straight vertical line with a short horizontal stroke positioned towards the top-right. Remember to mention the alignment of the vertical line towards the right and the proportions of the horizontal stroke compared to the vertical line.

@@ -1,0 +1,12 @@
+The following is an abstracted representation of a simple 8 by 8 white left parenthesis symbol on a black background:
+
+[ (0, 0, 0)(0, 0, 0)(255, 255, 255)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0) ]
+[ (0, 0, 0)(255, 255, 255)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0) ]
+[ (0, 0, 0)(255, 255, 255)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0) ]
+[ (0, 0, 0)(255, 255, 255)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0) ]
+[ (0, 0, 0)(255, 255, 255)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0) ]
+[ (0, 0, 0)(255, 255, 255)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0) ]
+[ (0, 0, 0)(255, 255, 255)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0) ]
+[ (0, 0, 0)(0, 0, 0)(255, 255, 255)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0) ]
+
+Please note that these are extremely simplified and abstract examples and real pixelated images would require a matrix with a much larger dimension to produce a clear image.

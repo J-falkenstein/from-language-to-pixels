@@ -1,0 +1,11 @@
+Sorry, there seems to be a misunderstanding. A single 8 by 8 pixel matrix can only represent a single digit or character at a time. The number 10 would require two separate grid matrices as it is a two-digit number. Here are the grid matrices for 1 and 0 separately.
+
+Number 1:
+00000000
+00011000
+00111000
+00011000
+00011000
+00011000
+00111110
+00000000

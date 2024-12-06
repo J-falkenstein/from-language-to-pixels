@@ -1,0 +1,10 @@
+Here is an ascii art of the capital letter Q:
+
+```
+   ______
+  / ____ \
+ | |    | |
+ | |    | |
+ | |___ | |
+  \____/|_|
+```

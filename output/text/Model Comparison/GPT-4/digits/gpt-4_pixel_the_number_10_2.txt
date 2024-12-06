@@ -1,0 +1,3 @@
+Sorry, but it is not possible to create an image of the number 10 using an 8x8 matrix while maintaining the character's integrity. A single digit can be created in a matrix of this size, such as examples previously shown. 
+
+The number 10 consists of two digit characters, 1 and 0, each of which would need its own 8x8 matrix to be displayed clearly.

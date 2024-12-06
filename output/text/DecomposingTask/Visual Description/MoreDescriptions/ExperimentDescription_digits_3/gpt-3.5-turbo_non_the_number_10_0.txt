@@ -1,0 +1,7 @@
+To draw the number 10, imagine a vertical line that stands straight like a pole. The line starts at the top and stops at the bottom. 
+
+At the top of the line, imagine a small circle or dot. This dot represents the first digit of the number 10. It is placed slightly above the middle of the line, but not too far up.
+
+Now, at the bottom of the line, imagine a slightly larger circle or dot. This dot represents the second digit of the number 10. It is placed directly below the first dot and touches the bottom of the line. 
+
+Remember, the most important feature is the vertical line with two dots, one on top and one on the bottom, representing the digits one and zero respectively. The dots are aligned vertically, one above the other.

@@ -1,0 +1,14 @@
+<svg width="200" height="400" viewBox="-100 -200 200 400">
+
+  <rect x="-20" y="-180" width="40" height="60" fill="#6DB65B" />
+
+  <circle cx="0" cy="-100" r="10" fill="#6DB65B" />
+  <circle cx="20" cy="-90" r="8" fill="#6DB65B" />
+  <circle cx="-20" cy="-90" r="8" fill="#6DB65B" />
+
+  <rect x="-10" y="0" width="20" height="200" fill="#6DB65B" />
+
+  <path d="M -10,200 C -10,180 10,180 10,200 L 20,220 C 20,240 -20,240 -20,220 Z" fill="#6DB65B" />
+  <path d="M -10,200 C -10,180 -30,180 -30,200 L -40,220 C -40,240 40,240 40,220 Z" fill="#6DB65B" />
+
+</svg>

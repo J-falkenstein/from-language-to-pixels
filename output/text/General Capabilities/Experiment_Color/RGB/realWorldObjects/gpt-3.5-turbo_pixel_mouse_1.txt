@@ -1,0 +1,1 @@
+Unfortunately, without the actual pixel values, it is not possible to provide an accurate representation of an image of a mouse. However, the concept remains the same, where each pixel in the grid would represent a specific RGB color value to form the desired image.

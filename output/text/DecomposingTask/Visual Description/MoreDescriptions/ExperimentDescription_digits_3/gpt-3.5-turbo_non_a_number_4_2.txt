@@ -1,0 +1,13 @@
+The number 4 has a simple and unique shape. Start by drawing a vertical line that goes straight down from the top to the bottom. This line should be slightly taller than the other digits. Now, visualize the top part of a square, beginning from the top end of the vertical line. Move to the right and draw a short horizontal line that goes to the right, parallel to the ground. This line should be placed a bit below the top end of the vertical line.
+
+Next, connect the end of the horizontal line you just drew to the bottom part of the vertical line. This line should be diagonal and slanted, moving to the right and downwards. The diagonal line should be the same length as the horizontal line you drew earlier.
+
+Finally, finish off the number 4 by drawing another horizontal line starting from the bottom end of the diagonal line. This line should go to the left, parallel to the ground, and connect to the vertical line you initially drew.
+
+To summarize:
+- Start with a vertical line, taller than other digits.
+- Draw a short horizontal line to the right, below the top end of the vertical line.
+- Connect the end of the horizontal line to the bottom part of the vertical line with a diagonal line slanting to the right and downwards.
+- Add a final horizontal line starting from the bottom end of the diagonal line, going to the left and connecting to the vertical line.
+
+Remember, the key features of the number 4 are the vertical line, the short horizontal line at the top, and the diagonal line slanting to the right.

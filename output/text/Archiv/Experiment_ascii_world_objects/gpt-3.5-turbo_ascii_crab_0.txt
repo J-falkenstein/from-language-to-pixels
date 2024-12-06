@@ -1,0 +1,9 @@
+Here is an ascii art of a crab:
+
+             //
+           //
+         ,'_/
+       ,//  
+     ,//
+  __(/
+-/__

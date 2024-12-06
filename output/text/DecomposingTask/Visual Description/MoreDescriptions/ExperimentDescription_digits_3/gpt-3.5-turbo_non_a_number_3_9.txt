@@ -1,0 +1,11 @@
+The digit 3 has a rounded shape resembling a curved loop. Its fundamental shape consists of two main curves connected to form a loop. 
+
+Start at the top left corner and move downward towards the right at a slight angle. The first curve is long and smooth, starting thick and gradually tapering down to a thinner line towards the bottom. 
+
+As you reach the bottom, the curve turns sharply upwards with a tighter bend, moving towards the left side. This second curve is shorter and slightly thicker than the first one. It goes up diagonally, but not all the way to the top.
+
+At the top left corner of the second curve, there is a small straight line that connects to the top of the first curve. This line is horizontal and very short, forming a tiny opening on the left side of the digit.
+
+Imagine the digit 3 as a loop with a long, smooth curve starting from the top left and descending towards the right. Then, a shorter and thicker curve bends upwards towards the left, not reaching all the way to the top. On the left side of the loop, a small straight line connects the top of the second curve to the top of the first curve, creating a small opening.
+
+Remember, these descriptions aim to provide a simplified version of the digit's shape, focusing on its most important features to enable a blind person to draw it accurately.

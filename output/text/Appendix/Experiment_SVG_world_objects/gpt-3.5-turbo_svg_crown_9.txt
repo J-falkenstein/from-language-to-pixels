@@ -1,0 +1,7 @@
+<svg width="200" height="200" viewBox="-100 -100 200 200">
+  <path d="M-50,-80 Q0,-130 50,-80 Q80,-50 50,0 Q0,5 -50,0 Q-80,-50 -50,-80" fill="#FFD700" />
+  <path d="M-50,-80 Q0,-130 50,-80" fill="#FFC72C" />
+  <path d="M50,-80 Q80,-50 50,0" fill="#FFC72C" />
+  <path d="M-50,0 Q0,5 50,0" fill="#FFC72C" />
+  <path d="M-50,-80 Q-80,-50 -50,0 Q0,5 50,0 Q80,-50 50,-80" fill="none" stroke="#DAA520" stroke-width="6" />
+</svg>

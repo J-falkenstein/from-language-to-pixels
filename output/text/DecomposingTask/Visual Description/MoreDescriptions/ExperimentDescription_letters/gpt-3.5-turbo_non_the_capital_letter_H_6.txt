@@ -1,0 +1,1 @@
+"""The capital letter H is composed of two vertical lines of equal length, placed parallel to each other. These lines are joined at their midpoint by a horizontal line that is shorter in length than the vertical lines. The vertical lines extend upward and downward from the horizontal line with uniform alignment and spacing."""

@@ -1,0 +1,10 @@
+Here is an example of an 8 by 8 pixel matrix showing a chess board:
+
+1 0 1 0 1 0 1 0
+0 1 0 1 0 1 0 1
+1 0 1 0 1 0 1 0
+0 1 0 1 0 1 0 1
+1 0 1 0 1 0 1 0
+0 1 0 1 0 1 0 1
+1 0 1 0 1 0 1 0
+0 1 0 1 0 1 0 1

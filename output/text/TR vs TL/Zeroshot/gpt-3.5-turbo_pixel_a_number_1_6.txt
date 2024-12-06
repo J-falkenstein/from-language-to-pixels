@@ -1,0 +1,14 @@
+```
+---------
+|X      |
+|XXXXX  |
+|  X    |
+|XXXX  X|
+| X||||||
+| X||||||
+|  X|X|X|
+|  X|X|X|
+---------
+```
+
+In this representation, the black pixels are represented by "X" and the white pixels are represented by spaces.

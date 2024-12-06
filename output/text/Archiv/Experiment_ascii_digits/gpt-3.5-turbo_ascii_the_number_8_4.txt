@@ -1,0 +1,11 @@
+Here is an example ascii art that forms an image of the number eight:
+
+```
+ 8888888  
+8      8  
+8      8  
+ 8888888  
+8      8  
+8      8  
+ 8888888  
+```

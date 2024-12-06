@@ -1,0 +1,6 @@
+<svg width="200" height="200" viewBox="0 0 200 200">
+  <path d="M20,180 L20,20 L70,20 Q100,20 120,40 Q140,60 140,100 Q140,140 120,160 Q100,180 70,180 Z" fill="#5A96B1" />
+  <path d="M70,100 Q100,100 100,125" fill="none" stroke="#FFFFFF" stroke-width="3" />
+  <path d="M100,125 Q130,125 130,100" fill="none" stroke="#FFFFFF" stroke-width="3" />
+  <path d="M70,100 L100,75 L130,100" fill="none" stroke="#FFFFFF" stroke-width="3" />
+</svg>

@@ -1,0 +1,11 @@
+Here is an example of an ASCII art representing the capital letter Y:
+
+```
+   Y
+  Y
+   Y
+    Y
+    Y
+    Y
+    Y
+```

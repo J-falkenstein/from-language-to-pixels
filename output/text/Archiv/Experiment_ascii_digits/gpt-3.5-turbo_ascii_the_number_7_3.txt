@@ -1,0 +1,10 @@
+Here is an example of an ASCII art representation of the number 7:
+
+```
+  _______  
+ / ____\ \ 
+( (___\_| |
+ \____    |
+  ____\   |
+ (_______/ 
+```

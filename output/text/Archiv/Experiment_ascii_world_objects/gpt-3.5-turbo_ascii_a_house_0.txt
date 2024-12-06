@@ -1,0 +1,10 @@
+Here is an ASCII art representation of a house:
+
+     __
+    |  |
+    |  |
+    |__|
+   /|__|\
+  //     \\
+ //       \\
+============

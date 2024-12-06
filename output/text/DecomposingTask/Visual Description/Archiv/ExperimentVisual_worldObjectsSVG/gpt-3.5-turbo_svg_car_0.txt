@@ -1,0 +1,36 @@
+<svg width="400" height="200" viewBox="-200 -100 400 200">
+  <!-- Car body -->
+  <rect x="-120" y="-40" width="240" height="80" fill="lightblue" />
+  
+  <!-- Hood -->
+  <polygon points="-120,-40 -120,-50 0,-80 120,-50 120,-40" fill="lightblue" />
+  
+  <!-- Front windshield -->
+  <polygon points="-100,-40 -80,-40 -60,-60 -80,-80 -100,-80" fill="lightblue" />
+  
+  <!-- Front wheels -->
+  <circle cx="-90" cy="20" r="15" fill="black" />
+  <circle cx="90" cy="20" r="15" fill="black" />
+  
+  <!-- Headlights -->
+  <circle cx="-70" cy="-10" r="5" fill="yellow" />
+  <circle cx="70" cy="-10" r="5" fill="yellow" />
+  
+  <!-- Doors -->
+  <rect x="-70" y="-30" width="40" height="60" fill="lightblue" />
+  <rect x="30" y="-30" width="40" height="60" fill="lightblue" />
+  
+  <!-- Side windows -->
+  <rect x="-60" y="-25" width="20" height="30" fill="lightblue" />
+  <rect x="40" y="-25" width="20" height="30" fill="lightblue" />
+  
+  <!-- Rear windshield -->
+  <polygon points="-40,-40 -20,-40 0,-60 -20,-80 -40,-80" fill="lightblue" />
+  
+  <!-- Taillights -->
+  <circle cx="-50" cy="10" r="5" fill="red" />
+  <circle cx="50" cy="10" r="5" fill="red" />
+  
+  <!-- Trunk -->
+  <rect x="-40" y="-15" width="80" height="30" fill="lightblue" />
+</svg>

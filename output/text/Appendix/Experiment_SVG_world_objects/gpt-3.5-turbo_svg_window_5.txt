@@ -1,0 +1,18 @@
+<svg width="400" height="400">
+  <rect x="50" y="50" width="300" height="300" fill="#98C1D9" />
+
+  <line x1="100" y1="50" x2="100" y2="350" stroke="#F9CDAD" stroke-width="10" />
+  <line x1="300" y1="50" x2="300" y2="350" stroke="#F9CDAD" stroke-width="10" />
+  <line x1="50" y1="200" x2="350" y2="200" stroke="#F9CDAD" stroke-width="10" />
+
+  <rect x="70" y="70" width="260" height="260" fill="white" />
+
+  <line x1="70" y1="200" x2="330" y2="200" stroke="#F9CDAD" stroke-width="10" />
+  <line x1="200" y1="70" x2="200" y2="330" stroke="#F9CDAD" stroke-width="10" />
+
+  <line x1="120" y1="70" x2="120" y2="330" stroke="#F9CDAD" stroke-width="5" />
+  <line x1="280" y1="70" x2="280" y2="330" stroke="#F9CDAD" stroke-width="5" />
+
+  <line x1="70" y1="120" x2="330" y2="120" stroke="#F9CDAD" stroke-width="5" />
+  <line x1="70" y1="280" x2="330" y2="280" stroke="#F9CDAD" stroke-width="5" />
+</svg>

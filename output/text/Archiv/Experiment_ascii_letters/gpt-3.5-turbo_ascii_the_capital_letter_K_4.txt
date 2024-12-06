@@ -1,0 +1,10 @@
+Here is an example of an ascii art showing the letter K:
+
+```
+ __    __
+|  |  |  |
+|  |__|  |
+|   __   |
+|  |  |  |
+|__|  |__|
+```

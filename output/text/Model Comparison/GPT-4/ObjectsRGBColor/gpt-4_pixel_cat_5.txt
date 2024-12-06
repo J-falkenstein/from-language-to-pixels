@@ -1,0 +1,16 @@
+For simplicity and readability, let’s represent a simple 8 by 8 pixel image of a cat where each pixel is represented as a single character: 'X' for black and '-' for white.
+
+```
+[ '---------X-----' ]
+[ '-------XXXX----' ]
+[ '------XX--XX---' ]
+[ '------X----X---' ]
+[ '-----XX----X---' ]
+[ '----X---XX-----' ]
+[ '---X--X--------' ]
+[ '--X-X----------' ]
+```
+
+In this simple representation, the 'X' characters form the shape of a cat.
+
+In a real image, every 'X' and '-' would be a pixel and have an RGB color based on color depth, for example (0, 0, 0) for black and (255, 255, 255) for white in an 8-bit RGB image. More complex images would also have more shades and colors.

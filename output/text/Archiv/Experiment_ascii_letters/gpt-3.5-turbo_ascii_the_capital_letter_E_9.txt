@@ -1,0 +1,10 @@
+Here is an example ascii art of the capital letter E:
+
+'''
+ _______
+|   ____|
+|  |____ 
+|   ____|
+|  |____ 
+|_______|
+'''

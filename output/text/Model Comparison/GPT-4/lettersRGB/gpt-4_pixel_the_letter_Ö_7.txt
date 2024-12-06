@@ -1,0 +1,13 @@
+It's a bit more challenging to depict characters with diacritics as an example here in this format. But if we were to approximate it, the image might look something like this (where (0,0,0) represents black and (255,255,255) represents white):
+
+[ (255, 255, 255)(255, 255, 255)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0)(255, 255, 255)(255, 255, 255) ]
+[ (255, 255, 255)(0, 0, 0)(255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255)(0, 0, 0)(255, 255, 255) ]
+[ (255, 255, 255)(0, 0, 0)(255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255)(0, 0, 0)(255, 255, 255) ]
+[ (255, 255, 255)(255, 255, 255)(0, 0, 0)(255, 255, 255)(255, 255, 255)(0, 0, 0)(255, 255, 255)(255, 255, 255) ]
+[ (255, 255, 255)(0, 0, 0)(255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255)(0, 0, 0)(255, 255, 255) ]
+[ (255, 255, 255)(0, 0, 0)(255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255)(0, 0, 0)(255, 255, 255) ]
+[ (255, 255, 255)(255, 255, 255)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0)(255, 255, 255)(255, 255, 255) ]
+[ (255, 255, 255)(255, 255, 255)(255, 255, 255)(0, 0, 0)(0, 0, 0)(255, 255, 255)(255, 255, 255)(255, 255, 255) ]
+[ (255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255) ]
+
+Please note that these representations are super simplified and real digital images would require much larger matrices to depict even simple characters with details. The real implementations would also have different sizes of pixels and color attributes (like hue, saturation, and brightness) based on the image and its quality.

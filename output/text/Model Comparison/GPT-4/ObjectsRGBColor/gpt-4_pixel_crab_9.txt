@@ -1,0 +1,9 @@
+The representation of complex shapes like a crab in a pixel matrix would require a large number of pixels to accurately depict the image. As such, it becomes quite challenging to represent these images in text format. 
+
+However, let's take abstract example of a simple, low-resolution depiction of a crab in a 10x10 pixel matrix:
+
+[ (255, 255, 255) (255, 255, 255) (255, 255, 255) (255, 255, 255) (255, 0, 0) (255, 0, 0) (255, 255, 255) (255, 255, 255) (255, 255, 255) (255, 255, 255)]
+
+[..repeat…]
+
+This example doesn't actually form an image of a crab. But following similar principles and using a larger grid with a more in-depth color range, one would be able to form a crab or any other complex image. You will often need software to draw the image and then inspect the resulting pixel values to see the actual pixel matrix.

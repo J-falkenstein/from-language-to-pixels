@@ -1,0 +1,8 @@
+<svg width="200" height="200" viewBox="-100 -100 200 200">
+  <circle cx="0" cy="0" r="70" fill="#FEDCD2" />
+  <path d="M-45,-40 A45,45 0 0,1 -45,40" fill="#FDB15B" />
+  <path d="M45,-40 A45,45 0 0,0 45,40" fill="#FDB15B" />
+  <circle cx="-30" cy="-20" r="10" fill="black" />
+  <circle cx="30" cy="-20" r="10" fill="black" />
+  <path d="M-25,20 Q0,60 25,20" fill="none" stroke="black" stroke-width="5" />
+</svg>

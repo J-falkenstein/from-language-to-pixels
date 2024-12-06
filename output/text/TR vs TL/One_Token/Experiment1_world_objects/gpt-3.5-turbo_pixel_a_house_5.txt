@@ -1,0 +1,12 @@
+Unfortunately, I am not able to provide a visual representation of the image. However, I can describe the image of a house using a pixel matrix:
+
+ 1 1 1 1 1 1 1 1
+ 1 0 0 0 0 0 0 1
+ 1 1 0 0 0 0 1 1
+ 1 1 1 0 0 1 1 1
+ 1 0 1 1 1 1 0 1
+ 1 0 1 1 1 1 0 1
+ 1 0 0 0 0 0 0 1
+ 1 0 0 0 0 0 0 1
+
+In this pixel matrix, the number 1 represents a black pixel, while the number 0 represents a white pixel. The image represents a simplified outline of a house, with a square-shaped body and a triangular-shaped roof on top.

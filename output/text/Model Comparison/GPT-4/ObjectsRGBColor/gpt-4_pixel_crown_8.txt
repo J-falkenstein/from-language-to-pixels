@@ -1,0 +1,14 @@
+Here's a simplified representation of an image of a crown using an 8x8 grid of pixels. Assume that "W" represents white pixels, "B" represents black pixels, and "Y" represents yellow pixels, which denote the crown:
+
+[ (W, W, W, W, W, W, W, W) ]
+[ (W, W, W, B, B, W, W, W) ]
+[ (W, W, B, Y, Y, B, W, W) ]
+[ (W, B, Y, Y, Y, Y, B, W) ]
+[ (B, Y, Y, Y, Y, Y, Y, B) ]
+[ (W, B, Y, Y, Y, Y, B, W) ]
+[ (W, W, B, B, B, B, W, W) ]
+[ (W, W, W, W, W, W, W, W) ]
+
+This grid of pixels forms an image of a crown. The image is centered in the middle of the grid, with white space filling out the rest of the image. Each pixel position corresponds to a specific color, either white, black, or yellow.
+
+Remember that this is a very simplified representation. Real digital images contain millions of pixels and can represent a wide range of colors, not just three. But the basic idea is the same: a grid of pixels where each pixel stores color information.

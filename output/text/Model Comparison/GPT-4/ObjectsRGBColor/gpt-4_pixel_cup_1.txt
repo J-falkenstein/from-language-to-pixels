@@ -1,0 +1,9 @@
+Due to the limitations of the text-based system, a specific visual representation of an object such as a cup can't be illustrated. However, here's a very basic example of how a "cup" might be represented using a 5x5 binary (black & white, not RGB) pixel matrix:
+
+[ (0, 0, 0, 0, 0) 
+  (0, 0, 1, 0, 0)
+  (0, 1, 1, 1, 0)
+  (0, 1, 0, 1, 0)
+  (0, 1, 1, 1, 0) ]
+  
+In this simplified example, the "1"s represent black (the cup) and the "0"s represent white (the background). Keep in mind that real-world image processing uses larger matrices with much more pixel density and color information.

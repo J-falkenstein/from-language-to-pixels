@@ -1,0 +1,11 @@
+Since a 8x8 pixel matrix can only represent a single digit or character, representing the number 10 would require two separate 8x8 matrices. One for the digit '1' and another for the digit '0'. 
+
+Here is an example of a grid of pixels that form an image of the number one:
+00000000
+00011000
+00111000
+00011000
+00011000
+00011000
+00111110
+00000000

@@ -1,0 +1,36 @@
+<svg width="400" height="200" viewBox="-200 -100 400 200">
+  <!-- car body -->
+  <rect x="-150" y="-50" width="300" height="100" fill="#647AC5" />
+
+  <!-- front hood -->
+  <polygon points="-150,-50 -100,-70 100,-70 150,-50" fill="#647AC5" />
+
+  <!-- front windshield -->
+  <polygon points="-100,-70 100,-70 100,-30 -100,-30" fill="#A9CCE3" />
+
+  <!-- front wheels -->
+  <circle cx="-100" cy="25" r="20" fill="#292F36" />
+  <circle cx="100" cy="25" r="20" fill="#292F36" />
+
+  <!-- headlights -->
+  <circle cx="-60" cy="-40" r="10" fill="#FFD700" />
+  <circle cx="60" cy="-40" r="10" fill="#FFD700" />
+
+  <!-- doors -->
+  <rect x="-90" y="-25" width="40" height="50" fill="#A9CCE3" />
+  <rect x="50" y="-25" width="40" height="50" fill="#A9CCE3" />
+
+  <!-- side windows -->
+  <rect x="-78" y="-25" width="30" height="40" fill="#D4E6F1" />
+  <rect x="58" y="-25" width="30" height="40" fill="#D4E6F1" />
+
+  <!-- rear windshield -->
+  <polygon points="-20,-70 20,-70 50,-40 -50,-40" fill="#A9CCE3" />
+
+  <!-- taillights -->
+  <circle cx="-80" cy="40" r="10" fill="#FF0000" />
+  <circle cx="80" cy="40" r="10" fill="#FF0000" />
+
+  <!-- trunk/boot -->
+  <rect x="-50" y="45" width="100" height="20" fill="#647AC5" />
+</svg>

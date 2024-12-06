@@ -1,0 +1,1 @@
+Unfortunately, the example of a grid of pixels that form an image of a house is missing from the provided text. Please provide the necessary information or image to describe the pixel matrix representation of a house.

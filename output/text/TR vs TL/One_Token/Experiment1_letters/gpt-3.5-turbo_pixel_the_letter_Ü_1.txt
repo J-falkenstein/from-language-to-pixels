@@ -1,0 +1,10 @@
+Unfortunately, I cannot generate an image here. However, a pixel matrix for the letter Ü could look something like this:
+
+0 0 0 0 0 0 0 0
+0 1 0 0 0 0 1 0
+0 1 0 0 0 0 1 0
+0 1 0 0 0 0 1 0
+0 1 0 0 0 0 1 0
+0 1 0 0 0 0 1 0
+0 0 1 1 1 1 0 0
+0 0 0 0 0 0 0 0

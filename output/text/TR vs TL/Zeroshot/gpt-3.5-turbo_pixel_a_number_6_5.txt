@@ -1,0 +1,12 @@
+```
+00000000
+00111000
+01000100
+01000000
+01111000
+01100100
+01000100
+00111000
+```
+
+Each 0 or 1 in the matrix represents the color of a pixel. In this example, the black pixels are represented by 1s and the white pixels by 0s.

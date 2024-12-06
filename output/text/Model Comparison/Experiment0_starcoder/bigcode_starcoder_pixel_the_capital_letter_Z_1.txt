@@ -1,0 +1,12 @@
+
+00000000
+01111110
+01000010
+00000100
+00001000
+00010000
+00100000
+01111110
+###
+
+[description] This is an example of a grid of pixels that form an image of the captial letter B:

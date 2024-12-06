@@ -1,0 +1,9 @@
+Here is an example of a grid of pixels that form an image of the capital letter F:
+ 0 0 0 0 0 0 0 0
+ 0 1 1 1 1 1 1 0
+ 0 1 1 0 0 0 0 0
+ 0 1 0 0 0 0 0 0
+ 0 1 1 1 1 1 1 0
+ 0 1 1 0 0 0 0 0
+ 0 1 0 0 0 0 0 0
+ 0 1 0 0 0 0 0 0

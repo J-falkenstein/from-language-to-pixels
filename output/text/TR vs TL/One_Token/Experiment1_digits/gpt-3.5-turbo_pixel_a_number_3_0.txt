@@ -1,0 +1,10 @@
+0 0 0 0 0 0 0 0
+0 0 1 1 1 1 1 0
+0 0 0 0 0 1 1 0
+0 0 1 1 1 1 0 0
+0 0 0 0 1 1 1 0
+0 0 0 0 0 1 1 0
+0 0 1 1 1 1 0 0
+0 0 0 0 0 0 0 0
+
+In this example, 0 represents a black pixel and 1 represents a white pixel.

@@ -1,0 +1,7 @@
+<svg width="400" height="400">
+  <circle cx="200" cy="200" r="100" fill="#FECB52" />
+  <ellipse cx="170" cy="180" rx="20" ry="12" fill="#4A221F" />
+  <ellipse cx="230" cy="180" rx="20" ry="12" fill="#4A221F" />
+  <path d="M155 270 C 150 170, 250 170, 245 270 Z" fill="#4A221F" />
+  <rect x="175" y="250" width="50" height="25" fill="#4A221F" />
+</svg>

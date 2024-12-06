@@ -1,0 +1,10 @@
+Given that this is a text-based platform, it's not possible to visually demonstrate an image of a heart. However, here's a representation of an 8 by 8 pixel matrix showing a simplified heart shape by using 1s to represent filled pixels (red perhaps) and 0s to represent empty pixels (white):
+
+[ (0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0) ]
+[ (0, 0, 0)(1, 0, 0)(1, 0, 0)(0, 0, 0)(1, 0, 0)(1, 0, 0)(0, 0, 0)(0, 0, 0) ]
+[ (0, 0, 0)(1, 0, 0)(1, 0, 0)(1, 0, 0)(1, 0, 0)(1, 0, 0)(0, 0, 0)(0, 0, 0) ]
+[ (0, 0, 0)(1, 0, 0)(1, 0, 0)(1, 0, 0)(1, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0) ]
+[ (0, 0, 0)(0, 0, 0)(1, 0, 0)(1, 0, 0)(1, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0) ]
+[ (0, 0, 0)(0, 0, 0)(0, 0, 0)(1, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0) ]
+[ (0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0) ]
+[ (0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0) ]

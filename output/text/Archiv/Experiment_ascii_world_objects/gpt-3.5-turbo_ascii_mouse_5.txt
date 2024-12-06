@@ -1,0 +1,8 @@
+Here is an example of an ASCII art depicting a mouse:
+
+       __     __
+      /  \~~~/  \       
+    /    \      |     )      
+   ,      /~\   |    |     
+  =\   ~~~~~~~~~~   /=
+    `~~~~~~~~~~~~~~~~~~~~'

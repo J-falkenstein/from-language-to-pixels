@@ -1,0 +1,13 @@
+<svg width="200" height="200" viewBox="-100 -100 200 200">
+  <circle cx="0" cy="0" r="80" fill="#F2C94C" />
+
+  <path d="M-30,-20 C-30,0 30,0 30,-20" fill="none" stroke="#231F20" stroke-width="5" />
+  <path d="M-30,20 C-30,0 30,0 30,20" fill="none" stroke="#231F20" stroke-width="5" />
+
+  <path d="M-30,40 Q0,80 30,40" fill="none" stroke="#231F20" stroke-width="5" />
+
+  <path d="M-20,-30 C-20,-40 20,-40 20,-30" fill="none" stroke="#231F20" stroke-width="5" />
+  <path d="M-20,-30 C-20,-40 -40,-40 -40,-30" fill="none" stroke="#231F20" stroke-width="5" />
+  <path d="M20,-30 C20,-40 40,-40 40,-30" fill="none" stroke="#231F20" stroke-width="5" />
+  <path d="M20,-30 C20,-40 -20,-40 -20,-30" fill="none" stroke="#231F20" stroke-width="5" />
+</svg>

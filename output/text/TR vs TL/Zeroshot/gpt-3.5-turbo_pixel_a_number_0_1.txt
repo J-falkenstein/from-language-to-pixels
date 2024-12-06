@@ -1,0 +1,10 @@
+1 0 0 0 1 0 0 0
+1 1 1 1 1 0 0 0
+0 1 0 1 0 0 0 0
+1 1 1 1 0 0 0 1
+0 1 1 1 1 1 1 1
+0 1 1 1 1 1 1 1
+0 1 0 1 0 1 0 1
+0 1 0 1 0 1 0 1
+
+Each 1 represents a black pixel and each 0 represents a white pixel. When displayed on a screen of the appropriate size, these pixels come together to form the image of the number 0.

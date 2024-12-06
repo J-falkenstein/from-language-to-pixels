@@ -1,0 +1,1 @@
+"""The symbol of a(n) colon is a small dot followed by a vertical line. The dot is positioned at the bottom center of the line, making contact with it. The line extends straight upwards, reaching approximately twice the height of the dot. The alignment between the dot and the line is precise, with the dot centered horizontally on the line."""

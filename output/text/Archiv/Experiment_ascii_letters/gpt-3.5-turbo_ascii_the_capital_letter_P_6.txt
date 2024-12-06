@@ -1,0 +1,9 @@
+Here is an ASCII representation of the letter P:
+'''
+______  
+|  __  \ 
+| |__)  |
+|  ___/ 
+| |     
+|_|     
+'''

@@ -1,0 +1,1 @@
+"""The symbol of a double quote consists of two parallel vertical lines that are aligned vertically. Each line is identical in length and thickness, with a small but noticeable gap between them. The lines are straight and vertical, with no curvature or slant. The lines are positioned close together, with the gap between them forming a clear, open space."""

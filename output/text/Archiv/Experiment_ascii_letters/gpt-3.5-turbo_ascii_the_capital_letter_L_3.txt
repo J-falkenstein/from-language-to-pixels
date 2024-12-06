@@ -1,0 +1,9 @@
+Here is an ascii art representation of the capital letter L:
+
+'''
+|        
+|        
+|        
+|        
+|______
+'''

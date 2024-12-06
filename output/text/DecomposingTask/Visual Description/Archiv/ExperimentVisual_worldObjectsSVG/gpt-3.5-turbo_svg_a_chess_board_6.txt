@@ -1,0 +1,72 @@
+<svg width="400" height="400" viewBox="-200 -200 400 400">
+  <!-- outer frame -->
+  <rect x="-200" y="-200" width="400" height="400" fill="none" stroke="black" stroke-width="10" />
+
+  <!-- light squares -->
+  <rect x="-175" y="-175" width="50" height="50" fill="#f0d9b5" />
+  <rect x="-125" y="-175" width="50" height="50" fill="#f0d9b5" />
+  <rect x="-75" y="-175" width="50" height="50" fill="#f0d9b5" />
+  <rect x="-25" y="-175" width="50" height="50" fill="#f0d9b5" />
+  <rect x="25" y="-175" width="50" height="50" fill="#f0d9b5" />
+  <rect x="75" y="-175" width="50" height="50" fill="#f0d9b5" />
+  <rect x="125" y="-175" width="50" height="50" fill="#f0d9b5" />
+  <rect x="175" y="-175" width="50" height="50" fill="#f0d9b5" />
+  <rect x="-175" y="-125" width="50" height="50" fill="#f0d9b5" />
+  <rect x="-125" y="-125" width="50" height="50" fill="#f0d9b5" />
+  <rect x="-75" y="-125" width="50" height="50" fill="#f0d9b5" />
+  <rect x="-25" y="-125" width="50" height="50" fill="#f0d9b5" />
+  <rect x="25" y="-125" width="50" height="50" fill="#f0d9b5" />
+  <rect x="75" y="-125" width="50" height="50" fill="#f0d9b5" />
+  <rect x="125" y="-125" width="50" height="50" fill="#f0d9b5" />
+  <rect x="175" y="-125" width="50" height="50" fill="#f0d9b5" />
+  <rect x="-175" y="-75" width="50" height="50" fill="#f0d9b5" />
+  <rect x="-125" y="-75" width="50" height="50" fill="#f0d9b5" />
+  <rect x="-75" y="-75" width="50" height="50" fill="#f0d9b5" />
+  <rect x="-25" y="-75" width="50" height="50" fill="#f0d9b5" />
+  <rect x="25" y="-75" width="50" height="50" fill="#f0d9b5" />
+  <rect x="75" y="-75" width="50" height="50" fill="#f0d9b5" />
+  <rect x="125" y="-75" width="50" height="50" fill="#f0d9b5" />
+  <rect x="175" y="-75" width="50" height="50" fill="#f0d9b5" />
+  <rect x="-175" y="-25" width="50" height="50" fill="#f0d9b5" />
+  <rect x="-125" y="-25" width="50" height="50" fill="#f0d9b5" />
+  <rect x="-75" y="-25" width="50" height="50" fill="#f0d9b5" />
+  <rect x="-25" y="-25" width="50" height="50" fill="#f0d9b5" />
+  <rect x="25" y="-25" width="50" height="50" fill="#f0d9b5" />
+  <rect x="75" y="-25" width="50" height="50" fill="#f0d9b5" />
+  <rect x="125" y="-25" width="50" height="50" fill="#f0d9b5" />
+  <rect x="175" y="-25" width="50" height="50" fill="#f0d9b5" />
+
+  <!-- dark squares -->
+  <rect x="-175" y="-175" width="50" height="50" fill="#b58863" />
+  <rect x="-125" y="-175" width="50" height="50" fill="#b58863" />
+  <rect x="-75" y="-175" width="50" height="50" fill="#b58863" />
+  <rect x="-25" y="-175" width="50" height="50" fill="#b58863" />
+  <rect x="25" y="-175" width="50" height="50" fill="#b58863" />
+  <rect x="75" y="-175" width="50" height="50" fill="#b58863" />
+  <rect x="125" y="-175" width="50" height="50" fill="#b58863" />
+  <rect x="175" y="-175" width="50" height="50" fill="#b58863" />
+  <rect x="-175" y="-125" width="50" height="50" fill="#b58863" />
+  <rect x="-125" y="-125" width="50" height="50" fill="#b58863" />
+  <rect x="-75" y="-125" width="50" height="50" fill="#b58863" />
+  <rect x="-25" y="-125" width="50" height="50" fill="#b58863" />
+  <rect x="25" y="-125" width="50" height="50" fill="#b58863" />
+  <rect x="75" y="-125" width="50" height="50" fill="#b58863" />
+  <rect x="125" y="-125" width="50" height="50" fill="#b58863" />
+  <rect x="175" y="-125" width="50" height="50" fill="#b58863" />
+  <rect x="-175" y="-75" width="50" height="50" fill="#b58863" />
+  <rect x="-125" y="-75" width="50" height="50" fill="#b58863" />
+  <rect x="-75" y="-75" width="50" height="50" fill="#b58863" />
+  <rect x="-25" y="-75" width="50" height="50" fill="#b58863" />
+  <rect x="25" y="-75" width="50" height="50" fill="#b58863" />
+  <rect x="75" y="-75" width="50" height="50" fill="#b58863" />
+  <rect x="125" y="-75" width="50" height="50" fill="#b58863" />
+  <rect x="175" y="-75" width="50" height="50" fill="#b58863" />
+  <rect x="-175" y="-25" width="50" height="50" fill="#b58863" />
+  <rect x="-125" y="-25" width="50" height="50" fill="#b58863" />
+  <rect x="-75" y="-25" width="50" height="50" fill="#b58863" />
+  <rect x="-25" y="-25" width="50" height="50" fill="#b58863" />
+  <rect x="25" y="-25" width="50" height="50" fill="#b58863" />
+  <rect x="75" y="-25" width="50" height="50" fill="#b58863" />
+  <rect x="125" y="-25" width="50" height="50" fill="#b58863" />
+  <rect x="175" y="-25" width="50" height="50" fill="#b58863" />
+</svg>

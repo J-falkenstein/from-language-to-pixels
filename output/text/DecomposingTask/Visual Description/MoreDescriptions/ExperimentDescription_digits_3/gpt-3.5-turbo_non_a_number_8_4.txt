@@ -1,0 +1,11 @@
+The number 8 has a symmetrical shape that looks like two circles stacked on top of each other. 
+
+Start by drawing a large circle in the middle of your paper. Now, imagine another circle of the same size just above it. Connect the top point of the bottom circle to the bottom point of the top circle with a straight line. Repeat this on the opposite side, connecting the bottom point of the bottom circle to the top point of the top circle. 
+
+Next, draw two small circles inside each of the larger circles, positioned towards the middle. These smaller circles should be roughly the same size and aligned horizontally. 
+
+Now, connect the left side of the upper small circle to the right side of the lower small circle with a curved line. Repeat this connection on the opposite side as well. The curved lines should gently slope inward, following the circular shape.
+
+Finally, erase any unnecessary lines and refine the circles to make them smooth and well-rounded.
+
+Remember, the most important elements of the number 8 are its two stacked circles and the connection points between them with the curved lines.

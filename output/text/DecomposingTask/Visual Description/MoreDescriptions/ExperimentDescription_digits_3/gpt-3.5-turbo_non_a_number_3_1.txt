@@ -1,0 +1,11 @@
+The digit 3 can be drawn by starting with a slightly curved horizontal line at the top, sloping slightly downwards towards the right. This line should be positioned closer to the top of the drawing space. 
+
+Next, draw a vertical line that starts from the endpoint of the curved line and goes straight downwards, extending below the bottom of the curved line. 
+
+At the bottom end of the vertical line, draw a small curved line that bends to the right and connects back to the vertical line. This curved line should be similar to a half-circle shape facing towards the right.
+
+These are the fundamental components of the digit 3. To give it a distinctive characteristic, you can emphasize the curvature of the top line and the roundedness of the bottom curve. However, it is important to note that these details are not essential for recognizing the digit.
+
+Proportions wise, the curved line at the top should be shorter in length compared to the vertical line, and the bottom curved line should be smaller in size compared to the top curved line.
+
+Remember to describe the alignment of the lines and their relationships, such as the top curved line being positioned near the top of the drawing space and the vertical line extending downwards from its endpoint. With these instructions, the blind person should be able to draw a simplified version of the digit 3.

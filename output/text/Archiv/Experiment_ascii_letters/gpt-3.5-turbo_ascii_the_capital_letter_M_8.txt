@@ -1,0 +1,11 @@
+Here is an example of an ASCII art for the capital letter M:
+
+```
+|M      M|
+|M M  M M|
+|M   MM  |
+|M       |
+|M       |
+|M       |
+|M       |
+```

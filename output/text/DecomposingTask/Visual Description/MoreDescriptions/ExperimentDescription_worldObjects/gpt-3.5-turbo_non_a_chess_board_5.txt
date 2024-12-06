@@ -1,0 +1,7 @@
+A chess board is a square-shaped game board typically made of contrasting colors, with alternating black and white or light and dark squares. It is divided into 64 smaller squares in an 8x8 grid pattern. Each square on the board is identical in shape and size.
+
+The chess board is usually positioned horizontally with the longer sides facing the players. It has a border or frame around the outside, which separates it from the playing area.
+
+To draw a simplified sketch of a chess board, imagine a large square divided into smaller squares by straight horizontal and vertical lines. The board should be evenly divided into eight rows and eight columns. The coloring of the squares can be represented by using different patterns or shading for the light and dark squares. Remember that the alternating colors of the squares are the most essential feature to convey when sketching.
+
+It's important to note that the chess pieces themselves are not part of the chess board and should not be included in the sketch of the board alone.

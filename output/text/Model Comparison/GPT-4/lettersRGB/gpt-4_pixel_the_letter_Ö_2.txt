@@ -1,0 +1,12 @@
+Representing a complex character like 'Ö' in an 8x8 pixel matrix might not look perfect but a simplified representation can be as follows:
+
+[ (255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255) ]
+[ (255, 255, 255)(0, 0, 0)(255, 255, 255)(0, 0, 0)(0, 0, 0)(255, 255, 255)(0, 0, 0)(255, 255, 255) ]
+[ (255, 255, 255)(0, 0, 0)(0, 0, 0)(255, 255, 255)(255, 255, 255)(0, 0, 0)(0, 0, 0)(255, 255, 255) ]
+[ (255, 255, 255)(0, 0, 0)(0, 0, 0)(255, 255, 255)(255, 255, 255)(0, 0, 0)(0, 0, 0)(255, 255, 255) ]
+[ (255, 255, 255)(0, 0, 0)(0, 0, 0)(255, 255, 255)(255, 255, 255)(0, 0, 0)(0, 0, 0)(255, 255, 255) ]
+[ (255, 255, 255)(0, 0, 0)(255, 255, 255)(0, 0, 0)(0, 0, 0)(255, 255, 255)(0, 0, 0)(255, 255, 255) ]
+[ (255, 255, 255)(255, 255, 255)(255, 255, 255)(0, 0, 0)(0, 0, 0)(255, 255, 255)(255, 255, 255)(255, 255, 255) ]
+[ (255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255) ]
+
+Note: Due to the limited pixel space, the two dots on 'Ö' are represented as two black pixels on the second row and the 'O' shape is kept simple to maintain clarity. This is a very simplistic representation and might not look perfect but gives a basic idea how these characters can be represented.

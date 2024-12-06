@@ -1,0 +1,10 @@
+Here is an example of an ASCII art showing a skull:
+
+     _______________
+   /                 \
+  /                   \
+ |   X           X   |
+ |     \_______/     |
+ |                   |
+  \                 /
+   \_______________/

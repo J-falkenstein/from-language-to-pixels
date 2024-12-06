@@ -1,0 +1,1 @@
+"""The capital letter V is formed by two diagonal lines that intersect at a single point. The lines start at the bottom left and bottom right corners respectively, and converge towards the top, creating a sharp point in the center. The lines are of equal length and angle, resulting in a symmetrical V shape. The space between the two lines forms an open, triangular area."""

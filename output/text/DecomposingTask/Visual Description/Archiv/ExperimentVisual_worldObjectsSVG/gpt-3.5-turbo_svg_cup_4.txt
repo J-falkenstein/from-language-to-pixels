@@ -1,0 +1,21 @@
+Creating an SVG image of a cup would involve using a combination of basic shapes like rectangles, circles, and paths, as well as transformations and color attributes to customize the appearance. Here is an example of HTML code for an SVG showing a cup:
+
+```html
+<svg width="200" height="200" viewBox="-100 -100 200 200">
+  <!-- Cup body -->
+  <rect x="-50" y="-80" width="100" height="120" rx="20" fill="#D9D9D9" />
+
+  <!-- Cup handle -->
+  <path d="M30,-30 q20,-20 30,0" fill="#D9D9D9" />
+
+  <!-- Cup rim -->
+  <ellipse cx="0" cy="-90" rx="45" ry="7" fill="#D9D9D9" />
+
+  <!-- Cup bottom -->
+  <circle cx="0" cy="10" r="50" fill="#D9D9D9" />
+</svg>
+```
+
+In this code, the `<svg>` element defines the size and view box of the SVG image. The cup body is created using a rounded rectangle (`<rect>`) with rounded corners specified by the `rx` attribute. The cup handle is drawn using a `path` element with a quadratic Bézier curve (`q`) to create the curved shape. The cup rim is an ellipse (`<ellipse>`) positioned at the top of the cup, and the cup bottom is a circle (`<circle>`) placed at the bottom of the cup. The fill attribute is used to set the colors of the different elements.
+
+Feel free to adjust the dimensions and colors as needed to match your desired cup design.

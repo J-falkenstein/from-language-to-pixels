@@ -1,0 +1,1 @@
+Due to the limitations of text format, it is not possible to provide an accurate representation of an image like a wine glass half full using a grid of pixels. However, I hope the provided examples give you an understanding of how images are represented as pixel matrices.

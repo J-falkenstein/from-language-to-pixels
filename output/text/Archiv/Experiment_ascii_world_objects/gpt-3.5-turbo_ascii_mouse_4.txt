@@ -1,0 +1,8 @@
+Here is an example of an ascii art showing a mouse:
+
+   / \__
+ (    @\___
+ /         O
+/     (_____/
+/_____/  U
+

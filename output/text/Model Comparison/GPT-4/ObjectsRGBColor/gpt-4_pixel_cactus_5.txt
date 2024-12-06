@@ -1,0 +1,14 @@
+Designing a cactus image using pixel matrix can be a bit complex. However, here's a simple and abstract representation of green pixels to indicate a cactus and a light blue pixels to represent the sky:
+
+[ (173, 216, 230)(173, 216, 230)(173, 216, 230)(173, 216, 230)(173, 216, 230)(173, 216, 230)(173, 216, 230)(173, 216, 230) ]
+[ (173, 216, 230)(173, 216, 230)(173, 216, 230)(34, 139, 34)(34, 139, 34)(173, 216, 230)(173, 216, 230)(173, 216, 230) ]
+[ (173, 216, 230)(34, 139, 34)(34, 139, 34)(34, 139, 34)(34, 139, 34)(34, 139, 34)(173, 216, 230)(173, 216, 230) ]
+[ (173, 216, 230)(34, 139, 34)(34, 139, 34)(34, 139, 34)(34, 139, 34)(34, 139, 34)(173, 216, 230)(173, 216, 230) ]
+[ (34, 139, 34)(34, 139, 34)(34, 139, 34)(34, 139, 34)(34, 139, 34)(34, 139, 34)(34, 139, 34)(34, 139, 34) ]
+[ (34, 139, 34)(34, 139, 34)(34, 139, 34)(34, 139, 34)(34, 139, 34)(34, 139, 34)(34, 139, 34)(34, 139, 34) ]
+[ (34, 139, 34)(34, 139, 34)(34, 139, 34)(34, 139, 34)(34, 139, 34)(34, 139, 34)(34, 139, 34)(34, 139, 34) ]
+[ (34, 139, 34)(34, 139, 34)(34, 139, 34)(34, 139, 34)(34, 139, 34)(34, 139, 34)(34, 139, 34)(34, 139, 34) ]
+
+Here, (34, 139, 34) is the RGB value for the color green representing the cactus and (173, 216, 230) represents the light blue color of the sky. 
+
+Please note that this is a very abstract and simplified representation. In reality, images generally have much higher resolution with numerous pixels to represent more details and colors.

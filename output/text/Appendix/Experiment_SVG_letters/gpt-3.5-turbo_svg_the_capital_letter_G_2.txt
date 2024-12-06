@@ -1,0 +1,5 @@
+<svg width="200" height="200" viewBox="0 0 200 200">
+  <path d="M50 25 L50 125 Q50 150 75 150 Q100 150 100 125 L100 100 L75 100" fill="none" stroke="black" stroke-width="2" />
+  <path d="M125 25 L125 75 Q125 100 150 100 Q175 100 175 125 L175 150 L150 150" fill="none" stroke="black" stroke-width="2" />
+  <path d="M25 175 L75 175 Q100 175 100 150 Q100 125 75 125 Q50 125 50 150 L50 175" fill="none" stroke="black" stroke-width="2" />
+</svg>

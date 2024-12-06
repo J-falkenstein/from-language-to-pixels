@@ -1,0 +1,12 @@
+I'm sorry, but it is difficult to render special characters like ß accurately in ASCII art due to the limited character set. However, here is an approximation of the letter ß:
+
+```
+  ____  
+ / ___| 
+( (___  
+ \___ \ 
+  ___) )
+ |____/  
+```
+
+Please note that ASCII art is a creative expression and may vary in style and accuracy depending on the artist.

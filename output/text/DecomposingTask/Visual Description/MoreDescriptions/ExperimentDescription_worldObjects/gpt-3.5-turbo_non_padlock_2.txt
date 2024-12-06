@@ -1,0 +1,7 @@
+The object I am describing is a padlock. Its fundamental shape is rectangular, with a slightly wider top than the bottom. It consists of two main parts, a body and a shackle. 
+
+The body of the padlock is a rectangular metal block. On the front face of the body, there is a keyhole located towards the top, typically in the center. Just below the keyhole, there is a small lever or dial used to lock and unlock the padlock. The sides of the body are smooth and straight, forming parallel lines.
+
+The shackle is the metal loop that extends from the bottom of the body. It is thick and curved, resembling the letter 'U'. The top part of the shackle is attached to the body through a small hinge, allowing it to swing open and closed. The shackle is aligned vertically with the body, protruding downwards.
+
+To summarize, the padlock has a rectangular body with a keyhole and locking mechanism on the front face. The shackle extends from the bottom of the body, forming a curved 'U' shape. Remember, these are the most important features to recognize the padlock, and additional details are not necessary for a simplified sketch.

@@ -1,0 +1,11 @@
+The digit 8 is a recurring shape that resembles two circles stacked on top of each other. The circles are evenly sized and aligned vertically, forming the upper and lower parts of the digit. The circles should be close enough to touch each other but not overlapping.
+
+To help establish proportions, imagine the height of each circle is approximately half its width. The upper circle should be slightly smaller than the lower one, and the distance between the two circles should be roughly the same as their individual widths.
+
+To draw the distinctive features of the digit 8, start at the top left area of the upper circle and draw a smooth, curved line downwards towards the right. This line should continue curving and gradually slope inwards towards the center of the digit. When it reaches the bottom of the upper circle, reverse the curve and continue upwards towards the top right area of the lower circle.
+
+Once again, draw a smooth, curved line downwards towards the left, mirroring the previous curve. Ensure that it aligns with the curve already present in the upper circle. This line should continue curving and gradually slope inwards towards the center of the digit. Finally, when it reaches the bottom of the lower circle, reverse the curve and continue upwards towards the top left area of the upper circle to complete the 8 shape.
+
+Remember that the lines forming the curves should be smooth and continuous, without any sharp corners or edges. These curves should represent a gradual transition from the outer edge of each circle towards the center, forming the distinctive looped shape of the digit 8.
+
+By following these instructions, a simplified version of the digit 8 can be drawn that captures its essential shape, distinctive features, and relevant spatial relationships.

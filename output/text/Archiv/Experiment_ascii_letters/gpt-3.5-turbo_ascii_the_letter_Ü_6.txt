@@ -1,0 +1,1 @@
+Unfortunately, it is difficult to accurately render a letter with diacritic marks in ASCII art due to the limitations of the ASCII character set.

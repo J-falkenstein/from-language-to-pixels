@@ -1,0 +1,9 @@
+Here is an example ASCII art of the number 8:
+
+```plaintext
+ 8888888  
+8     8 8 
+ 8888888  
+8     8 8 
+ 8888888  
+```

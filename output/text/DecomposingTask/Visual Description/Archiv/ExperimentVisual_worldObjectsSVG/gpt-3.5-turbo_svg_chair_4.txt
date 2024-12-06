@@ -1,0 +1,9 @@
+<svg width="200" height="200" viewBox="-100 -100 200 200">
+  <rect x="-40" y="0" width="80" height="20" fill="#734F3C" />
+  <rect x="-35" y="20" width="70" height="50" fill="#734F3C" />
+  <rect x="-20" y="70" width="40" height="80" fill="#734F3C" />
+  <rect x="-30" y="150" width="60" height="5" fill="#734F3C" />
+  <line x1="-40" y1="0" x2="-40" y2="150" stroke="black" stroke-width="2" />
+  <line x1="40" y1="0" x2="40" y2="150" stroke="black" stroke-width="2" />
+  <line x1="-40" y1="150" x2="40" y2="150" stroke="black" stroke-width="2" />
+</svg>

@@ -1,0 +1,14 @@
+Due to the complexity of an image of a chair, the specific RGB values for each pixel would be too detailed to represent textually in this format. Generally, a real-world image of a chair would consist of thousands or millions of pixels and complex variations in colors, which is more effectively represented in a digital file.
+
+However, for the purpose of this explanation, let's consider a greatly simplified binary image (only using black and white colors) of a chair in an 8x8 pixel grid:
+
+[ (255, 255, 255)(255, 255, 255)(0, 0, 0)(255, 255, 255)(0, 0, 0)(255, 255, 255)(255, 255, 255) ]
+[ (255, 255, 255)(255, 255, 255)(0, 0, 0)(255, 255, 255)(0, 0, 0)(255, 255, 255)(255, 255, 255) ]
+[ (255, 255, 255)(255, 255, 255)(0, 0, 0)(0, 0, 0)(0, 0, 0)(255, 255, 255)(255, 255, 255) ]
+[ (255, 255, 255)(255, 255, 255)(255, 255, 255)(0, 0, 0)(255, 255, 255)(255, 255, 255)(255, 255, 255) ]
+[ (255, 255, 255)(255, 255, 255)(255, 255, 255)(0, 0, 0)(255, 255, 255)(255, 255, 255)(255, 255, 255) ]
+[ (0, 0, 0)(255, 255, 255)(255, 255, 255)(0, 0, 0)(255, 255, 255)(255, 255, 255)(0, 0, 0) ]
+[ (0, 0, 0)(255, 255, 255)(255, 255, 255)(0, 0, 0)(255, 255, 255)(255, 255, 255)(0, 0, 0) ]
+[ (0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0) ]
+
+Keep in mind that this is a greatly simplified representation, and a real-world image would contain much more complex information.

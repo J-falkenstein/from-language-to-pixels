@@ -1,0 +1,45 @@
+<svg width="200" height="200" viewBox="-100 -100 200 200">
+  <path d="M0,-100 L80,70 L-80,70 Z" fill="#8B4513" />
+
+  <g transform="translate(0, -5)">
+    <path d="M-60,70 Q0,100 60,70" fill="#8B4513" />
+    <path d="M-60,70 Q0,40 60,70" fill="#8B4513" />
+
+    <path d="M-60,70 C-40,30 -40,30 -20,0" fill="#8B4513" />
+    <path d="M60,70 C40,30 40,30 20,0" fill="#8B4513" />
+
+    <path d="M-20,0 Q0,-30 20,0" fill="#8B4513" />
+
+    <path d="M10,-20 L30,10 L10,40" fill="#8B4513" />
+    <path d="M-10,-20 L-30,10 L-10,40" fill="#8B4513" />
+
+    <path d="M30,10 L60,70 L40,100" fill="#8B4513" />
+    <path d="M-30,10 L-60,70 L-40,100" fill="#8B4513" />
+
+    <path d="M-60,70 C-60,80 -50,75 -50,90" fill="#8B4513" />
+    <path d="M60,70 C60,80 50,75 50,90" fill="#8B4513" />
+
+    <path d="M-50,90 Q0,120 50,90" fill="#8B4513" />
+
+    <path d="M-50,90 L-40,100 L-20,70" fill="white" />
+    <path d="M50,90 L40,100 L20,70" fill="white" />
+
+    <path d="M-50,90 Q-20,70 50,90" fill="#8B4513" />
+  </g>
+
+  <circle cx="-40" cy="50" r="8" fill="#8B4513" />
+  <circle cx="40" cy="50" r="8" fill="#8B4513" />
+
+  <line x1="-70" y1="10" x2="-30" y2="40" stroke="#8B4513" stroke-width="2" />
+  <line x1="70" y1="10" x2="30" y2="40" stroke="#8B4513" stroke-width="2" />
+
+  <g transform="translate(-30, 40)">
+    <line x1="0" y1="0" x2="-10" y2="-10" stroke="#8B4513" stroke-width="2" />
+    <line x1="0" y1="0" x2="-10" y2="10" stroke="#8B4513" stroke-width="2" />
+  </g>
+
+  <g transform="translate(30, 40)">
+    <line x1="0" y1="0" x2="10" y2="-10" stroke="#8B4513" stroke-width="2" />
+    <line x1="0" y1="0" x2="10" y2="10" stroke="#8B4513" stroke-width="2" />
+  </g>
+</svg>

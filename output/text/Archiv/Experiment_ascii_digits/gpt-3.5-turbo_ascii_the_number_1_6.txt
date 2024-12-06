@@ -1,0 +1,8 @@
+Here is an example of an ASCII art representation of the number 1:
+
+```
+    __  
+ /   _  )
+(  (_)/ 
+ \____)
+```

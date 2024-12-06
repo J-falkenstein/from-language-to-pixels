@@ -1,0 +1,12 @@
+Here is an example of a grid of pixels that form an image of a chair:
+
+1 1 1 1 1 1 1 1
+1 0 0 0 0 0 0 1
+1 0 0 0 0 0 0 1
+1 1 1 1 1 1 1 1
+1 1 1 1 1 1 1 1
+0 0 1 1 1 1 0 0
+0 0 1 1 1 1 0 0
+0 0 1 1 1 1 0 0
+
+This pixel matrix represents the outline of a chair, with a solid backrest and seat, and four legs.

@@ -1,0 +1,12 @@
+```
+00000000
+00001000
+00001000
+00001000
+00001000
+00001000
+00001000
+00000000
+```
+
+Each '1' in the matrix represents a black pixel, while each '0' represents a white pixel. By arranging these pixels in a specific pattern, we can create different shapes or objects on the screen. In this case, the matrix forms the shape of the number 7.

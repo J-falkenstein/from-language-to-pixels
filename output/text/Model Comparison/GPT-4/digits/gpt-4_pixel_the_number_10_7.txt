@@ -1,0 +1,19 @@
+The number 10 would most likely be represented on two 8x8 grids, one for the number 1 and one for the number 0 like this:
+
+111
+100
+100
+100
+100
+100
+111
+000
+
+00000000
+00111100
+01100110
+01100110
+01100110
+01100110
+00111100
+00000000

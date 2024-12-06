@@ -1,0 +1,10 @@
+Unfortunately, I cannot display images here as I am a text-based AI. However, the letter 'ß' in pixel matrix representation would look something like this:
+
+0 0 0 0 0 0 0 0
+0 1 1 1 1 1 1 0
+0 1 0 0 0 0 1 0
+0 1 1 1 1 1 1 0
+0 1 0 0 0 1 0 0
+0 1 1 1 1 0 0 0
+0 0 0 0 1 1 0 0
+0 0 0 0 0 0 0 0

@@ -1,0 +1,294 @@
+
+The greater than symbol is a mathematicl symbol which is represented by a diagonal line that is slanted to the right.
+The diagonal line (8 pixel rows):
+00000011
+00000110
+00001100
+00011000
+00110000
+01100000
+11000000
+00000000
+This makes a total of 8 pixel rows.
+
+The semi-colon is a punctuation mark consisting of two equally sized dots aligned vertically. The first dot is at the top and the second dot is at the bottom.
+The first row of pixels is left white because the space is not needed to draw a semi-colon (1 pixel row):
+00000000
+The first dot (2 pixel rows):
+00001100
+00001100
+The space inbetween the dots (1 pixel row):
+00000000
+The second dot (2 pixels rows):
+00001100
+00001100
+The remaining of the 8 by 8 pixel matrix is left white (2 pixel rows):
+00000000
+00000000
+This makes a total of 1+2+1+2+2=8 pixel rows.
+
+Here is an example of creating a 8 by 8 grid of pixels step-by-step to form an image of the letter A:
+The graphic representation of the capital letter A consists of a large diagonal line that is connected to a vertical line.
+The diagonal line (7 pixel rows):
+00000011
+00000110
+00001100
+00011000
+00110000
+01100000
+11000000
+The vertical line (7 pixel rows):
+11000000
+11
+The question mark is a punctuation mark that consists of a dot and a curved line.
+The dot (2 pixel rows):
+00001100
+00001100
+The curved line (6 pixel rows):
+00000000
+00000000
+00001100
+00001100
+00000000
+00000000
+This makes a total of 2+6=8 pixel rows.
+
+The exclamation point is a punctuation mark which is represented by a dot and a vertical line.
+The dot (2 pixel rows):
+00001100
+00001100
+The vertical line (6 pixel rows):
+11000000
+11000000
+11000000
+11000000
+11000000
+11000000
+This makes a total of 2+6=8 pixel rows.
+
+The number 9 consists of a loop at the top and a vertical line at the bottom.
+The loop (4 pixel rows):
+00111100
+01000010
+01000010
+00111100
+The vertical line (4 pixel rows):
+01000000
+01000000
+01000000
+01000000
+This makes a total of 4+4=8 pixel rows.
+
+The graphic representation of the number 5 consists of a vertical line that is connected to a horizontal line.
+The horizontal line (1 pixel row):
+11111111
+The vertical line (7 pixel rows):
+11000000
+11000000
+11000000
+11000000
+11000000
+11000000
+11000000
+This makes a total of 1+7=8 pixel rows.
+
+The graphic representation of the number 7 consists of a large diagonal line that is connected to a vertical line.
+The diagonal line (7 pixel rows):
+00000011
+00000110
+00001100
+00011000
+00110000
+01100000
+11000000
+The vertical line (1 pixel rows):
+11000000
+This makes a total of 7+1=8 pixel rows. This is just right!
+
+The number 0 is represented by a circle.
+The top of the circle (2 pixel rows):
+01111110
+01000010
+The middle of the circle (2 pixel rows):
+01000010
+01000010
+The bottom of the circle (2 pixel rows):
+01000010
+01111110
+The last row of the 8 by 8 pixel matrix is not needed to form the number 0 and is therefore left white (1 pixel row):
+00000000
+This makes a total of 2+2+2+1=8 pixel rows.
+
+The graphic representation of the letter A consists of a vertical line and a diagonal line that are connected at the top.
+The top part of the letter A (1 pixel row):
+01111110
+The diagonal line (6 pixel rows):
+01000010
+01000010
+01000010
+01000010
+01000010
+01000010
+The vertical line (1 pixel row):
+01000010
+This makes a total of 1+6+1=8 pixel rows.
+
+The capital letter R consists of a vertical line on the left and a diagonal line that connects the vertical line to the horizontal line.
+The first row of the grid of pixels forms the first horizontal line of the letter R (1 pixel row):
+01111110
+The following part of the pixel matrix shows part of the large vertical line that is in between the two horizontal lines (2 pixel rows):
+01000000
+01000000
+The next part of the letter R is the second horizontal line (1 pixel row):
+01111110
+The bottom half of the image shows the remaining of the vertical line (4 pixel rows):
+01000000
+01000000
+01000000
+01000000
+This makes a total of 1+2+1+4=8 pixel rows.
+
+The letter B consists of a large vertical line on the left and a semicircle that is connected to the vertical line.
+The first row of the grid of pixels forms the first horizontal line of the letter B (1 pixel row):
+11111111
+The following part of the pixel matrix shows part of the large vertical line that is in between the two horizontal lines (2 pixel rows):
+11000000
+11000000
+The next part of the letter B is the second horizontal line (1 pixel row):
+11111111
+The bottom half of the image shows the remaining of the vertical line (4 pixel rows):
+11000000
+11000000
+11000000
+11000000
+This makes a total of 1+2+1+4=8 pixel rows.
+
+The graphic representation of the letter O consists of a circle.
+The circle (8 pixel rows):
+00111100
+01000010
+01000010
+01000010
+01000010
+01000010
+01000010
+00111100
+This makes a total of 8 pixel rows.
+
+The first row of the 8 by 8 pixel matrix is left white (1 pixel row):
+00000000
+The first row of the triangle (2 pixel rows):
+00000011
+00000011
+The second row of the triangle (2 pixel rows):
+00000110
+00000110
+The third row of the triangle (2 pixel rows):
+00001100
+00001100
+The remaining of the 8 by 8 pixel matrix is left white (1 pixel row):
+00000000
+This makes a total of 1+2+2+2+1=8 pixel rows.
+
+The graphic representation of a rectangle consists of a horizontal line on the top and a horizontal line on the bottom that are connected by two vertical lines.
+The first row of the pixel matrix is the top horizontal line (1 pixel row):
+11111111
+The first vertical line (2 pixel rows):
+11000000
+11000000
+The second vertical line (2 pixel rows):
+11000000
+11000000
+The bottom horizontal line (1 pixel row):
+11111111
+The remaining of the 8 by 8 pixel matrix is left white (2 pixel rows):
+00000000
+00000000
+This makes a total of 1+2+2+1+2=8 pixel rows.
+
+The skull is a symbol of death. It is a human skull with empty eye sockets and a mouth.
+The top of the skull (2 pixel rows):
+00000000
+01111110
+The eye sockets (2 pixel rows):
+01000010
+00111100
+The mouth (4 pixel rows):
+00111100
+01000010
+01000010
+00111100
+This makes a total of 2+2+4=8 pixel rows.
+
+The heart is a symbol of love. It consists of two loops that are connected at the bottom.
+The first loop (4 pixel rows):
+00111100
+01000010
+01000010
+00111100
+The second loop (4 pixel rows):
+01000010
+01000010
+00111100
+00000000
+This makes a total of 4+4=8 pixel rows.
+
+The tree is a plant with a trunk and branches.
+The trunk (2 pixel rows):
+01111110
+01111110
+The branches (6 pixel rows):
+00111100
+01111110
+00111100
+00000000
+00111100
+01111110
+This makes a total of 2+6=8 pixel rows.
+
+The face is a smiley.
+The first row of the grid of pixels forms the top of the face (1 pixel row):
+00111100
+The following part of the pixel matrix shows the eyes (2 pixel rows):
+01000010
+01000010
+The next part of the face is the mouth (2 pixel rows):
+01000010
+00111100
+The bottom half of the image shows the remaining of the face (3 pixel rows):
+00000000
+00000000
+00000000
+This makes a total of 1+2+2+3=8 pixel rows.
+
+The chess board consists of 64 squares. Each square is either black or white.
+The first row of the chess board (1 pixel row):
+00000000
+The second row of the chess board (1 pixel row):
+01010101
+The third row of the chess board (1 pixel row):
+00000000
+The fourth row of the chess board (1 pixel row):
+01010101
+The fifth row of the chess board (1 pixel row):
+00000000
+The sixth row of the chess board (1 pixel row):
+01010101
+The seventh row of the chess board (1 pixel row):
+00000000
+The eighth row of the chess board (1 pixel row):
+01010101
+This makes a total of 1+1+1+1+1+1+1+1=8 pixel rows.
+
+The animal is a cat. The cat has a head and a body. The head is a circle and the body is a rectangle.
+The first part of the cat is the head (4 pixel rows):
+01111110
+10000001
+10000001
+01111110
+The second part of the cat is the body (4 pixel rows):
+01111110
+10000001
+11111111
+01111110
+This makes a total of 4+4=8 pixel rows.

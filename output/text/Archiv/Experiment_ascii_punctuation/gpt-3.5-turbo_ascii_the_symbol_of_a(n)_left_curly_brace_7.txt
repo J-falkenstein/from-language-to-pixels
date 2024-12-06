@@ -1,0 +1,12 @@
+Here is an example of an ASCII art representation of a left curly brace:
+
+```
+     __
+    / /
+   / / 
+  / /  
+ / /   
+/_/    
+```
+
+This representation captures the shape of a left curly brace using a combination of forward slashes, backslashes, and underscores to create the desired visual effect.

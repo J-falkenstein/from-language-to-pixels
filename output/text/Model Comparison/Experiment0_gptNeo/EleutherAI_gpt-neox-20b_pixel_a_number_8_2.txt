@@ -1,0 +1,7 @@
+
+![](http://placehold.it/4X4X4X/FCC/333333/ffffff/cccccc/000000.png "Original image")
+
+[env:base]
+----
+aparramatta_wrk_files[] = gpt/aparramatta_wrk_files/8_by_8.txt
+aparramatta_wrk_files[] = gpt/aparramatta_wrk_files/

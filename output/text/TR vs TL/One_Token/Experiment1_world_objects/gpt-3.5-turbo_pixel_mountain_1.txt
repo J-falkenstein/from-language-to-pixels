@@ -1,0 +1,12 @@
+Unfortunately, I am an AI text-based model and cannot create or display images. However, I can describe what a pixel matrix representing an image of a mountain might look like:
+
+0 0 0 0 0 1 0 0
+0 0 0 0 1 1 1 0
+0 0 0 1 1 1 1 1
+0 0 1 1 1 1 1 1
+0 1 1 1 1 1 1 1
+1 1 1 1 1 1 1 1
+0 0 0 0 0 0 1 0
+0 0 0 0 0 0 0 0
+
+In this pixel matrix, the black pixels represent the outline and shape of the mountain, while the white pixels represent the background.

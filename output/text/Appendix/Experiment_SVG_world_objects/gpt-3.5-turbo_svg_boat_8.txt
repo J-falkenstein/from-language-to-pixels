@@ -1,0 +1,8 @@
+<svg width="400" height="400" viewBox="0 0 400 400">
+  <rect x="0" y="200" width="400" height="200" fill="#0063B2" />
+  <polygon points="0,200 200,0 400,200" fill="#FFC206" />
+  <rect x="40" y="150" width="320" height="50" fill="#FFC206" />
+  <rect x="80" y="50" width="240" height="100" fill="#F9F5F0" />
+  <polygon points="100,75 200,100 300,75" fill="#FFC206" />
+  <line x1="100" y1="75" x2="300" y2="75" stroke="#0063B2" stroke-width="5" />
+</svg>

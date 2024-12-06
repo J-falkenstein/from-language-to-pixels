@@ -1,0 +1,12 @@
+Here is an ascii art of the capital letter N:
+
+```
+|         |
+| \      |
+|  \     |
+|   \    |
+|    \   |
+|     \  |
+|      \ |
+|         |
+```

@@ -1,0 +1,9 @@
+Here is an example of an ascii art of the capital letter A:
+
+```
+   AAA
+  A   A
+ AAAAA
+ A   A
+A     A
+```

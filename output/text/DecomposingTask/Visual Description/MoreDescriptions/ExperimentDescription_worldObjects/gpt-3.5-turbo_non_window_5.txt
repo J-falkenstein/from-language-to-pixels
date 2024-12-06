@@ -1,0 +1,9 @@
+A window is a rectangular opening in a wall that allows light and sometimes air to enter a room. It is typically made of transparent or translucent material, such as glass. The fundamental shape of a window is a rectangle, with two parallel horizontal sides and two parallel vertical sides.
+
+To recognize a window, focus on its distinctive features. The most important feature is the presence of evenly spaced horizontal and vertical lines, which form a grid-like pattern on the glass pane. These lines create individual rectangles within the larger rectangular shape of the window.
+
+The proportions of a window can vary, but generally, the height is greater than the width. The alignments with other elements depend on the position and size of the window within the wall. For example, a window may be centered within a wall, aligning with the edges of the wall on both sides. Alternatively, it may be positioned closer to the top or bottom of the wall, creating space above or below it.
+
+The relevant spatial relationships include the location of the window within a room. For instance, a window may be situated closer to the ceiling, closer to the floor, or at eye level. Additionally, its position within a wall can determine whether it is closer to the left or right side of the room, or in the center.
+
+Remember to provide a simplified sketch of a window using only the essential features discussed above.

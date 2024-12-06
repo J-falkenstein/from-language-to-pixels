@@ -1,0 +1,8 @@
+Here is an example ascii art of a window:
+
+   ________
+  /       / /
+ /       / /
+/_______/ /
+(_______)/
+

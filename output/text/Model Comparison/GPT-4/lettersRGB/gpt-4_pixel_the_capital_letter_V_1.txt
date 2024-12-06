@@ -1,0 +1,14 @@
+Due to text format limitations, I'll use 'W' for white, 'B' for black, and 'R' for red to represent the pixel values in the following 8x8 pixel matrix:
+
+```
+[ (W)(W)(W)(W)(B)(W)(W)(W)(W) ]
+[ (W)(W)(W)(B)(W)(B)(W)(W)(W) ]
+[ (W)(W)(B)(W)(W)(W)(B)(W)(W) ]
+[ (W)(B)(W)(W)(W)(W)(W)(B)(W) ]
+[ (W)(B)(W)(W)(W)(W)(W)(B)(W) ]
+[ (W)(W)(B)(W)(W)(W)(B)(W)(W) ]
+[ (W)(W)(W)(B)(W)(B)(W)(W)(W) ]
+[ (W)(W)(W)(W)(B)(W)(W)(W)(W) ]
+```
+
+In a real scenario, each letter (W, B, R) would be replaced by a RGB tuple, such as (255, 255, 255) for white, (0,0,0) for black, and (255,0,0) for red. Each RGB tuple represents the color of one pixel in the image.

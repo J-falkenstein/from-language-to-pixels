@@ -1,0 +1,11 @@
+The object is a chair. Its overall shape can be described as a rectangle with a taller backrest and a shorter seat. The seat is positioned horizontally, parallel to the ground. 
+
+Starting from the top, the backrest of the chair is taller and slightly slanted backward, creating a comfortable angle for leaning back. It should have a noticeable curve at the top, resembling a gentle arch. The backrest is connected to the seat by a vertical support in the middle, forming a straight line from the top to the seat.
+
+Moving down, the seat of the chair is a rectangular shape, positioned parallel to the ground. It is relatively wider than the backrest, providing ample space for a person to sit comfortably. The front edge of the seat is typically straight, while the backside curves gently upward to meet the backrest.
+
+At the bottom of the chair, there are typically four legs, one at each corner of the seat. The legs are vertical and straight, providing stability and support. The length of the legs can vary, but they should be proportionate to the overall height of the chair.
+
+If the chair has armrests, they can be described as horizontal extensions on each side of the seat, slightly elevated at around the height of the backrest. The armrests are typically parallel to the ground and may have a slight curve for added comfort.
+
+It's important to note that the specific details and styles may vary between different chairs, but the key elements of a chair are the backrest, seat, legs, and, if applicable, armrests.

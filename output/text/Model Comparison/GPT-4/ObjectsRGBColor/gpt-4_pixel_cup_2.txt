@@ -1,0 +1,1 @@
+Sorry, without a more specific binary or RGB pixel matrix, I can't generate a specific example of a cup image. However, the concept will be the same: a grid of pixels, each with their own RGB values, will come together to form a picture of a cup.

@@ -1,0 +1,12 @@
+Here is an example of an ASCII art representation of the letter ß:
+
+'''
+      ___      
+    /    /\    
+   /    /  \   
+  /    /    \  
+ /    /   __ \ 
+/____/    \_\_\
+'''
+
+Please note that the ASCII characters used may not render accurately on all devices or fonts.

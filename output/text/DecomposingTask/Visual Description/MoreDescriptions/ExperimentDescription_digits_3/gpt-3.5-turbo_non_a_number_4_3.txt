@@ -1,0 +1,3 @@
+The digit 4 can be represented by drawing a vertical line downward, starting from the top and extending towards the bottom. The vertical line should be relatively long, covering most of the height of the space provided. Towards the top of the vertical line, draw a small horizontal line moving towards the right, positioned slightly above the center of the vertical line. This shorter horizontal line should be around one-third the length of the vertical line.
+
+By incorporating these simple elements, you can convey the main features of the number 4 to a blind person.

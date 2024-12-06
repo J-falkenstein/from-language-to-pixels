@@ -1,0 +1,10 @@
+💡💻💡💻💡💻💡💻
+💡💡💡💡💡💻💻💻
+💡💻💡💻💡💡💡💡
+💡💡💡💡💡💡💡💻
+💡💡💻💻💻💻💻💻
+💡💡💻💻💻💻💻💻
+💡💻💡💻💡💻💡💻
+💡💻💡💻💡💻💡💻
+
+In this pixel matrix, each "1" represents a black pixel, while each "0" represents a white pixel. By arranging these pixels in a specific pattern, we can form the image of a number 1.

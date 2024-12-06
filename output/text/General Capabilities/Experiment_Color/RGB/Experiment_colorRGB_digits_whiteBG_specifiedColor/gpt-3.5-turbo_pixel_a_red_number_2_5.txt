@@ -1,0 +1,1 @@
+The example you provided is missing the pixel matrix representation of the image. Could you please provide the pixel matrix for the image?

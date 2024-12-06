@@ -1,0 +1,12 @@
+```
+01010101
+01111111
+01111111
+11111111
+01010101
+01111111
+01010101
+01010101
+```
+
+Each 0 or 1 in the matrix represents a pixel that is either black (0) or white (1). By arranging these pixels in a specific pattern, we can create various objects or shapes. In this case, the pixel matrix represents the number 8.

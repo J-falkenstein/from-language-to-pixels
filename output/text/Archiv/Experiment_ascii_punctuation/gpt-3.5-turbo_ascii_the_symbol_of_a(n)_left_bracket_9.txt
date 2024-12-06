@@ -1,0 +1,9 @@
+Here is an example ascii art of the left bracket symbol:
+
+'''
+ __ 
+|  |
+|  |
+|  |
+|__|
+'''

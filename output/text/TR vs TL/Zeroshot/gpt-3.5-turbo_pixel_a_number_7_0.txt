@@ -1,0 +1,12 @@
+```
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000111
+```
+
+Each entry in the matrix represents a pixel. "0" represents a white pixel, and "1" represents a black pixel. The matrix above shows the formation of the number 7 using black and white pixels.

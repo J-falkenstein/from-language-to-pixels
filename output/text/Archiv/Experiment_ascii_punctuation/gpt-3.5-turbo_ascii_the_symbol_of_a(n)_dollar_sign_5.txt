@@ -1,0 +1,10 @@
+Below is an ASCII art representation of a dollar sign:
+
+  __      
+ /  \  
+ \__   \  
+    \   \  
+ __/ __/   
+/__/      
+
+This representation uses a combination of slashes, backslashes, and underscores to create the shape of a dollar sign.

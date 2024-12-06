@@ -1,0 +1,13 @@
+Here is an example of an ASCII art representation of an exclamation point:
+
+```
+   __  
+   ||  
+   ||  
+   ||  
+   ||  
+  //\\ 
+ ((__)\\
+```
+
+This representation uses a combination of vertical lines, horizontal lines, and backslashes to form the shape of an exclamation point.

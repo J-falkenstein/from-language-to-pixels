@@ -1,0 +1,12 @@
+Please note that text-based representation of complex images such as a boat might not be effectively representable due to the limitations of characters and color representation in text. Here's a highly simplified black and white version of an 8x8 boat:
+
+[ (255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255) ]
+[ (255, 255, 255)(255, 255, 255)(255, 255, 255)(0, 0, 0)(0, 0, 0)(255, 255, 255)(255, 255, 255)(255, 255, 255) ]
+[ (255, 255, 255)(255, 255, 255)(0, 0, 0)(255, 255, 255)(255, 255, 255)(0, 0, 0)(255, 255, 255)(255, 255, 255) ]
+[ (255, 255, 255)(0, 0, 0)(255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255)(0, 0, 0)(255, 255, 255) ]
+[ (255, 255, 255)(0, 0, 0)(255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255)(0, 0, 0)(255, 255, 255) ]
+[ (255, 255, 255)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0)(255, 255, 255) ]
+[ (255, 255, 255)(0, 0, 0)(255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255)(0, 0, 0)(255, 255, 255) ]
+[ (255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255) ]
+
+In real digital images, there are millions of pixels that form an image, allowing for the detailed and colorful images we see on digital screens. Hence, a detailed pixel matrix of a boat or any other image would generally require a huge amount of data, depending on the resolution of the image.

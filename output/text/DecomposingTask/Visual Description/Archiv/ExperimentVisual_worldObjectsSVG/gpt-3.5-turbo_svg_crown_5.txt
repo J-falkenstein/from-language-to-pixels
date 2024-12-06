@@ -1,0 +1,33 @@
+<svg width="200" height="200" viewBox="-100 -100 200 200">
+  <circle cx="0" cy="0" r="70" fill="gold" />
+
+  <g transform="translate(0 -55)">
+    <polygon points="-10,-30 10,-30 0,-70" fill="gold" />
+    <circle cx="0" cy="-70" r="10" fill="blue" />
+  </g>
+
+  <g transform="rotate(60)">
+    <polygon points="-10,-30 10,-30 0,-70" fill="gold" />
+    <circle cx="0" cy="-70" r="10" fill="blue" />
+  </g>
+
+  <g transform="rotate(120)">
+    <polygon points="-10,-30 10,-30 0,-70" fill="gold" />
+    <circle cx="0" cy="-70" r="10" fill="blue" />
+  </g>
+
+  <g transform="rotate(180)">
+    <polygon points="-10,-30 10,-30 0,-70" fill="gold" />
+    <circle cx="0" cy="-70" r="10" fill="blue" />
+  </g>
+
+  <g transform="rotate(-120)">
+    <polygon points="-10,-30 10,-30 0,-70" fill="gold" />
+    <circle cx="0" cy="-70" r="10" fill="blue" />
+  </g>
+
+  <g transform="rotate(-60)">
+    <polygon points="-10,-30 10,-30 0,-70" fill="gold" />
+    <circle cx="0" cy="-70" r="10" fill="blue" />
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+A simplified visual representation of the capital letter Y for an 8x8 pixel artwork can be described as follows:
+
+Start with a vertically aligned line in the center of the canvas occupying pixels 3, 4, and 5. Extend this line downwards by adding a pixel at coordinates (5, 6) and (3, 6) to form the base of the Y.
+
+From the top of the center line, add a diagonal line that connects pixels (4, 2) and (5, 3) on the right side, and pixels (4, 2) and (3, 3) on the left side. This diagonal line forms the right and left arms of the Y.
+
+Ensure that the diagonal lines slant inward towards the center line, meeting it at approximately a 45-degree angle. The overall shape should resemble a "V" with an additional vertical line in the center forming a base.
+
+By following these guidelines, you can create a simplified artwork of the capital letter Y recognizable within the constraints of an 8x8 pixel canvas.

@@ -1,0 +1,11 @@
+Here is an example of ASCII art that forms an image of the capital letter F:
+
+'''
+  _______
+ |  ______|
+ | |____  
+ |  ____| 
+ | |      
+ |_|      
+'''
+

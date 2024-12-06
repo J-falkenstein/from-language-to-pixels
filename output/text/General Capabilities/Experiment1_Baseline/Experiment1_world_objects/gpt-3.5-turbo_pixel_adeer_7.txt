@@ -1,0 +1,10 @@
+The example you provided is not a valid pixel matrix as it does not have the correct dimensions (8 by 8). A valid representation of a deer image in a pixel matrix would be as follows:
+
+11111111
+10000001
+10000001
+10000001
+11111111
+01010101
+11111111
+00011000

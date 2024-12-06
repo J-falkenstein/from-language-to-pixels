@@ -1,0 +1,10 @@
+Here is an ascii art representation of the capital letter H:
+
+```
+  _   _ 
+ | | | |
+ | |_| |
+ |  _  |
+ | | | |
+ |_| |_|
+```

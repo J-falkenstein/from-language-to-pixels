@@ -1,0 +1,13 @@
+The object I am describing is a computer mouse. 
+
+The overall shape of the mouse is rectangular with rounded edges. It is relatively flat and compact, fitting comfortably in the hand. 
+
+There are distinct features on the mouse that are important for recognition. Towards the top, there is a slightly raised area where the left and right buttons are located. The left button is situated on the left side of this raised area and is larger than the right button which is positioned on the right side. 
+
+In the middle of the mouse, there is a scroll wheel that can be moved up and down. It is positioned slightly lower than the raised area with the buttons. 
+
+On the front edge of the mouse, there is a cord or cable that connects it to the computer. The cord typically extends from the lower portion of the front edge. 
+
+The bottom of the mouse is usually smooth and has a small plastic area in the center from which a light emits. This light helps the mouse track movement on a surface.
+
+To draw a simplified sketch of the mouse, you would start with a rectangular shape and add slightly rounded edges. Then, draw a slightly raised area towards the top and divide it into two parts for the left and right buttons. Place a scroll wheel slightly lower in the middle and add a cord extending from the lower front edge. Finally, add a small plastic area in the center of the bottom for the tracking light.

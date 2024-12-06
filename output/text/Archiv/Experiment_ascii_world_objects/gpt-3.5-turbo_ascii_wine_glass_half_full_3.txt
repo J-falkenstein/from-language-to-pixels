@@ -1,0 +1,24 @@
+Here is an example of an ascii art showing a wine glass half full:
+
+       .-""""-.
+     .'  .--.  '.
+    /  /    \  \
+   |  ;      ;  |
+    \ \      / /
+     '. '----' .'
+       '-....-'
+         |  |
+         |  |
+         |  |
+         |  |
+         |  |
+         |  |
+         |  |
+         |  |
+         |  |
+         |  |
+         |  |
+         |  |
+        /    \
+       ;      ;
+       '------'

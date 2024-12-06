@@ -1,0 +1,1 @@
+"""The capital letter O is a perfect circle, with all points on the circumference equidistant from the center. It has a smooth, continuous outline, curving in a symmetrical manner. The circle is aligned horizontally, with no slant or tilt. The interior of the circle is typically empty, forming a clear, open space within the shape."""

@@ -1,0 +1,25 @@
+Here is an example of an ASCII art representation of a chess board:
+
+```
+   a b c d e f g h
+  +---------------+
+8 |r|_|b|q|k|b|_|r| 8
+7 |p|p|p|p|p|p|p|p| 7
+6 |_|_|_|_|_|_|_|_| 6
+5 |_|_|_|_|_|_|_|_| 5
+4 |_|_|_|_|_|_|_|_| 4
+3 |_|_|_|_|_|_|_|_| 3
+2 |P|P|P|P|P|P|P|P| 2
+1 |R|_|B|Q|K|B|_|R| 1
+  +---------------+
+   a b c d e f g h
+```
+
+In this representation, the letters and symbols are used to represent different chess pieces:
+
+- r and R represent the black and white rooks, respectively
+- b and B represent the black and white bishops, respectively
+- q and Q represent the black and white queens, respectively
+- k and K represent the black and white kings, respectively
+- p and P represent the black and white pawns, respectively
+- _ symbolizes an empty square on the board

@@ -1,0 +1,12 @@
+Unfortunately, I am an AI text-based model and cannot generate or display images directly. However, I can provide you with a pixel matrix representation of a mountain image:
+
+1 0 0 0 0 0 0 1
+1 1 0 0 0 0 1 1
+1 1 1 0 0 1 1 1
+1 1 1 1 1 1 1 1
+0 1 1 1 1 1 1 0
+0 1 1 1 1 1 0 0
+0 0 1 1 1 0 0 0
+0 0 0 1 0 0 0 0
+
+This is a simplified representation, and you can imagine it as a mountain shape formed by the black and white pixels.

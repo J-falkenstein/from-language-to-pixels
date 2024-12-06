@@ -1,0 +1,1 @@
+"""The symbol for a right bracket is a vertical line that starts at the top and extends downward, curving slightly to the right at the bottom. The line is straight and aligned vertically, with no other elements or curves present. It resembles a tall, thin rectangle with a curved bottom right corner, opening towards the left."""

@@ -1,0 +1,9 @@
+The number 8 is like two circles stacked one on top of the other. Imagine drawing a small circle, and then slightly below that, draw a larger circle that overlaps the bottom part of the smaller circle. 
+
+Starting at the top of the smaller circle, draw a curved line downward towards the right, following the contour of the circle. Once you reach the bottom, continue the line upwards to the top of the larger circle. 
+
+Now, starting at the top of the larger circle on the right side, draw a curved line downward towards the left, again following the contour of the circle. Once you reach the bottom, continue the line upwards to the top of the smaller circle. 
+
+The two curved lines should meet at the top and bottom parts of the circles, creating a sort of "hourglass" shape. 
+
+Remember to keep the lines smooth and round, without any sharp turns or corners. This will help highlight the circular nature of the number 8.

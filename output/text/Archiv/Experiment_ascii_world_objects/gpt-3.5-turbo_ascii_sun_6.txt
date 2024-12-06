@@ -1,0 +1,8 @@
+Here is an example of an ASCII art of a sun: 
+
+    \  |  /
+     .-'-'-.
+  --./ / \ \~--
+    /  /   \  \
+
+I hope you like it!

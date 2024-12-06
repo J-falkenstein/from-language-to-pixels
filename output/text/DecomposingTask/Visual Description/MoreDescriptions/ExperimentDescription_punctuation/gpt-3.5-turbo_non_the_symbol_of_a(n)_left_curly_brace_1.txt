@@ -1,0 +1,1 @@
+"""The symbol of a left curly brace represents an open curved line that starts from the top left and curves downward to the right, forming a "C" shape. The bottom end of the curve aligns horizontally with the top end, creating an open space within the curved line. The overall shape resembles a backward, open parenthesis or a reversed letter "C"."""

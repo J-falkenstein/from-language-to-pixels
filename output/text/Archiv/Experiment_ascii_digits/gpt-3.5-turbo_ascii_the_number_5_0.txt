@@ -1,0 +1,10 @@
+Here is an ascii art representation of the number 5:
+
+```
+ .-"-.   
+/ .-.'\  
+\  '_.'; 
+ ,','.   \ 
+/ /(   \_ )
+\_\  `.__.'  
+```

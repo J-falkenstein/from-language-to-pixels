@@ -1,0 +1,12 @@
+1️⃣
+```
+10001000
+11111000
+01010000
+11110001
+01111111
+01111111
+01010101
+01010101
+```
+Each "1" represents a black pixel, while each "0" represents a white pixel. The matrix is arranged in an 8x8 grid, representing the image of the number 1.

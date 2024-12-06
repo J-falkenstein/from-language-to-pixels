@@ -1,0 +1,28 @@
+<svg width="400" height="400">
+  <circle cx="200" cy="200" r="150" fill="gold" />
+
+  <g transform="rotate(45 200 200)">
+    <polygon points="200,20 220,180 180,180" fill="none" stroke="gold" stroke-width="5" />
+    <circle cx="200" cy="100" r="20" fill="red" />
+  </g>
+
+  <g transform="rotate(90 200 200)">
+    <polygon points="200,20 220,180 180,180" fill="none" stroke="gold" stroke-width="5" />
+    <circle cx="200" cy="100" r="20" fill="red" />
+  </g>
+
+  <g transform="rotate(135 200 200)">
+    <polygon points="200,20 220,180 180,180" fill="none" stroke="gold" stroke-width="5" />
+    <circle cx="200" cy="100" r="20" fill="red" />
+  </g>
+
+  <g transform="rotate(225 200 200)">
+    <polygon points="200,20 220,180 180,180" fill="none" stroke="gold" stroke-width="5" />
+    <circle cx="200" cy="100" r="20" fill="red" />
+  </g>
+
+  <g transform="rotate(270 200 200)">
+    <polygon points="200,20 220,180 180,180" fill="none" stroke="gold" stroke-width="5" />
+    <circle cx="200" cy="100" r="20" fill="red" />
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+Here is an example of an ASCII art for the symbol of a right bracket:
+
+```
+     __
+   .'  '.
+  /      \
+ |        |
+  \      /
+   '.__.'
+```

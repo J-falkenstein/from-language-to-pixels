@@ -1,0 +1,10 @@
+Stick Figure Description:
+A stick figure is a basic representation of a person consisting of simple lines and shapes. It is typically drawn in a vertical position. 
+
+The shape of a stick figure is similar to the letter "I". It consists of a straight vertical line that represents the body. This line extends downward to indicate the legs and upward to show the head. The head is usually represented as a small circle. 
+
+To indicate the arms, two shorter lines extend horizontally from the upper part of the body. These lines are usually positioned slightly below the head and extend outward. They can be straight or slightly curved downward to resemble the natural position of arms at rest. 
+
+The legs of the stick figure are represented by two longer lines extending downward from the lower part of the body, mirroring the arms. The legs are typically straight and parallel to each other, resembling the letter "V" when viewed from the bottom.
+
+Please note that the stick figure can be adjusted and stylized to represent different poses and activities by bending or angling the lines. However, the fundamental characteristics of a stick figure remain the same: a vertical body line, a circular head, two horizontal lines for arms, and two vertical lines for legs.

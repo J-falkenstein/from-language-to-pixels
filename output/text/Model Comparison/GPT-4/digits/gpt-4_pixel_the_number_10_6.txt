@@ -1,0 +1,11 @@
+As it's mentioned that the pixel matrix is of size 8 by 8, the number '10' cannot be represented within a single matrix. However, it can be split into two different matrices i.e., '1' and '0'. Below are the matrices for the numbers '1' and '0'. 
+
+For number '1':
+00000000
+00011000
+00111000
+00011000
+00011000
+00011000
+00111110
+00000000

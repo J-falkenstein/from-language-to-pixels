@@ -1,0 +1,11 @@
+Here is an example of an ascii art representing a window:
+
+   _______
+  /       \
+ /   _-_   \
+ |  |___|  |
+ |         |
+ \         /
+  \ _   _ /
+    |   |
+    |___|

@@ -1,0 +1,13 @@
+Here is an example of an ASCII art that forms an image of a mountain:
+
+           /\
+          /  \
+         /    \
+        /      \
+       /________\
+      /\        /\
+     /  \      /  \
+    /    \    /    \
+   /      \  /      \
+  /________\/________\
+  

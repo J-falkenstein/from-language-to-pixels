@@ -1,0 +1,6 @@
+<svg width="400" height="400" viewBox="-200 -200 400 400">      
+  <polygon points="0,150 -150,0 150,0" fill="#B7C9C2" />
+  <polygon points="-75,0 75,0 0,-150" fill="#9CB6AC" />
+  <polygon points="-50,0 50,0 0,-100" fill="#7E9E95" />
+  <polygon points="-30,0 30,0 0,-60" fill="#638784" />
+</svg>

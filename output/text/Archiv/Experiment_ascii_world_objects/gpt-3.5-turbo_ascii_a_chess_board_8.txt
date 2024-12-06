@@ -1,0 +1,16 @@
+Here is an example of an ASCII art representation of a chessboard:
+
+```
+  a b c d e f g h
+8 r n b q k b n r 8
+7 p p p p p p p p 7
+6 . . . . . . . . 6
+5 . . . . . . . . 5
+4 . . . . . . . . 4
+3 . . . . . . . . 3
+2 P P P P P P P P 2
+1 R N B Q K B N R 1
+  a b c d e f g h
+```
+
+In this representation, each square of the chessboard is represented by a combination of letters and symbols. The uppercase letters represent white pieces, while the lowercase letters represent black pieces. The symbols used in the representation are "r" for rook, "n" for knight, "b" for bishop, "q" for queen, and "k" for king. The symbols "." and "P" are used for empty squares and pawns, respectively. The numbers and letters on the sides of the board indicate the file and rank of each square.

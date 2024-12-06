@@ -1,0 +1,7 @@
+Imagine a stick figure, a simple representation of a person. It consists of straight lines connected together. The main shape is an upright rectangle, representing the body. From the bottom of this rectangle, two straight lines extend down, representing legs. The legs are parallel and approximately the same length as the body. At the bottom of each leg, draw a small horizontal line pointing outward, representing feet.
+
+From the top of the rectangle, draw two slightly slanted lines pointing outward and upward at an angle for the arms. These arms are generally shorter than the legs. At the end of each arm, draw a small circle, signifying hands.
+
+On top of the rectangle, draw a small circle, representing the head. The head should be proportionally smaller than the body. Within the head, draw two small circles or dots, representing eyes, and a curved line underneath for the mouth. You can also draw a shorter line on top of the head, pointing upward, to depict hair.
+
+Remember, a stick figure is a simplified representation, so avoid unnecessary details. Focus on the main shapes, proportions, and alignments to help the blind person draw a recognizable stick figure.

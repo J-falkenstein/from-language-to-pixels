@@ -1,0 +1,1 @@
+"""The symbol of an equal sign consists of two horizontal lines that are parallel to each other and of equal length. The lines are aligned in a straight horizontal orientation, with the bottom line slightly longer than the top line. There is an equal amount of empty space above and below the lines, creating a balanced and symmetrical appearance."""

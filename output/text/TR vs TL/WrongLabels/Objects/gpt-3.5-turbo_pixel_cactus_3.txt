@@ -1,0 +1,10 @@
+Here is an example of an 8 by 8 pixel matrix showing an image of a cactus:
+
+01000100
+01000100
+01110110
+00100100
+01111110
+01111110
+00100100
+00011000

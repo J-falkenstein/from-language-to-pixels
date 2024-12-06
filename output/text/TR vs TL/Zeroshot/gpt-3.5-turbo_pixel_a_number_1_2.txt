@@ -1,0 +1,12 @@
+```
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+11111111
+```
+
+Each 0 represents a white pixel and each 1 represents a black pixel. In this example, the number 1 is displayed using a grid of 8 by 8 pixels.

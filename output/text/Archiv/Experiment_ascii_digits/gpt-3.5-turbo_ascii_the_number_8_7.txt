@@ -1,0 +1,7 @@
+Here is an ascii art representation of the number 8:
+
+```
+ ,--.  
+| oo | 
+'._.'  
+```

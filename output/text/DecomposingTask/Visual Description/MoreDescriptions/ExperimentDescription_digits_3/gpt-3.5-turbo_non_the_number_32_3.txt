@@ -1,0 +1,11 @@
+To draw the number 32, imagine a slightly slanted rectangle that leans to the right. 
+
+Start by drawing a vertical line downwards, about two-thirds the height of the imaginary rectangle. Directly to the right of this line, draw a shorter horizontal line. These two lines will form the upper part of your digit. 
+
+Now, gently slope a diagonal line starting from the bottom left corner of the vertical line, moving upwards and to the right. This line should end just a bit below the top right corner of the imaginary rectangle. 
+
+Next, connect the end point of the diagonal line to the right end of the shorter horizontal line with another diagonal line, but this time it should slope downwards and to the right. This line should be shorter than the previous diagonal line.
+
+Finally, connect the bottom end of the vertical line to the bottom end of the second diagonal line with a small, almost horizontal stroke. 
+
+Remember, these lines should be straight with no curves or bends. The main features to focus on are the slanted rectangle shape, the shorter horizontal line on the right, and the two diagonal lines connecting the top and bottom parts of the digit.

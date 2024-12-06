@@ -1,0 +1,21 @@
+<svg width="400" height="400" viewBox="0 0 400 400">
+  <rect width="50" height="50" fill="#FFFFFF" x="0" y="0" />
+  <rect width="50" height="50" fill="#000000" x="50" y="0" />
+  <rect width="50" height="50" fill="#FFFFFF" x="100" y="0" />
+  <rect width="50" height="50" fill="#000000" x="150" y="0" />
+  <rect width="50" height="50" fill="#FFFFFF" x="200" y="0" />
+  <rect width="50" height="50" fill="#000000" x="250" y="0" />
+  <rect width="50" height="50" fill="#FFFFFF" x="300" y="0" />
+  <rect width="50" height="50" fill="#000000" x="350" y="0" />
+
+  <rect width="50" height="50" fill="#000000" x="0" y="50" />
+  <rect width="50" height="50" fill="#FFFFFF" x="50" y="50" />
+  <rect width="50" height="50" fill="#000000" x="100" y="50" />
+  <rect width="50" height="50" fill="#FFFFFF" x="150" y="50" />
+  <rect width="50" height="50" fill="#000000" x="200" y="50" />
+  <rect width="50" height="50" fill="#FFFFFF" x="250" y="50" />
+  <rect width="50" height="50" fill="#000000" x="300" y="50" />
+  <rect width="50" height="50" fill="#FFFFFF" x="350" y="50" />
+
+  <!-- Remaining rows omitted for brevity -->
+</svg>

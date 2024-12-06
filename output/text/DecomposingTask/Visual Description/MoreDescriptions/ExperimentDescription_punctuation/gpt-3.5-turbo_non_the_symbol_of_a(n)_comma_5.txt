@@ -1,0 +1,1 @@
+"""The symbol of a comma resembles a small curved line, similar to a miniature letter 'C'. The curved line starts at the top left and gently curves to the right, ending in a downward direction. The size of the comma is relatively small compared to other symbols and typically appears as a small, delicate curve."""

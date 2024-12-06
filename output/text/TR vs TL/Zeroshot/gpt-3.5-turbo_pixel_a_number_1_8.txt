@@ -1,0 +1,1 @@
+1 represents the black pixels, while 0 represents the white pixels. The grid is 8 pixels wide and 8 pixels high, forming the image of a number 1.

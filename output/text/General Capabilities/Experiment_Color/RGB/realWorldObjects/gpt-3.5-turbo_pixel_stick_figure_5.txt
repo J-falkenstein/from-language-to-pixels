@@ -1,0 +1,1 @@
+Unfortunately, the representation of a stick figure as a pixel matrix was not provided.

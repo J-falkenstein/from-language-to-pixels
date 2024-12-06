@@ -1,0 +1,92 @@
+<svg width="400" height="400" viewBox="-200 -200 400 400">
+  <rect x="-200" y="-200" width="400" height="400" fill="none" stroke="black" stroke-width="10" />
+
+  <g>
+    <rect x="-200" y="-200" width="50" height="50" fill="#FFFFFF" />
+    <rect x="-150" y="-200" width="50" height="50" fill="#000000" />
+    <rect x="-100" y="-200" width="50" height="50" fill="#FFFFFF" />
+    <rect x="-50" y="-200" width="50" height="50" fill="#000000" />
+    <rect x="0" y="-200" width="50" height="50" fill="#FFFFFF" />
+    <rect x="50" y="-200" width="50" height="50" fill="#000000" />
+    <rect x="100" y="-200" width="50" height="50" fill="#FFFFFF" />
+    <rect x="150" y="-200" width="50" height="50" fill="#000000" />
+  </g>
+
+  <g>
+    <rect x="-200" y="-150" width="50" height="50" fill="#000000" />
+    <rect x="-150" y="-150" width="50" height="50" fill="#FFFFFF" />
+    <rect x="-100" y="-150" width="50" height="50" fill="#000000" />
+    <rect x="-50" y="-150" width="50" height="50" fill="#FFFFFF" />
+    <rect x="0" y="-150" width="50" height="50" fill="#000000" />
+    <rect x="50" y="-150" width="50" height="50" fill="#FFFFFF" />
+    <rect x="100" y="-150" width="50" height="50" fill="#000000" />
+    <rect x="150" y="-150" width="50" height="50" fill="#FFFFFF" />
+  </g>
+
+  <g>
+    <rect x="-200" y="-100" width="50" height="50" fill="#FFFFFF" />
+    <rect x="-150" y="-100" width="50" height="50" fill="#000000" />
+    <rect x="-100" y="-100" width="50" height="50" fill="#FFFFFF" />
+    <rect x="-50" y="-100" width="50" height="50" fill="#000000" />
+    <rect x="0" y="-100" width="50" height="50" fill="#FFFFFF" />
+    <rect x="50" y="-100" width="50" height="50" fill="#000000" />
+    <rect x="100" y="-100" width="50" height="50" fill="#FFFFFF" />
+    <rect x="150" y="-100" width="50" height="50" fill="#000000" />
+  </g>
+
+  <g>
+    <rect x="-200" y="-50" width="50" height="50" fill="#000000" />
+    <rect x="-150" y="-50" width="50" height="50" fill="#FFFFFF" />
+    <rect x="-100" y="-50" width="50" height="50" fill="#000000" />
+    <rect x="-50" y="-50" width="50" height="50" fill="#FFFFFF" />
+    <rect x="0" y="-50" width="50" height="50" fill="#000000" />
+    <rect x="50" y="-50" width="50" height="50" fill="#FFFFFF" />
+    <rect x="100" y="-50" width="50" height="50" fill="#000000" />
+    <rect x="150" y="-50" width="50" height="50" fill="#FFFFFF" />
+  </g>
+
+  <g>
+    <rect x="-200" y="0" width="50" height="50" fill="#FFFFFF" />
+    <rect x="-150" y="0" width="50" height="50" fill="#000000" />
+    <rect x="-100" y="0" width="50" height="50" fill="#FFFFFF" />
+    <rect x="-50" y="0" width="50" height="50" fill="#000000" />
+    <rect x="0" y="0" width="50" height="50" fill="#FFFFFF" />
+    <rect x="50" y="0" width="50" height="50" fill="#000000" />
+    <rect x="100" y="0" width="50" height="50" fill="#FFFFFF" />
+    <rect x="150" y="0" width="50" height="50" fill="#000000" />
+  </g>
+
+  <g>
+    <rect x="-200" y="50" width="50" height="50" fill="#000000" />
+    <rect x="-150" y="50" width="50" height="50" fill="#FFFFFF" />
+    <rect x="-100" y="50" width="50" height="50" fill="#000000" />
+    <rect x="-50" y="50" width="50" height="50" fill="#FFFFFF" />
+    <rect x="0" y="50" width="50" height="50" fill="#000000" />
+    <rect x="50" y="50" width="50" height="50" fill="#FFFFFF" />
+    <rect x="100" y="50" width="50" height="50" fill="#000000" />
+    <rect x="150" y="50" width="50" height="50" fill="#FFFFFF" />
+  </g>
+
+  <g>
+    <rect x="-200" y="100" width="50" height="50" fill="#FFFFFF" />
+    <rect x="-150" y="100" width="50" height="50" fill="#000000" />
+    <rect x="-100" y="100" width="50" height="50" fill="#FFFFFF" />
+    <rect x="-50" y="100" width="50" height="50" fill="#000000" />
+    <rect x="0" y="100" width="50" height="50" fill="#FFFFFF" />
+    <rect x="50" y="100" width="50" height="50" fill="#000000" />
+    <rect x="100" y="100" width="50" height="50" fill="#FFFFFF" />
+    <rect x="150" y="100" width="50" height="50" fill="#000000" />
+  </g>
+
+  <g>
+    <rect x="-200" y="150" width="50" height="50" fill="#000000" />
+    <rect x="-150" y="150" width="50" height="50" fill="#FFFFFF" />
+    <rect x="-100" y="150" width="50" height="50" fill="#000000" />
+    <rect x="-50" y="150" width="50" height="50" fill="#FFFFFF" />
+    <rect x="0" y="150" width="50" height="50" fill="#000000" />
+    <rect x="50" y="150" width="50" height="50" fill="#FFFFFF" />
+    <rect x="100" y="150" width="50" height="50" fill="#000000" />
+    <rect x="150" y="150" width="50" height="50" fill="#FFFFFF" />
+  </g>
+
+</svg>

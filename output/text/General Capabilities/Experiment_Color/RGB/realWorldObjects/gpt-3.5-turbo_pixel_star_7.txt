@@ -1,0 +1,1 @@
+Unfortunately, the specific pixel matrix for an image of a star was not provided. However, a pixel matrix for an image of a star could be created by assigning specific RGB values to each pixel in the matrix to represent the desired color and shape of the star.

@@ -1,0 +1,13 @@
+<svg width="200" height="200">
+  <circle cx="100" cy="100" r="90" fill="yellow" stroke="black" stroke-width="2" />
+  
+  <path d="M80,120 C80,135 120,135 120,120" stroke="black" stroke-width="2" fill="none" />
+  <path d="M80,80 C80,65 120,65 120,80" stroke="black" stroke-width="2" fill="none" />
+  
+  <path d="M90,140 Q100,150 110,140" stroke="black" stroke-width="2" fill="none" />
+  
+  <path d="M75,115 Q90,100 105,115" stroke="black" stroke-width="2" fill="none" />
+  <path d="M75,115 Q90,130 105,115" stroke="black" stroke-width="2" fill="none" />
+  <path d="M125,115 Q140,100 155,115" stroke="black" stroke-width="2" fill="none" />
+  <path d="M125,115 Q140,130 155,115" stroke="black" stroke-width="2" fill="none" />
+</svg>

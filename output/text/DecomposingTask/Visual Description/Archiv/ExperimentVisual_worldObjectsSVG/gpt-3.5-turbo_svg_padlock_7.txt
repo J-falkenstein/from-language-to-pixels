@@ -1,0 +1,16 @@
+<svg width="200" height="200" viewBox="-100 -100 200 200">
+  <rect x="-30" y="-80" width="60" height="120" rx="10" fill="#A3A3A3" />
+
+  <rect x="-25" y="-85" width="50" height="25" rx="5" fill="#9B9B9B" />
+
+  <circle cx="0" cy="-35" r="10" fill="#C6C6C6" />
+  <circle cx="0" cy="-25" r="6" fill="#808080" />
+
+  <line x1="-10" y1="-80" x2="-10" y2="0" stroke="#808080" stroke-width="5" />
+
+  <rect x="-20" y="0" width="40" height="40" rx="5" fill="#C6C6C6" />
+  <circle cx="0" cy="10" r="12" fill="none" stroke="#808080" stroke-width="3" />
+
+  <circle cx="-15" cy="10" r="3" fill="#808080" />
+  <circle cx="15" cy="10" r="3" fill="#808080" />
+</svg>

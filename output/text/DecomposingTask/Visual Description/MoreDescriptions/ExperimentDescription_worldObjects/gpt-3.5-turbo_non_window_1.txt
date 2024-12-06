@@ -1,0 +1,16 @@
+Object: Window
+
+Description:
+A window is a rectangular opening on a wall, usually made of glass. Its shape is like a tall rectangle with straight vertical and horizontal lines. It is typically wider than it is tall. 
+
+Starting from the top, there is usually a horizontal bar called the "header" which runs across the width of the window. It separates the top part, called the "upper sash," from the bottom part, called the "lower sash." The header is aligned with the top edge of the window frame.
+
+Moving downward, the upper sash is smaller and positioned above the lower sash. It is located within the top half of the window. The lower sash, on the other hand, occupies the bottom half of the window. Both sashes are rectangular in shape, with straight vertical and horizontal lines.
+
+In the center of the window, there might be a vertical bar called the "mullion." The mullion divides the window into two or more smaller sections. Each section contains its own upper and lower sashes. The mullion is perpendicular to the header and extends from the top to the bottom edge of the window.
+
+At the bottom of the window, there is another horizontal bar called the "sill." It acts as a base for the window, aligning horizontally with the bottom edge of the frame and spanning the entire width.
+
+Overall, the window appears symmetrical with a clear distinction between the upper and lower parts. The glass within the sashes allows light to pass through, making it a transparent feature of a wall.
+
+Remember, this is just a simplified description of a window.

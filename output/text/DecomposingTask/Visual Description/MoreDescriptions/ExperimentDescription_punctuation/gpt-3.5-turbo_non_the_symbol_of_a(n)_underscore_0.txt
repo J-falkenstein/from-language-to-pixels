@@ -1,0 +1,1 @@
+"""The underscore symbol is a straight horizontal line that extends across the page. It is typically shorter in length than most other characters and is positioned at the bottom of the line, aligned with the baseline. It serves as a separator or connector between words or elements within a sentence."""

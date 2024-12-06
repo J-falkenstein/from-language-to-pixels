@@ -1,0 +1,10 @@
+Here is an example of ASCII art that forms an image of a car:
+
+       _______
+   _[]_/_____\__n_
+  |_____.--.__()_|
+  |   //# \\\    |
+  |  ((   )) '   |
+  |   \\__//     |
+  '--------------'
+

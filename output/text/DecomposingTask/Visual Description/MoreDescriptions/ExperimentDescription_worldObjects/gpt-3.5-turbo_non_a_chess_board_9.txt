@@ -1,0 +1,9 @@
+The chess board is a square-shaped object with eight rows and eight columns, forming a grid pattern. Each square on the chess board has the same size and is alternately colored in two contrasting shades, typically black and white. The board is typically positioned with one of the corners having a dark square. The individual squares on the board are identical in shape and size, forming a symmetrical pattern throughout.
+
+To create a simplified sketch of a chess board, you can start by drawing a square shape on your paper, ensuring that all four sides are equal in length. Divide the square into eight equal rows and eight equal columns using straight and parallel lines. The lines should intersect at right angles to form a grid-like pattern, which represents the chess board.
+
+Remember to keep the squares uniform in size and shape, with alternating dark and light colors. You can fill in the dark squares with a shading technique or simply use cross-hatching to indicate their color.
+
+Keep the sketch clean and visually organized, ensuring that the lines are straight and parallel. Label any one of the corners as a reference point, indicating that it is a dark square.
+
+By following these instructions, the blind person will be able to create a simplified sketch of a chess board, capturing its fundamental shape, distinctive features, and spatial relationships.

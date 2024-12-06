@@ -1,0 +1,10 @@
+Here is an example ascii art that forms an image of the letter E:
+
+'''
+ _______
+| ______|
+| |_____
+|_____  |
+ _____) |
+|______/
+'''

@@ -1,0 +1,1 @@
+I'm sorry, but I'm unable to generate an image for you. However, you can create your own pixel matrix by representing each pixel as a tuple of RGB values.

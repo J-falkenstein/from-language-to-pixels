@@ -1,0 +1,21 @@
+object. 
+
+Object: Car
+
+Description: The car is a rectangular-shaped object with four wheels evenly spaced at each corner. The body of the car is longer than it is wide, with a curved front leading to a flat windshield. On the sides, there are two doors, each with a handle near the front. Towards the back of the car, there is a trunk or hatch, depending on the model. At the rear, there are two taillights on each side, positioned vertically. The overall height of the car is lower than its length. 
+
+Object: Tree
+
+Description: The tree is a tall vertical structure with a wide base and a narrow top. It can be compared to a cone shape, but with branches protruding horizontally from the sides. The branches are irregularly shaped, extending outwards from the trunk. The trunk itself is sturdy and solid, while the branches are thinner and more flexible. The leaves or needles, depending on the type of tree, cluster together, creating a dense canopy on the upper part of the tree.
+
+Object: Table
+
+Description: The table has a rectangular shape, with a flat top surface and four legs positioned at each corner. The top surface is wider than it is deep, providing ample space for placing objects. The legs are evenly spaced and vertical, connecting directly to the underside of the table's top surface. The height of the table is typically waist-high for an average person, allowing for comfortable use when sitting in a chair.
+
+Object: Clock
+
+Description: The clock is a circular object, resembling a flat disk. It has two distinct hands, one shorter than the other. The shorter hand indicates the hour, while the longer hand shows the minutes. The numbers are usually printed or engraved around the edge of the clock face, representing the hours. In the center of the clock face, there is a small circle, which may contain a brand logo or additional details. The position of the hands on the clock face indicates the current time.
+
+Object: Book
+
+Description: The book is a rectangular object, with a front cover, spine, and back cover. The front cover is slightly larger than the pages inside, creating a visible border around the book. The spine connects the front and back covers, allowing the book to open and close. The pages are stacked together, held firmly within the covers. On the spine and the front cover, there are usually printed or embossed titles, author names, and sometimes illustrations.

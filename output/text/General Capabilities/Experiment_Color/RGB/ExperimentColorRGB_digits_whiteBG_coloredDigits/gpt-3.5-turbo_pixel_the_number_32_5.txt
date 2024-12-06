@@ -1,0 +1,1 @@
+I'm sorry, but I cannot generate an image here. However, a grid of pixels forming the number 32 can be represented as a pixel matrix with the appropriate RGB values assigned to each pixel.

@@ -1,0 +1,1 @@
+Unfortunately, you haven't provided the pixel matrix for the image of a star. Could you please provide the specific pixel values for each individual pixel in the matrix?

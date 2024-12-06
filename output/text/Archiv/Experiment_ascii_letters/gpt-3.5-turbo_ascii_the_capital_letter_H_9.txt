@@ -1,0 +1,11 @@
+Here is an ASCII art representation of the letter H:
+
+'''
+|\
+| \
+|  \
+|  |
+|  |
+|  |
+|_/ 
+'''

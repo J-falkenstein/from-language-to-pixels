@@ -1,0 +1,1 @@
+Unfortunately, you didn't provide the pixel values for the image of a padlock. If you provide the RGB color values for each pixel in the padlock image, I can help you represent it as a pixel matrix.

@@ -1,0 +1,13 @@
+Here is an example of an ASCII art representation of the number 8:
+
+```
+ 8888888888  
+8888    8888 
+       8888  
+    8888     
+  8888       
+8888         
+8888888888   
+```
+
+I hope you like it!

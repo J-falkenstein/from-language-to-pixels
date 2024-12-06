@@ -1,0 +1,9 @@
+Here is an example ascii art of the symbol for a percent sign:
+
+```
+   __                   
+  / /  __  __   ___   ___
+ / /  / / / /  / _ \ | _ \
+/ /  / /_/ /  /  __/ |  __/
+\/   \__,_/   \___|  \___|
+```

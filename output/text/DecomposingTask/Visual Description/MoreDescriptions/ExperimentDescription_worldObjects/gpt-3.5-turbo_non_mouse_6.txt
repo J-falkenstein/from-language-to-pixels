@@ -1,0 +1,11 @@
+The object I am describing is a computer mouse. 
+
+Fundamental Shape: The computer mouse has a generally oval or slightly curved shape. It is wider towards the back and tapers down towards the front.
+
+Distinctive Features: At the top of the mouse, you will find a slightly raised, circular area known as the "scroll wheel." It is positioned between the left and right-click buttons. The left and right-click buttons are usually rectangular or square-shaped and are located towards the front of the mouse. Towards the back of the mouse, there is a smaller button called the "back button," positioned slightly to the left side of the mouse.
+
+Proportions and Alignments: The scroll wheel is positioned directly in the middle of the top surface of the mouse. It is equidistant from both the left and right-click buttons. The left and right-click buttons are aligned horizontally, parallel to the front edge of the mouse. The back button sits slightly to the left of the left-click button.
+
+Relevant Spatial Relationships: When holding the mouse, the back button is within easy reach of your thumb, while the left and right-click buttons are positioned under your index and middle fingers. The scroll wheel is located right in the center of the mouse, allowing for easy scrolling with your index finger.
+
+With these details, you should be able to create a simplified sketch of a computer mouse that accurately conveys its essential features.

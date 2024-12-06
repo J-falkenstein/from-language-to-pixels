@@ -1,0 +1,21 @@
+The concept of a 8 by 8 pixel matrix wouldn't be able to accurately represent multi-digit numbers like "32". Each number would need its own 8 by 8 matrix for better clarity and understanding. However, a simplified representation might look like this:
+
+For Number 3:
+00000000
+00111100
+00000110
+00111100
+00000110
+00111100
+00000000
+00000000
+
+For Number 2:
+00000000
+00111100
+01100110
+00000110
+00011000
+00101000
+01111110
+00000000

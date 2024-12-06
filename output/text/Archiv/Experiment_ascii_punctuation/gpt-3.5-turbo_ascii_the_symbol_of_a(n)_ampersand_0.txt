@@ -1,0 +1,14 @@
+Here is an example of an ASCII art that shows the symbol of an ampersand:
+
+```
+    ,ad8888ba,  
+   d8"'    `"8b 
+  d8'        `8b
+  88          88
+  88          88
+  Y8,        ,8P
+   Y8a.    .a8P 
+    `"Y8888Y"'  
+```
+
+The above ASCII art represents the symbol of an ampersand "&".

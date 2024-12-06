@@ -1,0 +1,1 @@
+Unfortunately, the example of a grid of pixels that form an image of a crown is missing. Please provide the pixel matrix for the crown image, and I will be happy to explain how it is represented.

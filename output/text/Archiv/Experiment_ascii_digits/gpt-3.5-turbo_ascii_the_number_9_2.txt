@@ -1,0 +1,9 @@
+Here is an ASCII art representation of the number nine:
+
+```
+  _______  
+ /  _____) 
+|  /       
+|  \_____  
+ \_____  \ 
+       \__)

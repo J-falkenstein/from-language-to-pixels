@@ -1,0 +1,14 @@
+Here is an example ascii art that forms an image of a house:
+
+      /\
+     /  \
+    /    \
+   /______\
+  |        |
+  |        |
+  |________|
+  |   /\   |
+  |  /  \  |
+  | /    \ |
+  |/______\|
+    

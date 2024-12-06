@@ -1,0 +1,9 @@
+Here is an ascii art of the capital letter J:
+
+'''
+   ____
+ /  __|
+|  /
+|  \___ 
+ \_____| 
+'''

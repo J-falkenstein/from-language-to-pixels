@@ -1,0 +1,9 @@
+Here is an example of an ascii art of a car:
+
+       _______
+  _||__|__|___\___
+ |      |       |  ]
+  \ o-o   o-o /
+~~~~~~~~~~~~~~~~~
+
+I hope you like it!

@@ -1,0 +1,8 @@
+<svg width="200" height="200" viewBox="-100 -100 200 200">
+  <path d="M-60,-50 Q-20,-80 60,-50 Q20,-80 60,-50 L50,0 L-50,0 Z" fill="#0052A5" />
+  <path d="M-50,0 L-30,0 L-40,25 Z" fill="#F2F2F2" />
+  <rect x="-40" y="25" width="20" height="70" fill="#BFBFBF" />
+  <polygon points="-60,-50 60,-50 0,-100" fill="#BFBFBF" />
+  <line x1="-40" y1="25" x2="-40" y2="-50" stroke="#000" stroke-width="2" />
+  <line x1="40" y1="25" x2="40" y2="-50" stroke="#000" stroke-width="2" />
+</svg>

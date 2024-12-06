@@ -1,0 +1,12 @@
+Here is an example of ascii art that forms an image of the percent sign:
+
+```
+  ____    
+ / ___)   
+| | __ _ 
+| |/ /| |
+|   ( | |
+| |\ \| |
+|_| \_)_|
+```
+

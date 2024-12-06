@@ -1,0 +1,12 @@
+Here is an example ascii art that forms an image of the plus sign:
+
+'''
+  _ 
+ | |
+ | |
+ |_| 
+  _ 
+ | |
+ | |
+ |_| 
+'''

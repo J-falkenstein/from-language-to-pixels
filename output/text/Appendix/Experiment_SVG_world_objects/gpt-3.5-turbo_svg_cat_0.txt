@@ -1,0 +1,15 @@
+<svg width="200" height="200" viewBox="0 0 400 400">
+  <g>
+    <circle cx="200" cy="200" r="150" fill="#D3D3D3" />
+    <circle cx="125" cy="150" r="30" fill="white" />
+    <circle cx="275" cy="150" r="30" fill="white" />
+    <path d="M150,250 C250,250 260,330 200,380 C140,330 150,250 150,250 Z" fill="#D3D3D3" />
+    <path d="M250,250 C350,250 360,330 300,380 C240,330 250,250 250,250 Z" fill="#D3D3D3" />
+    <path d="M200,350 Q120,270 200,250 Q280,270 200,350 Z" fill="white" />
+    <ellipse cx="200" cy="300" rx="40" ry="20" fill="black" />
+    <ellipse cx="200" cy="300" rx="30" ry="15" fill="white" />
+    <ellipse cx="200" cy="300" rx="10" ry="5" fill="black" />
+    <line x1="160" y1="270" x2="160" y2="280" stroke="black" stroke-width="3" />
+    <line x1="240" y1="270" x2="240" y2="280" stroke="black" stroke-width="3" />
+  </g>
+</svg>

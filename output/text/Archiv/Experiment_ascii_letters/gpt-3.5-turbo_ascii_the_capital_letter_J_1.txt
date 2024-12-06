@@ -1,0 +1,12 @@
+Here is an example of an ASCII art representation of the capital letter J:
+
+'''
+    ____
+   /  _/
+  / /  
+ / /   
+/ /    
+\ \    
+ \ \ _ _\
+  \_ _ _/
+'''

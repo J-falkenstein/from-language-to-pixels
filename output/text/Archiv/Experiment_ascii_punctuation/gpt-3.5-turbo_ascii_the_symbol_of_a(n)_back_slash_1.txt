@@ -1,0 +1,15 @@
+Here is an example of an ascii art showing the backslash symbol:
+
+'''
+\
+ \\
+  \\
+   \\
+    \\
+     \\
+      \\
+       \\
+        \\
+         \\
+          \\
+'''

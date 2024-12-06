@@ -1,0 +1,1 @@
+"""The capital letter L is a straight vertical line with a horizontal line extending from its bottom end. The vertical line is longer than the horizontal line, and they intersect at a right angle. The vertical line is aligned in a straight vertical orientation, while the horizontal line extends to the right."""

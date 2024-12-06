@@ -1,0 +1,9 @@
+Here is an example ascii art that forms an image of the letter P:
+'''
+ _______ 
+|  _____|
+| |_____ 
+|_____  |
+ _____) |
+|______/
+'''

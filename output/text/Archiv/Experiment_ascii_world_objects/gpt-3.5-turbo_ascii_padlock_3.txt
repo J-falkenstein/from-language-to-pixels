@@ -1,0 +1,10 @@
+Here is an example of ASCII art of a padlock:
+
+   _______
+  /\   __ \
+ /  \  \_\ \
+ \   \  ___/
+  \   \ \
+   \   \ \
+    \   \ \
+     \___\_\

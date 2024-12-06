@@ -1,0 +1,10 @@
+Here is an ASCII art representation of the capital letter G:
+
+```
+  _______  
+.' ____  \ 
+| (____)  |
+'_.____.  |
+| \____)  |
+\______.' 
+```

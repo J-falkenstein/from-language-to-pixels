@@ -1,0 +1,9 @@
+<svg width="200" height="200" viewBox="-100 -100 200 200">
+  <rect x="-40" y="-60" width="80" height="120" fill="#C0C0C0" />
+  <rect x="-38" y="-58" width="76" height="116" fill="white" />
+  <rect x="-35" y="58" width="70" height="10" fill="black" />
+  <rect x="-30" y="-60" width="60" height="20" fill="black" />
+  <rect x="-30" y="60" width="60" height="20" fill="black" />
+  <rect x="-55" y="-40" width="20" height="80" fill="black" />
+  <rect x="35" y="-40" width="20" height="80" fill="black" />
+</svg>

@@ -1,0 +1,45 @@
+<svg width="300" height="300" viewBox="-150 -150 300 300">
+
+  <!-- Crown Band -->
+  <circle cx="0" cy="0" r="100" fill="gold" />
+
+  <!-- Crown Points -->
+  <g>
+    <polygon points="0,-100 -10,-135 10,-135" fill="gold" />
+    <circle cx="0" cy="-135" r="8" fill="red" />
+
+    <polygon points="45,-74 37,-110 53,-110" fill="gold" />
+    <circle cx="45" cy="-110" r="8" fill="blue" />
+
+    <polygon points="86,-26 70,-55 102,-55" fill="gold" />
+    <circle cx="86" cy="-55" r="8" fill="green" />
+
+    <polygon points="100,28 82,5 118,5" fill="gold" />
+    <circle cx="100" cy="5" r="8" fill="purple" />
+
+    <polygon points="86,83 70,55 102,55" fill="gold" />
+    <circle cx="86" cy="55" r="8" fill="orange" />
+
+    <polygon points="45,131 37,95 53,95" fill="gold" />
+    <circle cx="45" cy="95" r="8" fill="pink" />
+
+    <polygon points="0,150 -10,115 10,115" fill="gold" />
+    <circle cx="0" cy="115" r="8" fill="turquoise" />
+
+    <polygon points="-45,131 -37,95 -53,95" fill="gold" />
+    <circle cx="-45" cy="95" r="8" fill="yellow" />
+
+    <polygon points="-86,83 -70,55 -102,55" fill="gold" />
+    <circle cx="-86" cy="55" r="8" fill="silver" />
+    
+    <polygon points="-100,28 -82,5 -118,5" fill="gold" />
+    <circle cx="-100" cy="5" r="8" fill="cyan" />
+    
+    <polygon points="-86,-26 -70,-55 -102,-55" fill="gold" />
+    <circle cx="-86" cy="-55" r="8" fill="magenta" />
+    
+    <polygon points="-45,-74 -37,-110 -53,-110" fill="gold" />
+    <circle cx="-45" cy="-110" r="8" fill="lime" />
+  </g>
+
+</svg>

@@ -1,0 +1,40 @@
+objects in a way that a blind person can understand and visualize:
+
+1. Chair:
+- The chair has a rectangular backrest and a flat seat.
+- There are four legs placed evenly at each corner of the seat, giving it stability.
+- The backrest is taller than the seat, providing support for the back.
+- The seat is positioned horizontally, aligned with the ground.
+- The legs are vertical, perpendicular to the ground.
+- The backrest is inclined backward, creating an angle with the seat.
+
+2. Car:
+- The car has a compact rectangular shape with rounded edges.
+- It has four wheels, one at each corner, allowing it to move.
+- The front of the car has a windshield that curves upward and connects to the roof.
+- On the sides, there are two doors with handles.
+- At the back, there may be a rectangular window and taillights.
+- The front of the car is usually lower than the back, creating a slight slant.
+
+3. Tree:
+- The tree has a tall vertical trunk, extending from the ground upward.
+- The trunk branches out into smaller vertical branches.
+- At the top, there is a canopy or a cluster of branches and leaves.
+- The branches spread out horizontally, forming a wider shape at the top.
+- The leaves create a full, rounded silhouette.
+- The trunk connects the ground with the canopy, acting as the main support.
+
+4. Cup:
+- The cup has a cylindrical shape with a circular opening at the top.
+- It narrows down towards the bottom, forming a stable base.
+- The handle extends from one side, creating a curved shape.
+- The handle is positioned opposite to the opening, allowing for easy grip.
+- The cup is symmetrical, with the handle aligned with the center of the opening.
+
+5. Clock:
+- The clock has a circular shape, like a flat disc.
+- It has twelve markings or numbers around the circumference, indicating the hours.
+- There are two hands on the clock that move to show the time.
+- The longer hand, called the minute hand, moves faster than the shorter hand, called the hour hand.
+- The hands rotate around a central point, which is the center of the clock's face.
+- The markings and hands are positioned symmetrically and radially around the center.

@@ -1,0 +1,12 @@
+```
+00000000
+00111000
+01000100
+01000100
+00111000
+01000100
+01000100
+00111000
+```
+
+Each 0 represents a white pixel, and each 1 represents a black pixel. When these pixels are displayed on a screen, they form the image of the number 8.

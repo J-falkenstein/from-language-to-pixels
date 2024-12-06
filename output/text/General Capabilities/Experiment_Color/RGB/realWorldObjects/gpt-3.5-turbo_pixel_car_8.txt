@@ -1,0 +1,1 @@
+As the description above is missing, it is not possible to provide an example of a grid of pixels forming an image of a car. Could you please provide more details or a specific image that you would like to be represented as a pixel matrix?

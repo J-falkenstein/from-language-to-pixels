@@ -1,0 +1,11 @@
+The number 10 could not be represented in an 8x8 matrix as it is a two digit number and would need more space for its representation. However, we can create a matrix for 1 and 0 separately:
+
+For the number 1:
+00000000
+00001000
+00011000
+00001000
+00001000
+00001000
+00011110
+00000000

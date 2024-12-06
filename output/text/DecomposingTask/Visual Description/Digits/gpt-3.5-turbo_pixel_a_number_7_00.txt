@@ -1,0 +1,11 @@
+A simplified visual representation of a number 7 that can be used to create an 8x8 pixel artwork is as follows:
+
+- The fundamental shape is a vertical line positioned in the center of the 8x8 grid.
+- The vertical line extends from the top edge of the grid to the bottom edge, occupying the entire height.
+- The line is relatively thick, filling about 2-3 pixels in width.
+- At the top of the line, there is a small horizontal line extending towards the right side of the grid, connected to the vertical line's midsection.
+- The length of this horizontal line is approximately 3-4 pixels.
+- The bottom part of the vertical line extends slightly below the grid's baseline, forming a slight curve.
+- The curve at the bottom is noticeable but does not protrude as much as the top horizontal line.
+
+By following these instructions, you will create a simplified representation that retains the core features necessary for recognition as the number 7.

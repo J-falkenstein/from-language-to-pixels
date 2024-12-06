@@ -1,0 +1,3 @@
+Due to the limitation of text-based representation and the complexity of natural images, it would be challenging to provide an example of a mountain image as a pixel matrix here. Natural images typically have millions of pixels with varying RGB values, which would not be feasible to represent as a text-based matrix. 
+
+Typically, an image of a mountain would consist of many different colors, shades and gradients. Therefore, the RGB values would vary greatly, and it would be represented as a large matrix of RGB values.

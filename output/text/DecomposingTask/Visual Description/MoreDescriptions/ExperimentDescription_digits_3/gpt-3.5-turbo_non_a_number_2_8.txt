@@ -1,0 +1,5 @@
+To draw a simplified version of the digit 2, imagine an inclined letter "Z" lying on its back. Start by drawing a slightly curved horizontal line from left to right, slightly tilted upwards. Now, at the right end of this line, draw a vertical line downward, about half the length of the horizontal line. 
+
+Next, at the bottom end of the vertical line, draw a slightly diagonal line upwards and to the left, connecting it to the end of the horizontal line. This diagonal line should be shorter than the first horizontal line. Finally, from the end of the diagonal line, draw a small horizontal line to the left, slightly longer than the diagonal line. This line should be positioned just below the horizontal line you initially drew.
+
+In summary, the simplified version of the number 2 consists of a slightly curved horizontal line with a shorter vertical line extending downward from its right end. From the bottom of the vertical line, a diagonal line connects to the end of the horizontal line, and a short horizontal line extends to the left just below the initial horizontal line.

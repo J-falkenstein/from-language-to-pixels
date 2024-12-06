@@ -1,0 +1,11 @@
+The object I will describe is a window. 
+
+Shape: A window typically has a rectangular shape, with two longer sides and two shorter sides forming a frame.
+
+Distinctive features: The main feature of a window is the glass pane. It is usually transparent and fills most of the frame, allowing light to pass through. The glass may have a smooth surface.
+
+Proportions: The glass pane is often larger in height than in width, creating a vertical orientation. The frame surrounding the glass is usually thinner compared to the glass itself.
+
+Alignments and spatial relationships: The glass pane is typically positioned in the center of the frame, parallel to the longer sides. The frame is aligned with the edges of the glass, forming a neat enclosure. 
+
+Overall, a window can be described as a rectangular frame with a transparent glass pane, positioned centrally within the frame.

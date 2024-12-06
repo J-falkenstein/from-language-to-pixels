@@ -1,0 +1,1 @@
+"""The symbol of a right bracket is a straight vertical line positioned on the right side. The line is longer than it is wide, with a length that extends downward. It is typically aligned with other elements on its left side, creating a clear boundary or separation between them."""

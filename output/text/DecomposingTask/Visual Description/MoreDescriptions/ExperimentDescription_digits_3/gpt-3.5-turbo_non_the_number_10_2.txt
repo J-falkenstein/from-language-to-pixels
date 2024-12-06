@@ -1,0 +1,9 @@
+To draw the number 10, imagine a straight vertical line first. This line will serve as the main body of the digit. 
+
+Next, at the top right end of the line, draw a small circle or dot. This circular shape represents the number 1. It should be relatively smaller compared to the main line, resembling a sun or a tiny dot on a paper.
+
+Ensure that the circle or dot sits slightly above the middle of the vertical line. This alignment will indicate the spatial relationship between the two elements. 
+
+Remember, the vertical line represents the zero in the number 10, while the circle or dot represents the one. 
+
+By drawing a straight line for zero and a small circle or dot for one, you will successfully depict the number 10 in a simplified manner.

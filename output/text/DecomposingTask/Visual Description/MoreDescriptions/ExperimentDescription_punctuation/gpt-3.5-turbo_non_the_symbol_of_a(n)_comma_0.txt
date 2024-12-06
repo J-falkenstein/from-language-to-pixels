@@ -1,0 +1,1 @@
+"""The symbol of a comma is a small curved line that starts at the top left and curves downwards and to the right. It has a smooth, flowing shape resembling a small lowercase 'c' or a backward 's'. The top of the curve is aligned with the bottom of any preceding text or element, and the bottom of the curve extends slightly below the baseline of the text."""

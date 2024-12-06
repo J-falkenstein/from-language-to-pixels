@@ -1,0 +1,12 @@
+Representing a complex image like a house with an 8x8 pixel matrix will be extremely limited in detail. However, we can create a very simplified representation:
+
+[ (255, 255, 255)(255, 255, 255)(255, 255, 255)(0, 0, 0)(0, 0, 0)(255, 255, 255)(255, 255, 255)(255, 255, 255) ]
+[ (255, 255, 255)(255, 255, 255)(0, 0, 0)(255, 255, 255)(255, 255, 255)(0, 0, 0)(255, 255, 255)(255, 255, 255) ]
+[ (255, 255, 255)(0, 0, 0)(255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255)(0, 0, 0)(255, 255, 255) ]
+[ (0, 0, 0)(255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255)(0, 0, 0) ]
+[ (0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0)(0, 0, 0) ]
+[ (0, 0, 0)(0, 0, 0)(0, 128, 0)(0, 128, 0)(0, 128, 0)(0, 128, 0)(0, 0, 0)(0, 0, 0) ]
+[ (0, 0, 0)(0, 128, 0)(255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255)(0, 128, 0)(0, 0, 0) ]
+[ (0, 0, 0)(0, 128, 0)(255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255)(0, 128, 0)(0, 0, 0) ]
+
+This matrix represents a very basic black and white house with a green floor. The RGB values (0, 128, 0) represent green. The house shape is formed by filling the matrix with certain black (0, 0, 0) pixels. Because of the limited 8x8 pixel resolution, this is a very abstract representation of a house.

@@ -1,0 +1,9 @@
+A chess board is a square-shaped object divided into 64 smaller squares, arranged in an 8x8 grid. The board is typically made of wood or other materials and has a smooth and flat surface. Each square on the board is of equal size and is alternately colored in two contrasting shades, usually black and white.
+
+Starting from the bottom left corner, the first square is always a dark color. Moving to the right, the colors alternate consistently across the rows, creating a regular pattern. The board has four sides, with each side having eight squares.
+
+On the top and bottom edges of the board, there are letters that identify the vertical columns from A to H. Similarly, on the left and right sides, numbers denote the horizontal rows from 1 to 8.
+
+The most distinctive features of a chess board are the squares and the contrast between the dark and light colors. The squares are perfectly aligned and create a symmetrical pattern, forming the foundation for arranging chess pieces during gameplay.
+
+Remember to provide this simplified sketch description along with additional guidance, such as spatial relationships and positions, to enable the blind person to understand the spatial arrangement of the chess board accurately.

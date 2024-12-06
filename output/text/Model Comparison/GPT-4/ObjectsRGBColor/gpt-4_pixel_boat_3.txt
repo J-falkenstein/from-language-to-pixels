@@ -1,0 +1,5 @@
+Since generating an ASCII matrix of a more complex image like a boat would be very lengthy and not easily understood, it's better to describe the concept. 
+
+The processes behind would be pretty much the same as described above. If you were to manually draw out a boat image, you would specify the RGB values for each pixel based on the color you want for each part of the boat. These values would create an array of color values, which would map out to create the image of the boat. 
+
+However, in real-world applications, this is done automatically using image processing software. They translate the color information in each pixel of an image into the corresponding RGB values creating a matrix. This matrix can then be used in various applications such as image editing, machine learning for image recognition, and computer vision, among others.

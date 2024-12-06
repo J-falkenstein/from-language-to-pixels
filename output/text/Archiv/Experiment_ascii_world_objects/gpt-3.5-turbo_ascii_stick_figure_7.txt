@@ -1,0 +1,6 @@
+Here is an example of an ascii art of a stick figure:
+
+   O
+  /|\
+  / \
+    

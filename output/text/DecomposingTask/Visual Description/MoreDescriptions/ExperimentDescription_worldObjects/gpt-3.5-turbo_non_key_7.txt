@@ -1,0 +1,31 @@
+objects.
+
+Object 1: A chair
+Shape: A four-legged object with a straight backrest.
+Distinctive features: It has a seat for sitting and a backrest for support.
+Proportions: The seat is positioned at a height suitable for sitting, and the backrest is slightly inclined backward.
+Alignments and spatial relationships: The legs are evenly spaced and positioned vertically beneath the seat. The backrest is aligned with the back edge of the seat, forming a straight vertical line.
+
+Object 2: A phone
+Shape: Rectangular block with rounded edges.
+Distinctive features: It has a screen on the front, buttons or a touchpad below the screen, and a speaker at the top.
+Proportions: The screen occupies the majority of the front surface, and the buttons or touchpad are positioned below it. The speaker is at the top, aligned with the screen.
+Alignments and spatial relationships: The buttons or touchpad are centered below the screen, forming a horizontal line. The speaker is aligned above the screen, forming a vertical line.
+
+Object 3: A tree
+Shape: A tall object with a trunk branching out into multiple smaller branches.
+Distinctive features: It has a central trunk and leafy branches.
+Proportions: The trunk is thicker at the bottom and thins out as it goes upwards. The branches spread out from the trunk, forming a branching structure.
+Alignments and spatial relationships: The trunk is positioned vertically, and the branches extend horizontally and diagonally in various directions from the trunk. The higher branches are thinner compared to the lower ones.
+
+Object 4: A car
+Shape: A rectangular object with rounded edges and wheels.
+Distinctive features: It has a windshield at the front, doors on the sides, and wheels at the corners.
+Proportions: The windshield is positioned at the front, while the doors are on the sides between the front and rear wheels. The wheels are circular and aligned with the corners of the car.
+Alignments and spatial relationships: The windshield forms an angled surface at the front. The doors are vertically aligned with each other and positioned in the center of the car's side. The wheels are positioned at the corners, forming a horizontal and vertical alignment.
+
+Object 5: A cup
+Shape: A cylindrical object with a handle.
+Distinctive features: It has a round opening at the top and a handle on one side.
+Proportions: The opening is wider than the rest of the cup, and the handle is attached to the side opposite the opening.
+Alignments and spatial relationships: The handle is aligned vertically with the cup and positioned slightly below the opening. The cup forms a straight vertical line, and the handle extends horizontally from it.

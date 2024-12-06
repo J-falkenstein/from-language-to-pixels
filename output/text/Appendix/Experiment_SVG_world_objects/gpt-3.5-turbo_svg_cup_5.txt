@@ -1,0 +1,8 @@
+<svg width= "400" height= "400">
+  <path d="M100 300 C40 250, 40 100, 175 100 C320 100, 320 260, 260 300 " fill="none" stroke="black" />
+  <polyline points="100 300 120 350 170 350 190 300" fill="none" stroke="black" />
+  <line x1="100" y1="300" x2="190" y2="300" fill="none" stroke="black" />
+  <circle cx="150" cy="220" r="30" fill="white" />
+  <line x1="100" y1="100" x2="150" y2="160" fill="none" stroke="black" />
+  <line x1="150" y1="160" x2="200" y2="100" fill="none" stroke="black" />
+</svg>

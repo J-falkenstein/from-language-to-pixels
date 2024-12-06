@@ -1,0 +1,9 @@
+It's a bit difficult to represent a star via pixel arrays in a description text without a visual platform, but here's a very simplistic 5x5 black and white example where 0s represent white and 1s represent black. 
+
+[ (0, 0, 1, 0, 0) ]
+[ (0, 1, 0, 1, 0) ]
+[ (1, 0, 0, 0, 1) ]
+[ (0, 1, 0, 1, 0) ]
+[ (0, 0, 1, 0, 0) ]
+
+This is a very small and simplified representation of a star. A real image would have a much higher resolution (more pixels), and the pixels would have RGB values to represent color.

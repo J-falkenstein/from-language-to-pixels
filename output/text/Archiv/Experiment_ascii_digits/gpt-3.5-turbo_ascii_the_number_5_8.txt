@@ -1,0 +1,10 @@
+Sure! Here is an example of an ASCII art representation of the number 5:
+
+```
+ .-'''-. 
+'  .---' 
+|  |     
+ '  '--. 
+.-'''-.' 
+'------' 
+```

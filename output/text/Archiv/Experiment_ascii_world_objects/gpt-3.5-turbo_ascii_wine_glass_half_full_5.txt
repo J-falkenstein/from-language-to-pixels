@@ -1,0 +1,11 @@
+```
+            (
+    (      )
+    )    (
+ _________
+|         |
+|         |
+ \_______/
+```
+
+This is an example of an ascii art of a wine glass half full.

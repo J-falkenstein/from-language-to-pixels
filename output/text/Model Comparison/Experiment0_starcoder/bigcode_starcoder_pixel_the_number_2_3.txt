@@ -1,0 +1,10 @@
+
+00000000
+00111100
+00000110
+00111000
+01100000
+01100000
+00111100
+00000000
+The digit chosen as the name hopefully logically corresponds to the matrix - only if you use your sense of logic to interpret the image that

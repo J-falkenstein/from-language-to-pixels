@@ -1,0 +1,18 @@
+objects.
+
+1. Tree:
+A tree has a tall, vertical trunk that widens towards the bottom. At the top, it branches out into smaller, thinner branches. The branches are irregularly spaced, creating a somewhat rounded or cloud-like shape overall. The tree is rooted firmly in the ground, with its roots spreading outward in various directions. The leaves on the branches are small and sometimes grouped together, creating a canopy-like effect.
+
+2. Chair:
+A chair has a rectangular seat that is wider than it is deep. It is supported by four legs, each positioned at the corners. The backrest is vertically aligned with the rear legs, slightly tilted backward for comfort. The backrest is taller than the seat, curving slightly inward at the top. The armrests, if present, are usually aligned with the front legs, extending horizontally from the sides of the chair at a comfortable height.
+
+3. Car:
+A car has a streamlined, elongated shape with a rounded front end. The hood is slightly sloped and connected to the windshield, which is positioned at an angle. The roof is flat and extends from the windshield to the trunk, creating a continuous line. The side windows are rectangular and aligned vertically, while the wheels are positioned at the outer edges, usually round and larger in size. The car's proportions maintain a balance between the front and back, with the roofline sloping slightly toward the rear.
+
+4. Clock:
+A clock typically has a circular shape with numbers or marks evenly spaced around the perimeter. The clock face is divided into two halves, one with numbers and the other with markings for minutes or seconds. The hour and minute hands extend from the center of the clock face, with the hour hand shorter than the minute hand. The hands move in a clockwise direction. The clock might have a frame or a casing surrounding the face, but that is not essential for its recognition.
+
+5. Cup:
+A cup has a cylindrical shape with a wider top opening and a narrower bottom. The sides are smooth and curved, with no sharp edges. The handle, if present, is attached to the side of the cup near the top, extending outwards horizontally. The cup's proportions maintain a balance between the height and width, with the top opening being wider than the bottom. The cup can be imagined as a smooth, rounded shape with a handle on the side.
+
+Remember, these descriptions aim to capture the key features that enable someone to recognize the object and create a simplified sketch. The level of detail provided may vary depending on the specific requirements and abilities of the blind person.

@@ -1,0 +1,10 @@
+0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 1 0
+ 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0
+
+In this example, the pixel at the sixth row and seventh column is turned on (represented by a 1), while all other pixels are turned off (represented by 0).

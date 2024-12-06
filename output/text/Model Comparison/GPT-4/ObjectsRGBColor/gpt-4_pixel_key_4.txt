@@ -1,0 +1,9 @@
+Since the system doesn't support detailed graphical representation, I'll depict an image key symbolically. Let's consider a simple 3 by 3 pixel image which shows a "*".
+
+The "*" symbol consists of three pixels of black color and the remaining pixels are white. Representing it as RGB color values, we'd have the following:
+
+[(255, 255, 255), (0, 0, 0), (255, 255, 255)]
+[(255, 255, 255), (0, 0, 0), (255, 255, 255)]
+[(255, 255, 255), (0, 0, 0), (255, 255, 255)]
+
+The middle pixel of each row is black (RGB color (0,0,0)) while the rest are white (RGB color (255,255,255)).

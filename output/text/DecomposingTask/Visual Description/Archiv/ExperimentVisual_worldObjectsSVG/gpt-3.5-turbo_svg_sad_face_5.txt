@@ -1,0 +1,6 @@
+<svg width="200" height="200" viewBox="-100 -100 200 200">
+  <circle cx="0" cy="0" r="80" fill="yellow" />
+  <path d="M-30,-20 Q0,-60 30,-20" fill="none" stroke="black" stroke-width="6" />
+  <path d="M-30,-10 Q0,0 30,-10" fill="none" stroke="black" stroke-width="6" />
+  <path d="M-30,10 Q0,20 30,10" fill="none" stroke="black" stroke-width="6" />
+</svg>

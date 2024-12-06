@@ -1,0 +1,11 @@
+In a simplified 8x8 pixel representation of a skull, the fundamental shape is a square, resembling the overall outline of a head. The top and bottom sides of the square are parallel, while the left and right sides curve slightly inward towards the center.
+
+Within the square, two circular shapes represent the eye sockets, positioned symmetrically and centered horizontally. Each eye socket is formed by a 2x2 pixel square, with the bottom two pixels removed to create a rounded effect.
+
+Below the eye sockets, a vertical rectangular shape represents the nasal cavity. It is centered vertically, occupying the middle two rows of pixels. The upper edge of the rectangular shape is diagonally aligned with the top corners of the eye sockets.
+
+For the mouth, a horizontal rectangular shape is positioned below the nasal cavity, occupying the bottom two rows of pixels. The width of the mouth is slightly less than the eye sockets, and it is centered horizontally within the square.
+
+To represent the teeth, four short vertical lines are evenly distributed within the mouth, with two lines on each side. These lines should be thin and shorter than the height of the mouth.
+
+Overall, this simplified representation of a skull captures the essential features necessary for recognition, such as the square outline, circular eye sockets, rectangular nasal cavity, and horizontal mouth with vertical teeth. Due to space constraints, intricate details of the skull are omitted, focusing solely on the essential traits to create an 8x8 pixel artwork of a skull.

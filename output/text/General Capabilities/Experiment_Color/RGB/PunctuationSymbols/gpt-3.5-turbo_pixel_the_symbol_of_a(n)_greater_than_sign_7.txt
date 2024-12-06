@@ -1,0 +1,1 @@
+Unfortunately, the example grid of pixels for the symbol of a greater than sign is missing. Could you please provide the grid of pixels for the greater than sign image?

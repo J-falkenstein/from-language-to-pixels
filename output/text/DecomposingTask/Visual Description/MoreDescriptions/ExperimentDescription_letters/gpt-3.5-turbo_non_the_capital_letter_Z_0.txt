@@ -1,0 +1,1 @@
+"""The capital letter Z has two diagonal lines that intersect at a right angle. The top line starts from the left, slanting downwards to the right, and ends at a sharp point. The bottom line starts from the right, slanting upwards to the left, and also ends at a sharp point. The lines are of equal length and are aligned horizontally, creating a distinctive zigzag shape."""

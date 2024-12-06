@@ -1,0 +1,10 @@
+Here is an example of ASCII art representing the letter S:
+
+```
+   _____
+ /  _____\
+|  /      
+ \ \_____ 
+  \_____  \
+        \__\
+```

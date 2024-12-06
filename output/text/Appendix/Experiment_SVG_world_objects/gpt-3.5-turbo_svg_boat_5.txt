@@ -1,0 +1,7 @@
+<svg width="200" height="200" viewBox="-100 -100 200 200">      
+  <polygon points="0,-50 80,50 -80,50" fill="#1F75FE" />
+  <rect x="-40" y="50" width="80" height="40" fill="#1F75FE" />
+  <polygon points="0,-50 0,-100 20,-80 -20,-80" fill="#FFD700" />
+  <circle cx="0" cy="25" r="10" fill="white" />
+  <rect x="-10" y="25" width="20" height="20" fill="white" />
+</svg>

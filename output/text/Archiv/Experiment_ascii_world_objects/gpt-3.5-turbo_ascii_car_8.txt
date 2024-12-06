@@ -1,0 +1,8 @@
+Here is an example of an ASCII art representation of a car:
+
+       _______
+   ___//      ---\___
+ /                   \
+|          |          |
+ \___     /____\
+       ---     ---

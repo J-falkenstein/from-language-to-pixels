@@ -1,0 +1,1 @@
+"""The underscore symbol is a straight horizontal line that is typically longer than it is tall. It is positioned at the bottom of the visual field, aligning with the baseline of other characters or elements. The line is uniform in thickness and does not have any distinct features or curves."""

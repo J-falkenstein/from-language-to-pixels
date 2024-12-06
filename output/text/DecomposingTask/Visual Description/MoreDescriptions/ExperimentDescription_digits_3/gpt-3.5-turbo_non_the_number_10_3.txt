@@ -1,0 +1,9 @@
+To help a blind person draw a simplified version of the number 10, I would describe it as follows:
+
+1. Start by drawing a vertical line from top to bottom, almost the length of the paper. This vertical line represents the stem of the number.
+
+2. At the very top of the stem, draw a small curve bending towards the right side. This curve forms the hook or serif at the top of the number.
+
+3. To the right of the stem, draw a small, round dot or circle. This dot sits just above the bottom half of the vertical line and is slightly to the right of it. The dot represents the number's zero.
+
+So, to recap, imagine a long vertical stem with a small curve at the top forming a hook or serif, and a round dot sitting just above the bottom half of the stem towards the right side.

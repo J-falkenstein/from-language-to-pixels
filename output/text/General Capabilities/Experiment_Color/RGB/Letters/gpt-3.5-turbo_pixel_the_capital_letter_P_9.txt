@@ -1,0 +1,1 @@
+Unfortunately, there is no example of a grid of pixels provided.

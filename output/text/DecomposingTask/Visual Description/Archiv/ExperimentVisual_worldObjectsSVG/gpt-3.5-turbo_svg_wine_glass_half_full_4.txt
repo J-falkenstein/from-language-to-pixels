@@ -1,0 +1,21 @@
+<svg width="200" height="400" viewBox="-100 -200 200 400">
+  <rect x="-50" y="0" width="100" height="200" fill="#EDEBEB" />
+  <path d="M -40 -100 L 40 -100 L 0 -200 Z" fill="#EDEBEB" />
+  <path d="M -5 -200 L 5 -200 L 0 -120 Z" fill="#EDEBEB" />
+  <path d="M -40 -100 Q 0 -50 40 -100" fill="none" stroke="#000000" stroke-width="2" />
+  <path d="M -40 -100 Q 0 -140 40 -100" fill="none" stroke="#000000" stroke-width="2" />
+  <path d="M -40 -100 Q -40 -50 0 -50" fill="none" stroke="#000000" stroke-width="2" />
+  <path d="M 0 -50 Q 40 -50 40 -100" fill="none" stroke="#000000" stroke-width="2" />
+  <path d="M -40 -100 Q -40 -160 0 -160" fill="none" stroke="#000000" stroke-width="2" />
+  <path d="M 0 -160 Q 40 -160 40 -100" fill="none" stroke="#000000" stroke-width="2" />
+  <path d="M -40 -100 Q -40 -120 0 -120" fill="none" stroke="#000000" stroke-width="2" />
+  <path d="M 0 -120 Q 40 -120 40 -100" fill="none" stroke="#000000" stroke-width="2" />
+  <circle cx="0" cy="-100" r="20" fill="#EDEBEB" />
+  <circle cx="0" cy="-160" r="20" fill="#EDEBEB" />
+  <line x1="-40" y1="-100" x2="40" y2="-100" stroke="#000000" stroke-width="2" />
+  <line x1="0" y1="-120" x2="0" y2="-200" stroke="#000000" stroke-width="2" />
+  <line x1="-40" y1="-100" x2="-40" y2="-160" stroke="#000000" stroke-width="2" />
+  <line x1="40" y1="-100" x2="40" y2="-160" stroke="#000000" stroke-width="2" />
+  <path d="M -40 -100 A 40 40 0 0 0 40 -100" fill="none" stroke="#000000" stroke-width="2" />
+  <path d="M -40 -160 A 40 40 0 0 0 40 -160" fill="none" stroke="#000000" stroke-width="2" />
+</svg>

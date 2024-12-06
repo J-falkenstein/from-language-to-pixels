@@ -1,0 +1,10 @@
+The pixel matrix for the capital letter F would be:
+
+ 0 0 0 0 0 0 0 0
+ 0 1 1 1 1 1 1 0
+ 0 1 1 0 0 0 0 0
+ 0 1 0 0 0 0 0 0
+ 0 1 1 1 1 1 1 0
+ 0 1 1 0 0 0 0 0
+ 0 1 0 0 0 0 0 0
+ 0 1 0 0 0 0 0 0

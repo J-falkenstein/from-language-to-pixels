@@ -1,0 +1,1 @@
+Due to the limitations of text representation, it is not possible to accurately depict an image of coffee using a grid of pixels. However, in an actual pixel matrix, each pixel would contain the RGB values representing the colors of the coffee image.

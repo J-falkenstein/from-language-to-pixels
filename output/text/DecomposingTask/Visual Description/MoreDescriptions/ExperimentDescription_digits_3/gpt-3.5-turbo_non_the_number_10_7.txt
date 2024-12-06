@@ -1,0 +1,12 @@
+To help a blind person draw a simplified version of the number 10, here's a visual description:
+
+1. Start with a vertical line as the fundamental shape of the digit.
+2. The vertical line is relatively longer than other digits, extending from top to bottom.
+3. Towards the top of the line, a small horizontal line intersects it, creating a T-shape.
+4. The horizontal line is positioned slightly above the halfway point of the vertical line.
+5. The horizontal line is shorter than the vertical line, but long enough to be noticeable.
+6. The horizontal line should align almost perfectly perpendicular to the vertical line.
+7. The horizontal line is essential to recognize the digit, as it forms the distinctive feature.
+8. Ensure the spacing between the two lines is slightly smaller than the length of the horizontal line.
+
+By following these instructions, the blind person should be able to draw a simplified version of the digit 10.

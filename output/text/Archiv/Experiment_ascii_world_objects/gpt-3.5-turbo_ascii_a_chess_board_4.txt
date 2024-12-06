@@ -1,0 +1,14 @@
+Here is an example of an ASCII art representation of a chess board:
+
+```
+  a b c d e f g h
+8 r n b q k b n r
+7 p p p p p p p p
+6 . . . . . . . .
+5 . . . . . . . .
+4 . . . . . . . .
+3 . . . . . . . .
+2 P P P P P P P P
+1 R N B Q K B N R
+```
+Note: In ASCII art, the characters are not properly aligned and may appear distorted depending on the text editor or font being used.

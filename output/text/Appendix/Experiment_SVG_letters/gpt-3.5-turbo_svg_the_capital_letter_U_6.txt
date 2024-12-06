@@ -1,0 +1,3 @@
+<svg width="200" height="200" viewBox="0 0 200 200">
+  <path d="M30,30 L100,30 L100,130 Q100,170 140,170 L160,170 Q200,170 200,130 L200,30 L170,30" fill="none" stroke="black" />
+</svg>

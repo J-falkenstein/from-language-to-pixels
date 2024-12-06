@@ -1,0 +1,11 @@
+A simplified visual representation of the symbol of an "at sign" (@) in an 8x8 pixel artwork can be described as follows:
+
+- The symbol is composed of a circle with a curved tail.
+- The circle is positioned slightly above the center of the artwork.
+- The size of the circle should occupy approximately 4 pixels in width and 3 pixels in height.
+- The tail extends from the bottom right of the circle, curving upwards towards the top left.
+- The tail should be approximately 3 pixels in length and 2 pixels in width.
+- The tail's curve starts near the bottom right corner of the circle and arcs towards the top left, reaching its highest point near the top left corner.
+- Maintain enough space between the tail and the circle to ensure distinct separation, with a gap of approximately 1 pixel.
+
+By simplifying the symbol in this manner, it retains the essential characteristics of the "@" symbol, allowing for recognition within the limited space of an 8x8 pixel artwork.

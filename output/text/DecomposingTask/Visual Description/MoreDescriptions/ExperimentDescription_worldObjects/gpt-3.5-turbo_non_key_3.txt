@@ -1,0 +1,26 @@
+object components.
+
+Object: Chair
+
+Description:
+The chair has a rectangular shape with four legs that are evenly spaced at its corners. The backrest is slightly taller than the seat and is positioned vertically at the back center of the chair. The seat is flat and horizontal, with a slight downward slope towards the front edge. The backrest and seat are connected by two vertical supports on each side, forming an "L" shape. The backrest's top edge is curved inward, creating a gentle concave shape. The seat's front edge is straight and aligned with the front legs. The chair's overall proportions are balanced and symmetrical, with the seat positioned at a comfortable sitting height.
+
+Object: Cup
+
+Description:
+The cup has a cylindrical shape, wider at the top and narrower at the bottom. It has a handle attached to one side, extending horizontally from the top edge. The handle is curved and follows the contour of the cup. The rim of the cup is round and defines its opening, while the base is flat and stable. The cup's vertical alignment is centered, with the handle positioned opposite to the cup's side. The handle allows for easy grip and lifting, enhancing the cup's functionality.
+
+Object: Car
+
+Description:
+The car has a streamlined shape, resembling a teardrop. The front end is slightly elevated and wider, forming a smooth curve that gradually tapers towards the back. The windows are elongated and wrap around the car's sides, creating a sense of continuity. Two larger circular wheels are positioned symmetrically on each side, with a smaller wheel at the front and back aligned with the car's body. The car's roof has a curved shape that slopes downward towards the back. The proportions are balanced, with the wheels evenly spaced and aligned with the car's body, creating a harmonious design.
+
+Object: Tree
+
+Description:
+The tree has a vertical trunk that extends from the ground to a specific height. The trunk is cylindrical, gradually tapering as it reaches the top. Branches emerge from the sides of the trunk at various heights, branching out further into smaller limbs and eventually twigs. The tree's crown forms a broad, irregularly shaped cluster of foliage, with leaves densely arranged. The proportions showcase a stable and strong trunk supporting a branching structure that provides shade and shelter.
+
+Object: Book
+
+Description:
+The book has a rectangular shape, with a flat cover on each side. The cover is slightly larger than the inner pages, creating a visible border. The spine connects the covers, allowing the book to open and close. The pages are stacked together and bound at the spine, forming a solid block. The book's size can vary, but the proportions between the covers, spine, and pages are consistent. The book's compact structure enables easy storage and access to information.

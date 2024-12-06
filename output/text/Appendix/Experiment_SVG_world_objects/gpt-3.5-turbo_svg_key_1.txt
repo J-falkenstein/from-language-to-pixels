@@ -1,0 +1,4 @@
+<svg width="200" height="200" viewBox="-100 -100 200 200">
+  <path d="M0,0 20,-60 40,0 20,60 Z" fill="gold" />
+  <circle cx="0" cy="0" r="25" fill="black" />
+</svg>

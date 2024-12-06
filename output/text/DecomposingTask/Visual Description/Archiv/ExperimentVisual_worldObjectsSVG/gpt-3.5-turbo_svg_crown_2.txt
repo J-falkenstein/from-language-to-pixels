@@ -1,0 +1,32 @@
+<svg width="200" height="200" viewBox="-100 -100 200 200">
+  <circle cx="0" cy="0" r="90" fill="gold" />
+
+  <!-- Band of the crown -->
+  <circle cx="0" cy="0" r="80" fill="silver" />
+
+  <!-- Points of the crown -->
+  <g transform="rotate(0)">
+    <polygon points="0,-90 3,-75 -3,-75" fill="silver" />
+    <circle cx="0" cy="-85" r="5" fill="red" />
+  </g>
+  <g transform="rotate(45)">
+    <polygon points="0,-90 3,-75 -3,-75" fill="silver" />
+    <circle cx="0" cy="-85" r="5" fill="blue" />
+  </g>
+  <g transform="rotate(90)">
+    <polygon points="0,-90 3,-75 -3,-75" fill="silver" />
+    <circle cx="0" cy="-85" r="5" fill="green" />
+  </g>
+  <g transform="rotate(135)">
+    <polygon points="0,-90 3,-75 -3,-75" fill="silver" />
+    <circle cx="0" cy="-85" r="5" fill="purple" />
+  </g>
+  <g transform="rotate(180)">
+    <polygon points="0,-90 3,-75 -3,-75" fill="silver" />
+    <circle cx="0" cy="-85" r="5" fill="orange" />
+  </g>
+  <g transform="rotate(-45)">
+    <polygon points="0,-90 3,-75 -3,-75" fill="silver" />
+    <circle cx="0" cy="-85" r="5" fill="pink" />
+  </g>
+</svg>

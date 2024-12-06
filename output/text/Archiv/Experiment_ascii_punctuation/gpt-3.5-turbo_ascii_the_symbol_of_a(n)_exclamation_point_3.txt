@@ -1,0 +1,11 @@
+Here is an example of an ascii art showing the exclamation point symbol:
+
+```
+    __  
+   / /  
+  / /   
+ / /    
+ \ \    
+  \ \   
+   \_\  
+```

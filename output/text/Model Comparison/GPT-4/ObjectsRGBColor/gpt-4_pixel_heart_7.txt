@@ -1,0 +1,25 @@
+Assuming a heart shape is represented by the character 'x' and the background is represented by a space character ' ', here is a pixel matrix representation of a heart. In this simplified scenario, we're not dealing with colors. We're simply representing presence ('x') or absence (' ') of a pixel.
+
+[
+[ ' ', ' ', ' ', 'x', 'x', ' ', ' ', 'x', 'x', ' ', ' ', ' ' ]
+[ ' ', ' ', 'x', ' ', ' ', 'x', 'x', ' ', ' ', 'x', ' ', ' ' ]
+[ ' ', 'x', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', 'x', ' ' ]
+[ 'x', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', 'x' ]
+[ ' ', 'x', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', 'x', ' ' ]
+[ ' ', ' ', 'x', ' ', ' ', ' ', ' ', ' ', ' ', 'x', ' ', ' ' ]
+[ ' ', ' ', ' ', 'x', ' ', ' ', ' ', ' ', 'x', ' ', ' ', ' ' ]
+[ ' ', ' ', ' ', ' ', 'x', ' ', ' ', 'x', ' ', ' ', ' ', ' ' ]
+[ ' ', ' ', ' ', ' ', ' ', 'x', 'x', ' ', ' ', ' ', ' ', ' ' ]
+]
+
+Note that this is a very simplified representation of images. In a real pixel matrix, each 'x' would be an RGB tuple representing the color of that pixel. For instance, the 'x' could be red for a heart shape, and the ' ' could be white for the background. The heart shape could look something like this in full color:
+
+[
+[ (255, 255, 255), (255, 255, 255), (255, 255, 255), (255, 0, 0), (255, 255, 255), ... ]
+[ (255, 255, 255), (255, 255, 255), (255, 0, 0), (255, 255, 255), (255, 0, 0), ... ]
+[ (255, 255, 255), (255, 0, 0), (255, 255, 255), (255, 255, 255), (255, 255, 255), ... ]
+[ (255, 0, 0), (255, 255, 255), (255, 255, 255), (255, 255, 255), (255, 255, 255), ... ]
+...
+]
+
+This kind of pixel-based representation is the most common way to store and work with images in computer systems.

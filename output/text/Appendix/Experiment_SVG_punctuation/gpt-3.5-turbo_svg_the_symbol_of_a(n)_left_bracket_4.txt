@@ -1,0 +1,3 @@
+<svg width="100" height="200" viewBox="0 0 100 200">
+  <text x="10" y="180" font-size="160">[</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg width="200" height="200" viewBox="-100 -100 200 200">
+  <rect x="-80" y="-40" width="160" height="40" rx="10" ry="10" fill="#6C757D" />
+  <rect x="-70" y="-80" width="140" height="40" rx="10" ry="10" fill="#6C757D" />
+  <rect x="-80" y="-120" width="160" height="40" rx="10" ry="10" fill="#6C757D" />
+  <rect x="-100" y="-160" width="200" height="40" rx="10" ry="10" fill="#6C757D" />
+
+  <line x1="-80" y1="-180" x2="-80" y2="0" stroke="#6C757D" stroke-width="5" />
+  <line x1="80" y1="-180" x2="80" y2="0" stroke="#6C757D" stroke-width="5" />
+  <line x1="-120" y1="-80" x2="-120" y2="0" stroke="#6C757D" stroke-width="5" />
+  <line x1="120" y1="-80" x2="120" y2="0" stroke="#6C757D" stroke-width="5" />
+</svg>

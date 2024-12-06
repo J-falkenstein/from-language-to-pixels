@@ -1,0 +1,10 @@
+,
+
+Here is an ascii art of the symbol of a comma:
+
+'''
+  _    
+ ( )   
+  |/   
+       
+'''

@@ -1,0 +1,16 @@
+For simplicity, let's say that we are using 1-bit black-and-white images. In this case, we can represent a pixel as either 0 (white) or 1 (black). The stick figure is simple and made up of straight lines.
+
+Here is a 10x10 example:
+
+[ 0 0 0 0 0 0 0 0 0 0 ]
+[ 0 0 0 1 0 1 0 0 0 0 ]
+[ 0 0 0 1 0 1 0 0 0 0 ]
+[ 0 0 0 1 1 1 0 0 0 0 ]
+[ 0 0 0 0 1 0 0 0 0 0 ]
+[ 0 0 0 1 0 1 0 0 0 0 ]
+[ 0 0 1 0 0 0 1 0 0 0 ]
+[ 0 0 1 0 0 0 1 0 0 0 ]
+[ 0 0 0 1 1 1 0 0 0 0 ]
+[ 0 0 0 0 0 0 0 0 0 0 ]
+
+In the binary image matrix, '1' denotes the presence of the stick figure and '0' denotes its absence.

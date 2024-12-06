@@ -1,0 +1,13 @@
+Here is a simplified matrix of a 8x8 pixel image representing a white lightning bolt on a black background. For simplicity's sake, white is denoted as 1 and black as 0.
+
+```
+[ (0, 0, 0) (0, 0, 0) (1, 1, 1) (0, 0, 0) (0, 0, 0) (0, 0, 0) (0, 0, 0) (0, 0, 0) ]
+[ (0, 0, 0) (0, 0, 0) (1, 1, 1) (0, 0, 0) (0, 0, 0) (0, 0, 0) (0, 0, 0) (0, 0, 0) ]
+[ (0, 0, 0) (1, 1, 1) (0, 0, 0) (1, 1, 1) (0, 0, 0) (0, 0, 0) (0, 0, 0) (0, 0, 0) ]
+[ (1, 1, 1) (0, 0, 0) (0, 0, 0) (1, 1, 1) (0, 0, 0) (0, 0, 0) (0, 0, 0) (0, 0, 0) ]
+[ (0, 0, 0) (0, 0, 0) (0, 0, 0) (1, 1, 1) (1, 1, 1) (0, 0, 0) (0, 0, 0) (0, 0, 0) ]
+[ (0, 0, 0) (0, 0, 0) (0, 0, 0) (0, 0, 0) (1, 1, 1) (1, 1, 1) (0, 0, 0) (0, 0, 0) ]
+[ (0, 0, 0) (0, 0, 0) (0, 0, 0) (0, 0, 0) (0, 0, 0) (1, 1, 1) (1, 1, 1) (0, 0, 0) ]
+[ (0, 0, 0) (0, 0, 0) (0, 0, 0) (0, 0, 0) (0, 0, 0) (0, 0, 0) (1, 1, 1) (0, 0, 0) ]
+```
+Note: This example is simplified and will not run directly in a system that requires exact RGB values, it is for illustrative purposes only.

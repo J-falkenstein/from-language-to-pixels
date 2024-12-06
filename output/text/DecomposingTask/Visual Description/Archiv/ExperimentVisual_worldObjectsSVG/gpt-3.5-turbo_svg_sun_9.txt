@@ -1,0 +1,23 @@
+<svg width="200" height="200" viewBox="-100 -100 200 200">
+  <circle cx="0" cy="0" r="80" fill="#FDB813" />
+
+  <line x1="0" y1="-80" x2="0" y2="-120" stroke="#FDB813" stroke-width="4" />
+  <line x1="0" y1="80" x2="0" y2="120" stroke="#FDB813" stroke-width="4" />
+  <line x1="-80" y1="0" x2="-120" y2="0" stroke="#FDB813" stroke-width="4" />
+  <line x1="80" y1="0" x2="120" y2="0" stroke="#FDB813" stroke-width="4" />
+
+  <line x1="-67" y1="-67" x2="-95" y2="-95" stroke="#FDB813" stroke-width="4" />
+  <line x1="67" y1="-67" x2="95" y2="-95" stroke="#FDB813" stroke-width="4" />
+  <line x1="-67" y1="67" x2="-95" y2="95" stroke="#FDB813" stroke-width="4" />
+  <line x1="67" y1="67" x2="95" y2="95" stroke="#FDB813" stroke-width="4" />
+
+  <defs>
+    <radialGradient id="grad" cx="0" cy="0" r="80" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" style="stop-color:#FDB813;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#FDB813;stop-opacity:0.6" />
+      <stop offset="100%" style="stop-color:#FDB813;stop-opacity:0" />
+    </radialGradient>
+  </defs>
+
+  <circle cx="0" cy="0" r="80" fill="url(#grad)" />
+</svg>

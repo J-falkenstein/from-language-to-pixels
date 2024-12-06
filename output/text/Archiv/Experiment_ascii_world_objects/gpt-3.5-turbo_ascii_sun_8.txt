@@ -1,0 +1,5 @@
+Here is an example of an ascii art showing a sun:
+
+     \\||//
+     ( o o )
+-----ooO-(_)-Ooo-----

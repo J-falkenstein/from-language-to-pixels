@@ -1,0 +1,9 @@
+To draw a simplified version of the digit 8, imagine an elongated figure that resembles two connected circles. Start by drawing a vertical line slightly tilted towards the right. At the top of this line, draw a small circle, similar to a dot. Then, follow the line down and create a larger circle with a similar width at the midpoint of the vertical line.
+
+Make sure the top and bottom edges of both circles touch the vertical line. The circles should be slightly taller than they are wide. The top circle should be smaller in size compared to the bottom one. These circles should be smooth, without any sharp corners.
+
+Next, draw another vertical line, parallel to the first one, just to the right of the larger circle. This line should be slightly smaller in length, extending from the top circle to the bottom circle.
+
+Lastly, connect the bottom circle to the top circle by drawing a curve that starts from the right side of the bottom circle, moves upwards, and ends on the left side of the top circle. This curve should match the shape of the circles and blend smoothly without sharp angles.
+
+Remember, the digit 8 is all about the two connected circles and the curved line that joins them. Keep the proportions of these elements in mind, ensuring the circles touch the vertical line and each other appropriately.

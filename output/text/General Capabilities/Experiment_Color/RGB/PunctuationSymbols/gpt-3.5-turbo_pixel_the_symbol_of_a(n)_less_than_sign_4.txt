@@ -1,0 +1,1 @@
+Due to the limitations of text-based representation, I am unable to display an image here. However, imagine a grid of pixels forming an image of a less than sign (<) in the desired color. The pixel matrix would consist of the specific RGB color values assigned to each pixel in the image.

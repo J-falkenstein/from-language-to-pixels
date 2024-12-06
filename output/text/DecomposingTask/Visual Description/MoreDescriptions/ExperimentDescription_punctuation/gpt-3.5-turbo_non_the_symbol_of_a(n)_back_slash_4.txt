@@ -1,0 +1,1 @@
+"""The backslash symbol is a straight diagonal line that slopes from the top left to the bottom right. It is positioned diagonally and connects the upper left corner to the lower right corner. The line is evenly and consistently slanted, creating a sharp angle between the two endpoints."""

@@ -1,0 +1,10 @@
+Here is an ASCII art representation of the number 2:
+
+```
+  ___  
+ |__ \ 
+    ) |
+   / / 
+  / /_ 
+ |____|
+```

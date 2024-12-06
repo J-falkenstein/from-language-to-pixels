@@ -1,0 +1,1 @@
+"""The capital letter I is a tall, vertical shape. It consists of a straight, vertical line that is longer than it is wide. The line is centered within the overall shape and extends from the top to the bottom. It does not have any additional features or curves, maintaining a simple and straight appearance."""

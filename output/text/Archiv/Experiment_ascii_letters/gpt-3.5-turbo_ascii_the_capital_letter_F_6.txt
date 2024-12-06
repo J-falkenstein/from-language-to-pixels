@@ -1,0 +1,10 @@
+Here is an ascii art representation of the capital letter F:
+
+'''
+ _______ 
+|  _____|
+| |_____ 
+|_____  |
+ _____| |
+|_______|
+'''

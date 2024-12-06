@@ -1,0 +1,8 @@
+Here is an example of an ASCII art of a crab:
+
+  \/  \__
+ /      @\___
+/)  __/    -/\
+\_)'---'\\--'|
+
+I hope you like it!

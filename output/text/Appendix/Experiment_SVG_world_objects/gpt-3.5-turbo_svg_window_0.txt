@@ -1,0 +1,7 @@
+<svg width="200" height="200" viewBox="0 0 400 400">
+  <rect x="0" y="0" width="400" height="400" fill="#87CEEB" />     // sky
+  <rect x="50" y="50" width="300" height="300" fill="#FFFFFF" />  // window frame
+  <rect x="80" y="80" width="240" height="240" fill="#87CEEB" />  // window glass
+  <line x1="200" y1="50" x2="200" y2="350" stroke="#000000" />    // vertical divider
+  <line x1="50" y1="200" x2="350" y2="200" stroke="#000000" />    // horizontal divider
+</svg>

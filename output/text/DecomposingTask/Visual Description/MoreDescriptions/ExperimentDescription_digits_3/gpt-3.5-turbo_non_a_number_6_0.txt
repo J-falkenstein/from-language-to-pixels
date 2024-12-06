@@ -1,0 +1,12 @@
+To help you draw a simplified version of the digit 6, here is a visual description:
+
+- Start by imagining a circle as the basic shape of the digit.
+- Begin at the top left of the circle and move your finger in a clockwise motion, downwards. The line should be slightly curved.
+- When you reach the bottom of the circle, move your finger slightly towards the right before continuing upwards, mirroring the curve you made initially.
+- Stop when you reach the top right of the circle.
+- Next, imagine a small horizontal line starting from the middle of the circle's right side, just below the curve you made. This line should be shorter than the width of the circle.
+- Place this line slightly below the top of the circle and ensure it is centered.
+- This horizontal line should be perpendicular to the circular shape, giving the digit a distinctive "tail" or "hook" appearance.
+- Remember that proportions and exact measurements are not necessary; the primary focus is to convey the circular shape and the presence of the hook-like feature on the right side.
+
+By following these instructions, you should be able to draw a simplified version of the digit 6 that captures its essential visual characteristics.

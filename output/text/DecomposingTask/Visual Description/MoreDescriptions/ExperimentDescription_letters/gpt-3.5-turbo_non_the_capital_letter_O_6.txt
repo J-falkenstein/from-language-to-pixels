@@ -1,0 +1,1 @@
+"""The capital letter O is a perfect, symmetric circle. It has no corners or angles, and all points on its circumference are equidistant from the center. The circle is open, meaning that it is not filled or shaded in any way, allowing the background to show through. The diameter of the circle is the same length in any direction, forming a perfectly round shape."""

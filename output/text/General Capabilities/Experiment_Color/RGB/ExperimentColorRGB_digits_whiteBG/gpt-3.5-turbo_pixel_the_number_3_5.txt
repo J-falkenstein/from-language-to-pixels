@@ -1,0 +1,1 @@
+It seems like there may have been a mistake in providing the example for an image of the number 3. The pixel matrix for the number 3 should consist of black pixels forming the shape of the number 3, similar to the previous example for the number 6.

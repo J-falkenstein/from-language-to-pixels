@@ -1,0 +1,11 @@
+Here is an example of an ASCII art of a lightning flash:
+
+```
+     |
+  \  | /
+   \ |/
+ ---( )---
+   / | \
+  /  |  \
+     |
+```

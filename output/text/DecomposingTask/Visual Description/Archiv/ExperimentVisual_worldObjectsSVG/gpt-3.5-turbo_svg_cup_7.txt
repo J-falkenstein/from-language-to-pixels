@@ -1,0 +1,10 @@
+<svg width="200" height="200" viewBox="-100 -100 200 200">
+  <path d="M-60,-60 L-60,60 C-60,80 -40,90 0,90 C40,90 60,80 60,60 L60,-60 Z" fill="#ECD4BB" />
+  <path d="M-60,-60 L60,-60 L40,-80 L-40,-80 Z" fill="#ECD4BB" />
+  <path d="M-40,-80 L-40,-100 L40,-100 L40,-80 Z" fill="#ECD4BB" />
+  <path d="M-40,-80 L-40,-100 L-20,-100 L-20,-80 Z" fill="#ECD4BB" />
+  <path d="M40,-80 L40,-100 L20,-100 L20,-80 Z" fill="#ECD4BB" />
+  <path d="M0,-100 C-20,-100 -20,-90 0,-90 C20,-90 20,-100 0,-100 Z" fill="#ECD4BB" />
+  <circle cx="45" cy="0" r="15" fill="#ECD4BB" />
+  <path d="M60,0 C60,20 50,30 30,30 C10,30 0,20 0,0" fill="#ECD4BB" />
+</svg>

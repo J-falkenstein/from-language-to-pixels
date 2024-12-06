@@ -1,0 +1,12 @@
+Here is an example of an ASCII art representing the number two:
+
+```
+  ____
+ / ___|
+| |__
+| ___/
+| |    
+|_|     
+```
+
+Hope you like it!

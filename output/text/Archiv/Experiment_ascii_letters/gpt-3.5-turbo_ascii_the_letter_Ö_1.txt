@@ -1,0 +1,11 @@
+There are different ways to represent the letter Ö in ASCII art, but here is one example:
+
+```
+   ___   
+ /  __|_ 
+|  /  /  \
+ \ \__\__/
+  \___|   
+```
+
+This representation may vary depending on the font used and the size of the letters.

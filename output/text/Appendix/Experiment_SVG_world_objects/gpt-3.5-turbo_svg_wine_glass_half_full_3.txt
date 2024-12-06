@@ -1,0 +1,6 @@
+<svg width="200" height="400" viewBox="-100 -200 200 400">
+  <path d="M0,-100 q40,-40 80,0 q40,40 80,0 v200 h-160 z" fill="rgb(139, 0, 0)" />
+  <path d="M-40,-100 h80 v200 h-80 z" fill="rgb(255, 255, 255)" />
+  <circle cx="0" cy="-100" r="40" fill="rgb(255, 255, 255)" />
+  <circle cx="0" cy="-140" r="20" fill="rgb(255, 255, 255)" />
+</svg>

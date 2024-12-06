@@ -1,0 +1,11 @@
+As number 10 is a two digit number, it's represented by two grids of pixels.
+
+Here is an example of a grid of pixels that forms an image of the number one:
+00000000
+00011000
+00111000
+00011000
+00011000
+00011000
+01111110
+00000000

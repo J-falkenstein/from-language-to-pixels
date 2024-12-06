@@ -1,0 +1,10 @@
+Here is an example of an ASCII art representing the capital letter O:
+
+'''
+   ______  
+ /|  ____| 
+ || |___    
+ ||  ___|   
+ || |____  
+ |\______| 
+'''

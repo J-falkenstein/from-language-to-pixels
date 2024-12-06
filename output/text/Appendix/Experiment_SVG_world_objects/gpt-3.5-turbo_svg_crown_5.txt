@@ -1,0 +1,9 @@
+<svg width="200" height="200" viewBox="-100 -100 200 200">
+  <polygon points="0,-50 40,0 30,40 0,30 -30,40 -40,0" fill="gold" />
+  <polygon points="0,-55 34,0 26,34 0,26 -26,34 -34,0" fill="yellow" />
+  <polygon points="0,-60 28,0 22,28 0,22 -22,28 -28,0" fill="gold" />
+  <polygon points="0,-65 22,0 18,22 0,18 -18,22 -22,0" fill="yellow" />
+  <polygon points="0,-70 16,0 14,16 0,14 -14,16 -16,0" fill="gold" />
+  <polygon points="0,-75 10,0 10,10 0,10 -10,10 -10,0" fill="yellow" />
+  <polygon points="0,-80 6,0 6,6 0,6 -6,6 -6,0" fill="gold" />
+</svg>

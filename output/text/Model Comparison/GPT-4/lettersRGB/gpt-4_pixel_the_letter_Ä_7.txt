@@ -1,0 +1,12 @@
+Given the limitations of the text representation of an image, we can use X to denote (0,0,0) - black and O to denote (255,255,255) - white. Here's a very simple representation which will not look very polished but will give an approximate idea:
+
+OOOOOXOOOOOO
+OOOXOOOXOOOO
+OOOXOOOXOOOO
+OOOXOXOXOOOO
+OOXXXXXXOOOO
+OOOXOXOXOOOO
+OOOXOOOXOOOO
+OOOOOXOOOOOO
+
+This is a very simplified representation. In a real scenario, each of these 'X' and 'O' positions would be a pixel with RGB value. This is just an example representing on a very low scale. In real digital images, the pixel matrices are quite large, providing higher image resolution and more detail.

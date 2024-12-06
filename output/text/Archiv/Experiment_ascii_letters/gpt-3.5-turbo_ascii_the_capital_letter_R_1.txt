@@ -1,0 +1,9 @@
+Here is an example of an ascii art showing the letter R:
+'''
+  ________  
+.' ____ \ '. 
+| (____)  |  
+'_.____. '_'  
+( \____)  )  
+ '.______.'   
+'''

@@ -1,0 +1,1 @@
+"""The symbol of a colon is a small, vertically aligned shape made up of two dots. The dots are positioned one on top of the other, with a small space of approximately half the width of a dot between them. The dots are round and identical in size, creating a symmetrical appearance. The colon is typically used to indicate a pause or separation in written or printed text."""

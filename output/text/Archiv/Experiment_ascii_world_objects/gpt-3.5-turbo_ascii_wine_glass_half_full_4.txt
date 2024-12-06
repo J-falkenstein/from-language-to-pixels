@@ -1,0 +1,12 @@
+Here is an example of an ASCII art representation of a wine glass half full:
+
+  _    _
+ ( )  ( )
+  | || |
+  | || |
+  | || |
+  | || |
+  | || |
+ _| || |_
+|________|
+

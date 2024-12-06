@@ -1,0 +1,12 @@
+```
+00000000
+00000000
+00000100
+00001000
+00010000
+00100000
+01000000
+10000000
+```
+
+Each 0 represents a white pixel, and each 1 represents a black pixel. In this grid, the black pixels form the shape of the number 7.

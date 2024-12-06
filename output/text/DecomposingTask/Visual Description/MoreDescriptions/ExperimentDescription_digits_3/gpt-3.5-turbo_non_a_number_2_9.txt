@@ -1,0 +1,10 @@
+To describe the shape of the digit 2 visually, you can mention the following key features:
+
+1. Start by drawing a vertical line that goes from top to bottom.
+2. At the top of this line, draw a slightly curved line bending towards the right.
+3. Around halfway down the vertical line, draw another slightly curved line bending towards the left.
+4. Connect the ends of the two curved lines with a small horizontal line, slightly below the midpoint of the vertical line.
+5. Just below the small horizontal line, draw a small curved line bending towards the right.
+6. Finally, draw a straight line starting at the end of the small curved line and extending downwards, parallel to the initial vertical line, until reaching the bottom.
+
+By following these steps, you will provide the blind person with a simplified representation of the digit 2, capturing its essential characteristics without unnecessary details.

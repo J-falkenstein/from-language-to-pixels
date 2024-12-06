@@ -1,0 +1,1 @@
+"""The symbol of a comma is a small curved shape that resembles a miniature letter 'C'. It begins with a short straight horizontal line, followed by a smooth curved line that starts on the left side, curves upwards, and then loops back down to meet the horizontal line. The bottom part of the comma is open, creating a clear space within the curved shape."""

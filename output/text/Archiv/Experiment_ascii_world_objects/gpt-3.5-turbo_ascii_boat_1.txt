@@ -1,0 +1,13 @@
+Here is an example of ascii art that forms an image of a boat:
+
+           ___
+        _--   --_
+      /~        ~\
+    /~ __     __ ~\
+   /      ~~ ~~   \
+  |   _          --|
+  |  /   (0)  (0)  |
+  | |     (+)     |
+  |  \        /   |
+   \   ~-____-~
+     ~-.______.-~

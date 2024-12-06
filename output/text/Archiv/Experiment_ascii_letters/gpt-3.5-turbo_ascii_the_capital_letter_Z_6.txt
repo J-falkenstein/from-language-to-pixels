@@ -1,0 +1,10 @@
+Here is an example of an ascii art showing the letter Z:
+
+```
+ _______
+|   ____|
+ \  \___
+  \_____\
+ _______
+|_______|
+```

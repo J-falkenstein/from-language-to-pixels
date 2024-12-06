@@ -1,0 +1,8 @@
+<svg width="200" height="200" viewBox="0 0 200 200">
+  <path d="M 100 20 L 70 60 H 130 L 100 20 Z" fill="#6F4E37" />
+  <path d="M 40 110 H 160 V 190 H 40 Z" fill="#6F4E37" />
+  <path d="M 90 110 V 150 H 110 V 110 Z" fill="#D7C1A9" />
+  <path d="M 60 110 V 140 H 80 V 110 Z" fill="#D7C1A9" />
+  <path d="M 120 110 V 140 H 140 V 110 Z" fill="#D7C1A9" />
+  <path d="M 75 175 H 125 V 190 H 75 Z" fill="black" />
+</svg>

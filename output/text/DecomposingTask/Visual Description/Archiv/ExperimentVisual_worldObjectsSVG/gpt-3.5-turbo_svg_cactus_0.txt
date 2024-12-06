@@ -1,0 +1,23 @@
+<svg width="200" height="400" viewBox="-100 -200 200 400">
+  <path d="M0,-200 C40,-150 40,-50 0,0 C-40,-50 -40,-150 0,-200" fill="#2E8540" />
+  <path d="M0,-200 C30,-150 30,150 0,200 C-30,150 -30,-150 0,-200" fill="#397D4C" />
+  <path d="M0,-200 C20,-150 20,150 0,200 C-20,150 -20,-150 0,-200" fill="#4D7047" />
+  <path d="M0,-200 C10,-150 10,150 0,200 C-10,150 -10,-150 0,-200" fill="#5C634F" />
+  <path d="M-10,-160 Q0,-180 10,-160" stroke="#3F5444" stroke-width="2" fill="none" />
+  <path d="M-10,-140 Q0,-160 10,-140" stroke="#3F5444" stroke-width="2" fill="none" />
+  <path d="M-10,-120 Q0,-140 10,-120" stroke="#3F5444" stroke-width="2" fill="none" />
+  <path d="M-10,-100 Q0,-120 10,-100" stroke="#3F5444" stroke-width="2" fill="none" />
+  <path d="M-10,-80 Q0,-100 10,-80" stroke="#3F5444" stroke-width="2" fill="none" />
+  <path d="M-10,-60 Q0,-80 10,-60" stroke="#3F5444" stroke-width="2" fill="none" />
+  <path d="M-10,-40 Q0,-60 10,-40" stroke="#3F5444" stroke-width="2" fill="none" />
+  <path d="M-10,-20 Q0,-40 10,-20" stroke="#3F5444" stroke-width="2" fill="none" />
+  <path d="M-10,0 Q0,-20 10,0" stroke="#3F5444" stroke-width="2" fill="none" />
+  <path d="M-10,20 Q0,0 10,20" stroke="#3F5444" stroke-width="2" fill="none" />
+  <path d="M-10,40 Q0,20 10,40" stroke="#3F5444" stroke-width="2" fill="none" />
+  <path d="M-10,60 Q0,40 10,60" stroke="#3F5444" stroke-width="2" fill="none" />
+  <path d="M-10,80 Q0,60 10,80" stroke="#3F5444" stroke-width="2" fill="none" />
+  <path d="M-10,100 Q0,80 10,100" stroke="#3F5444" stroke-width="2" fill="none" />
+  <path d="M-10,120 Q0,100 10,120" stroke="#3F5444" stroke-width="2" fill="none" />
+  <path d="M-10,140 Q0,120 10,140" stroke="#3F5444" stroke-width="2" fill="none" />
+  <path d="M0,200 L0,230" stroke="#3F5444" stroke-width="2" fill="none" />
+</svg>

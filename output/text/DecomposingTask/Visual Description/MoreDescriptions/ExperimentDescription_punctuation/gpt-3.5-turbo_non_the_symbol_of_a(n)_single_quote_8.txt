@@ -1,0 +1,1 @@
+"""The symbol of a single quote is a small, vertical line that is slightly inclined to the right. It is positioned above the imaginary line where the baseline of a text would be. The length of the line is relatively short, typically about one-third or one-fourth the height of a capital letter. It is often used in writing to indicate a quotation or to show possession."""

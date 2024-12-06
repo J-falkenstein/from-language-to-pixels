@@ -1,0 +1,5 @@
+Here is an example of an ascii art showing a crab:
+
+         v\ /v
+        (  . .  )
+      c(")(")(")c

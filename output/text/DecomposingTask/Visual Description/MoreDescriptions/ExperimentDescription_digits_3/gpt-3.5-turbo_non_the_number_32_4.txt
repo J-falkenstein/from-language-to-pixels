@@ -1,0 +1,9 @@
+To draw the number 32, start by imagining a curved horizontal line. This line will serve as the foundation for both digits. 
+
+For the first digit, 3, starting from the left side of the horizontal line, draw a slightly curved line slanting downwards to the right. When it reaches the bottom of the horizontal line, curve it back up to the left, making another gentle arc that nearly reaches the top of the horizontal line. 
+
+Now, let's move on to the second digit, 2. Starting from the right side of the horizontal line, draw a gentle curved line slanting downwards to the left. Instead of curving it back up, draw a short horizontal line towards the right, connecting it to the bottom of the first digit's curve.
+
+Ensure that the vertical alignment of both digits is in sync with the shared horizontal line. The space between the two digits should be roughly equal to the width of the horizontal line.
+
+Remember, it's important to keep your lines simple and smooth. These descriptions should help you outline the basic shapes and relationships of the digits 3 and 2, allowing you to create a simplified representation!

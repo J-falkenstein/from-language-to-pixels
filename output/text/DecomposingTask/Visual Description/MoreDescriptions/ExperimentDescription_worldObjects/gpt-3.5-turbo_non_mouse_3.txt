@@ -1,0 +1,11 @@
+The object I'd like to describe is a computer mouse. It is a small, handheld device used to navigate and interact with a computer screen. The mouse has a distinct shape resembling an oval or an elongated tear drop. It is slightly curved on top, providing a comfortable grip for the hand. 
+
+At the top of the mouse, there is a prominent left-click button which is generally larger and easily distinguishable from the rest of the mouse. It is positioned toward the left side of the mouse (if you're right-handed), allowing easy access for clicking. Similarly, on the right side of the mouse, there is a smaller right-click button, aligned with the shape of the mouse.
+
+In the middle of the mouse, there is a scrolling wheel, often located between the left and right-click buttons. The wheel is circular and can be moved up and down, allowing vertical scrolling. 
+
+On the underside of the mouse, there is an optical sensor, which helps track the movement of the mouse on a surface. This sensor is generally located toward the front of the mouse. Towards the back, there is a rectangular compartment where batteries (if wireless) or a wire for connection (if wired) can be found.
+
+When holding the mouse, the user's palm will rest on the surface of the mouse, fingers naturally extended forward to click the buttons. The mouse is typically proportional, fitting comfortably within the hand, with the top slightly wider than the bottom. 
+
+To summarize, the computer mouse is an oval-shaped device with a curved top, featuring a larger left-click button on the left side, a smaller right-click button on the right side, and a circular scrolling wheel in the middle. It is held with the palm resting on the surface, fingers extended forward for easy access to the buttons. The mouse is proportional, fitting comfortably within the hand.

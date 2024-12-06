@@ -1,0 +1,12 @@
+Here is an example of an ASCII art of a semicolon:
+
+```
+   __ 
+  / / 
+ | |  
+ | |  
+ | |  
+ | |  
+ |_|  
+ (_)  
+```

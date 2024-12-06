@@ -1,0 +1,9 @@
+Here is an example of a grid of pixels that form an image of the equal sign:
+00000000
+00000000
+11111111
+11111111
+00000000
+00000000
+11111111
+11111111

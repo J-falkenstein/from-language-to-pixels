@@ -1,0 +1,1 @@
+As an AI text model, I cannot display visual images. However, you can imagine a grid of pixels representing an image of a chair. Each pixel would have specific RGB values to represent the color of that particular point in the image. The dimensions of the matrix would correspond to the width and height of the chair image.

@@ -1,0 +1,11 @@
+The digit 10 consists of two parts: a vertical line and a horizontal line intersecting it. 
+
+Starting from the top, draw a long straight line going downwards. This line should be slightly taller than it is wide. At the bottom of this line, draw a shorter straight line horizontally, crossing the vertical line exactly halfway down. 
+
+The vertical line represents the number 1, being the main element. It should be straight and vertical, stretching from the top to the bottom of the page. The horizontal line represents the number 0 and intersects the vertical line, forming a right angle at the intersection point. 
+
+Ensure that the horizontal line is centered, aligning with the middle of the vertical line. This means that the horizontal line should be equidistant from the top and bottom of the vertical line. 
+
+The intersection point where the lines meet is important as it distinguishes the digit from other numbers. It should be a clear point of intersection, forming a small square-like shape. The horizontal line should be shorter than the vertical line, but retain a length that is noticeable enough to identify it as a line and not a dot. 
+
+Keep in mind that simplicity is key here, focusing on the essential features.

@@ -1,0 +1,1 @@
+Unfortunately, you have not provided the grid of pixels that form the image of a semicolon. Please provide the pixel values for each pixel in the grid.

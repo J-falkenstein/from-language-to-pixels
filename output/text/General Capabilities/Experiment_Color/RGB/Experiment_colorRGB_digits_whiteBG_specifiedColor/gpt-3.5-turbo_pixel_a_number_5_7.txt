@@ -1,0 +1,1 @@
+Unfortunately, the example of a grid of pixels forming the image of a number 5 is missing. Could you please provide the pixel matrix for the number 5?

@@ -1,0 +1,3 @@
+<svg width="400" height="400">
+  <text x="50%" y="50%" text-anchor="middle" font-size="200" fill="black">2</text>
+</svg>

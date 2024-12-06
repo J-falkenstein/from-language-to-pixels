@@ -1,0 +1,9 @@
+Here is an example of an ASCII art representation of a left parenthesis symbol:
+
+'''
+   ( 
+  /  
+ (   
+  \  
+   ) 
+'''

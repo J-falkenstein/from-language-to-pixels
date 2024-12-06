@@ -1,0 +1,12 @@
+Here is an example of ascii art that forms an image of the left bracket symbol:
+
+```
+     __ 
+   _|__|_
+  |______|
+  |______|
+  |______|
+  |______|
+  |______|
+```
+

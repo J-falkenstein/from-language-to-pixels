@@ -1,0 +1,9 @@
+The chess board is a square-shaped object with a flat surface. It is made up of a grid consisting of 64 smaller squares, arranged in an 8x8 pattern. The board is usually made of wood or plastic and has a contrasting color scheme. The squares alternate between two colors, typically black and white, creating a checkered pattern.
+
+The chess board has four sides, each with identical dimensions. The edges of the board are straight and meet at right angles, forming sharp corners. The overall size of the chess board can vary, but it is commonly around 18 inches by 18 inches.
+
+In terms of proportions, the board is divided into ranks and files. Ranks refer to the rows of squares going from one side to the other, while files represent the columns of squares from top to bottom. The ranks are labeled with numbers (1 to 8) from one side to the other, whereas the files are labeled with letters (a to h) from top to bottom.
+
+A distinctive feature of the chess board is the arrangement of the squares. The eight squares on the left and right edges of the board are collectively referred to as the "files," whereas the eight squares on the top and bottom edges are called the "ranks." Each square has equal sides and is aligned horizontally and vertically with neighboring squares.
+
+To help a blind person draw a simplified sketch, you can focus on describing the square shape, the alternating black and white colors, the grid pattern of the squares, and the labeling of ranks and files.

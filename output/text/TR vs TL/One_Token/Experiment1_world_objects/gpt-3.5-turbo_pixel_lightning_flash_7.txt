@@ -1,0 +1,12 @@
+Here is an example of a grid of pixels that form an image of a lightning flash:
+
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+1 0 0 1 0 0 0 0
+0 1 1 1 1 0 0 0
+0 0 1 1 1 0 0 0
+0 0 0 1 0 0 0 0
+0 0 0 0 0 0 0 0
+
+This pixel matrix represents a lightning flash with a black background (0s) and a white lightning bolt (1s).

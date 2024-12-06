@@ -1,0 +1,35 @@
+<svg width="400" height="400" viewBox="-200 -200 400 400">
+  <!-- Outer frame -->
+  <rect x="-200" y="-200" width="400" height="400" fill="none" stroke="black" stroke-width="5" />
+
+  <!-- Light-colored squares -->
+  <rect x="-100" y="-100" width="50" height="50" fill="#F0D9B5" />
+  <rect x="0" y="-100" width="50" height="50" fill="#F0D9B5" />
+  <rect x="100" y="-100" width="50" height="50" fill="#F0D9B5" />
+  <rect x="-100" y="0" width="50" height="50" fill="#F0D9B5" />
+  <rect x="0" y="0" width="50" height="50" fill="#F0D9B5" />
+  <rect x="100" y="0" width="50" height="50" fill="#F0D9B5" />
+  <rect x="-100" y="100" width="50" height="50" fill="#F0D9B5" />
+  <rect x="0" y="100" width="50" height="50" fill="#F0D9B5" />
+  <rect x="100" y="100" width="50" height="50" fill="#F0D9B5" />
+
+  <!-- Dark-colored squares -->
+  <rect x="-100" y="-150" width="50" height="50" fill="#B58863" />
+  <rect x="0" y="-150" width="50" height="50" fill="#B58863" />
+  <rect x="100" y="-150" width="50" height="50" fill="#B58863" />
+  <rect x="-100" y="-50" width="50" height="50" fill="#B58863" />
+  <rect x="0" y="-50" width="50" height="50" fill="#B58863" />
+  <rect x="100" y="-50" width="50" height="50" fill="#B58863" />
+  <rect x="-100" y="50" width="50" height="50" fill="#B58863" />
+  <rect x="0" y="50" width="50" height="50" fill="#B58863" />
+  <rect x="100" y="50" width="50" height="50" fill="#B58863" />
+
+  <!-- Grid lines -->
+  <rect x="-200" y="-200" width="400" height="400" fill="none" stroke="black" stroke-width="1" />
+  <line x1="-100" y1="-200" x2="-100" y2="200" stroke="black" stroke-width="1" />
+  <line x1="0" y1="-200" x2="0" y2="200" stroke="black" stroke-width="1" />
+  <line x1="100" y1="-200" x2="100" y2="200" stroke="black" stroke-width="1" />
+  <line x1="-200" y1="-100" x2="200" y2="-100" stroke="black" stroke-width="1" />
+  <line x1="-200" y1="0" x2="200" y2="0" stroke="black" stroke-width="1" />
+  <line x1="-200" y1="100" x2="200" y2="100" stroke="black" stroke-width="1" />
+</svg>

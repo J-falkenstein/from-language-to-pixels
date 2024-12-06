@@ -1,0 +1,1 @@
+Unfortunately, without the specific pixel values and their corresponding RGB colors, it is not possible to provide an example of a pixel matrix representing an image of a mouse.

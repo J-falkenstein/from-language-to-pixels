@@ -1,0 +1,1 @@
+"""The symbol of a plus sign is a simple cross shape. It consists of two straight lines of equal length that intersect each other at a 90-degree angle. The vertical line is positioned in the center, with the horizontal line crossing it at the midpoint. The lines are perfectly straight and aligned, giving the plus sign a symmetrical appearance."""

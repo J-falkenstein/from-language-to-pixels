@@ -1,0 +1,12 @@
+```
+00000000
+00111000
+01111100
+01100110
+01100110
+01111100
+00111000
+00000000
+```
+
+In this example, the black pixels are represented by 1s and the white pixels are represented by 0s. The matrix is 8 pixels wide and 8 pixels high. By arranging the 0s and 1s in a specific pattern, we can form different objects or shapes on the screen.

@@ -1,0 +1,10 @@
+Here is an example of an ascii art that forms an image of the capital letter X:
+
+'''
+\ \       / /
+ \ \  _  / /
+  \ \/ \/ /
+   \     /
+    \   /
+     \_/
+'''

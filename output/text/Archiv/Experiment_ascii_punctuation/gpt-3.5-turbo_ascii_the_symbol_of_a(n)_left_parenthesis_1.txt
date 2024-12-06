@@ -1,0 +1,10 @@
+Here is an example of ASCII art that forms an image of the left parenthesis symbol:
+
+```
+     (
+    (
+   (
+  (
+ (
+```
+

@@ -1,0 +1,10 @@
+Due to the complexity of the image, it's not possible to accurately represent a wine glass half full with an 8x8 pixel matrix. Here is a simplified version though:
+Note: W - Wine, G - Glass, E - Empty space
+[ ('E', 'E', 'E', 'E', 'E', 'E', 'E', 'E') ]
+[ ('E', 'E', 'E', 'G', 'G', 'E', 'E', 'E') ]
+[ ('E', 'E', 'G', 'E', 'E', 'G', 'E', 'E') ]
+[ ('E', 'G', 'W', 'W', 'W', 'W', 'G', 'E') ]
+[ ('G', 'W', 'W', 'W', 'W', 'W', 'W', 'G') ]
+[ ('G', 'E', 'E', 'E', 'E', 'E', 'E', 'G') ]
+[ ('G', 'E', 'E', 'E', 'E', 'E', 'E', 'G') ]
+[ ('G', 'G', 'G', 'G', 'G', 'G', 'G', 'G') ]

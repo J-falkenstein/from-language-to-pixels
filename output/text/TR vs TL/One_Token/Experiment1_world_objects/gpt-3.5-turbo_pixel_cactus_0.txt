@@ -1,0 +1,12 @@
+Here is an example of a grid of pixels that form an image of a cactus:
+
+0 0 0 0 0 0 0 0
+0 0 1 1 1 1 0 0
+0 0 1 1 1 1 0 0
+0 1 1 1 1 1 1 0
+1 1 1 1 1 1 1 1
+1 1 1 1 1 1 1 1
+0 0 0 0 0 0 0 0
+0 0 1 1 1 1 0 0
+
+This image represents a cactus with a wide base and multiple arms extending upwards.

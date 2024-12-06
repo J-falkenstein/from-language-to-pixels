@@ -1,0 +1,10 @@
+A simplified 8x8 pixel representation of the symbol of a colon can be created using the following description:
+
+- The symbol consists of a single vertical line positioned in the center of the 8x8 pixel canvas.
+- The line runs vertically from the top to the bottom of the canvas, spanning 8 pixels in length.
+- The line is thin, occupying only 1 pixel in width.
+- The line is perfectly straight, with no curves or bends.
+- The line is placed symmetrically in the canvas, aligned in the middle, so it occupies the 4th column of pixels.
+- The color of the line can be either black or any other suitable color for visibility.
+
+By following these guidelines, a simplified colon symbol can be created that is easily recognizable within the limitations of an 8x8 pixel canvas.

@@ -1,0 +1,12 @@
+Here is an example of ASCII art for the letter N:
+
+'''
+|\
+| \
+|  \
+|   \
+|    \
+|     \
+|      \
+|       \
+'''

@@ -1,0 +1,13 @@
+Here is an example of an ASCII art representation of the equal sign symbol:
+
+'''
+ __________
+|          |
+|==========|
+|          |
+|==========|
+|          |
+|==========|
+'''
+
+This ASCII art represents a horizontal line divided into equal parts by vertical lines, creating the appearance of an equal sign.

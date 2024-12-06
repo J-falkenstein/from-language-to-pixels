@@ -1,0 +1,5 @@
+To help a blind person draw a simplified version of the digit 5, you can describe its fundamental shape and distinctive features. Here's a concise description:
+
+The digit 5 has a curvy, slightly elongated shape resembling a lowercase "s." Start by drawing a vertical line downward from the top. About halfway down, curve the line to the right in a smooth arc, then continue curving it downwards, ending around the same height as the starting point. This curved segment forms the upper half of the 5. From the bottom of the curve, move horizontally to the left and create a straight line towards the right. This line should be shorter than the curved segment and slightly angled, slanting upwards to meet the start of the curve. It forms the lower half of the 5. The bottom of this line should align with the bottom of the vertical line. 
+
+Remember to emphasize the curvy shape and the alignment between the vertical line and the bottom of the shorter, angled line. These primary characteristics will be vital for recognizing the digit 5.

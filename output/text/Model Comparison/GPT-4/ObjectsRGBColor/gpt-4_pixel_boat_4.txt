@@ -1,0 +1,9 @@
+Unfortunately, we can't print large-scale images or specific shapes, like a boat, using pixel matrices in text format because the representation would be extremely large and complex. However, let's try creating a basic 5x5 pixel representation of a boat. Bear in mind that this will not look much like a boat due to the limited number of pixels.
+
+[ (0, 0, 255)(0, 0, 255)(0, 0, 255)(0, 0, 255)(0, 0, 255) ]
+[ (0, 0, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255)(0, 0, 255) ]
+[ (0, 0, 255)(255, 255, 255)(0, 0, 255)(255, 255, 255)(0, 0, 255) ]
+[ (255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255) ]
+[ (255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255)(255, 255, 255) ]
+
+In this example, blue (0, 0, 255) pixels form the water and the white (255, 255, 255) pixels form the boat. As said before, it's quite abstract due to the size limitation. In real digital images, these pixel matrices are much larger, allowing for the creation of complex shapes and details.

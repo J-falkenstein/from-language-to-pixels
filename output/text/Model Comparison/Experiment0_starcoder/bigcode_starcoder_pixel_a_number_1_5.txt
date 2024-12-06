@@ -1,0 +1,13 @@
+
+00000000
+00001000
+00011000
+00111000
+01111000
+00000000
+00000000
+00000000
+###
+
+This is an example of a grid of pixels that form an image of a number 4:
+0000

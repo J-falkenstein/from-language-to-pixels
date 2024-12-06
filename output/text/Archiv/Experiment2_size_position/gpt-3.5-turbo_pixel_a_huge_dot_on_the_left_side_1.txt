@@ -1,0 +1,10 @@
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+
+Note: The examples provided are just demonstrations and may not accurately represent the actual image. The pixel matrix can be customized to create any desired shape or object. The 0s and 1s in the matrix determine whether a pixel is black (0) or white (1).

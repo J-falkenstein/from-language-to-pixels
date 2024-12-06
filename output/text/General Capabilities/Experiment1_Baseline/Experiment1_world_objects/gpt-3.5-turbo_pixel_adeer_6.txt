@@ -1,0 +1,13 @@
+1. Black (pixel turned on)
+0. White (pixel turned off)
+
+Pixel matrix for image of a deer:
+
+10001000
+11111000
+01010000
+11110001
+01111111
+01111111
+01010101
+01010101

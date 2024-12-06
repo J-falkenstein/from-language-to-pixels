@@ -1,0 +1,13 @@
+The object I am describing is a computer mouse. It is a small, handheld device used for navigating on a computer screen. The mouse has a basic shape that can be described as a slightly rounded rectangular prism. 
+
+Starting from the top, you will find a prominent round shape in the center, which is the mouse's primary control button. This round area is slightly elevated and has a distinct texture, allowing your fingers to easily locate it. It is typically positioned towards the front of the mouse. 
+
+Behind the primary control button, there is a smaller rectangular button, often positioned vertically. This button is commonly referred to as the secondary or right-click button. 
+
+On the left side of the mouse, you may find an additional button or a textured area. This button is known as the thumb button, and it provides an extra control option for certain functions. 
+
+Towards the front of the mouse, there is a sleek, slim groove that acts as the scroll wheel. The scroll wheel allows you to navigate content vertically on your computer screen. It usually protrudes slightly from the mouse's surface and is easily distinguishable by touch.
+
+Finally, on the base of the mouse, you will find a smooth, flat surface that allows the mouse to glide smoothly on a mouse pad or desk. Additionally, there is a small compartment that holds the batteries (if the mouse is wireless) or a cable connector (if it is a wired mouse).
+
+In summary, a computer mouse has a rectangular prism shape with a prominent round control button at the top, a smaller rectangular button nearby, a possible thumb button on the left side, a sleek groove acting as the scroll wheel towards the front, and a smooth, flat base for movement.

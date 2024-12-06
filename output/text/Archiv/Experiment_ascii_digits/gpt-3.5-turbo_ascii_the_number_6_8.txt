@@ -1,0 +1,12 @@
+Here is an ASCII art representation of the number 6:
+
+```
+   ____  
+  /  ___| 
+  | |___  
+  \___  \ 
+   ___)  |
+  |____/  
+```
+
+Please note that the actual appearance of the ASCII art may vary depending on the font and text size used for rendering.

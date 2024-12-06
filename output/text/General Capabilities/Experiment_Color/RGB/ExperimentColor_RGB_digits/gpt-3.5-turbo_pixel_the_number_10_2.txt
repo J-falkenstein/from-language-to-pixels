@@ -1,0 +1,1 @@
+Unfortunately, there is no example provided for a grid of pixels that form an image of the number 10.

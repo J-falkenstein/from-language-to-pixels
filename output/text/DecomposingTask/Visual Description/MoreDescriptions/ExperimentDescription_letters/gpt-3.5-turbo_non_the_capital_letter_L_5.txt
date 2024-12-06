@@ -1,0 +1,1 @@
+"""The capital letter L is composed of two perpendicular straight lines. The vertical line is longer and extends downward from the top, while the horizontal line is shorter and extends to the right. The two lines intersect at a right angle, with the horizontal line starting at the end of the vertical line."""

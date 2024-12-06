@@ -1,0 +1,11 @@
+<svg width="200" height="200" viewBox="-100 -100 200 200">
+  <rect x="-50" y="-100" width="100" height="70" rx="10" ry="10" fill="#808080" />
+  <rect x="-30" y="-80" width="60" height="40" rx="5" ry="5" fill="#C0C0C0" />
+  <rect x="-25" y="-60" width="50" height="10" rx="5" ry="5" fill="#808080" />
+  <circle cx="-25" cy="-45" r="5" fill="#808080" />
+  <rect x="-10" y="-45" width="20" height="5" fill="#808080" />
+  <rect x="-10" y="-40" width="20" height="30" rx="5" ry="5" fill="#C0C0C0" />
+  <circle cx="0" cy="10" r="20" fill="#808080" />
+  <path d="M-10,30 Q0,40 10,30" fill="none" stroke="#808080" />
+  <path d="M-10,45 Q0,55 10,45" fill="none" stroke="#808080" />
+</svg>

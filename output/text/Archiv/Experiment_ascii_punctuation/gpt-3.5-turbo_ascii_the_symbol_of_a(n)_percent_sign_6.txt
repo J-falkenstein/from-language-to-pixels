@@ -1,0 +1,14 @@
+Here is an example of ascii art that forms an image of the percent sign:
+
+```
+   ____      
+ /  \033[1;31m%\033[0m  \    
+ \033[1;31m%\033[0m   \   
+     \033[1;31m%\033[0m  \ 
+        \033[1;31m%\033[0m  
+    \033[1;31m%\033[0m  /   
+   \033[1;31m%\033[0m  /    
+  /  \033[1;31m%\033[0m      
+```
+
+Note: The percent sign is represented in red color in this example using ANSI escape codes.

@@ -1,0 +1,12 @@
+```
+01111110
+10000001
+10000000
+01111100
+00000010
+00000001
+10000001
+01111110
+```
+
+Each "1" represents a black pixel, and each "0" represents a white pixel.

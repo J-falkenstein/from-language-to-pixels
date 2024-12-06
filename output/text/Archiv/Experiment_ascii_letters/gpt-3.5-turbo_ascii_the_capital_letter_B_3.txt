@@ -1,0 +1,10 @@
+Here is an example of an ascii art of the capital letter B:
+
+'''
+ ______ 
+|  ____|
+| |__   
+|  __|  
+| |____ 
+|______|
+'''

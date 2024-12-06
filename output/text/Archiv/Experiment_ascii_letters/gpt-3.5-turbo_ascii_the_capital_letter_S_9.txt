@@ -1,0 +1,10 @@
+Here is an example of ASCII art representing the capital letter S:
+
+```
+  _______
+ /  _____|
+|  |_____
+\_____  \
+ _____)  |
+|________/
+```

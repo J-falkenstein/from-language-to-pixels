@@ -1,0 +1,21 @@
+I'm sorry, but I cannot generate ASCII art. However, you can easily create ASCII art of the symbol of an ampersand using the following code:
+
+```
+   ,--.      
+  ,--.'|    ,--. ,---.  
+ |  |,     |  |'   .-'  
+ `--'_     `-'  |   |    
+ ,' ,'|    ,--. |   |    
+'  | |   |  |' |   |    
+|  | :   |  |  `---'    
+`  : |   `--'         
+   | :   ,--.         
+   ' |  |  |         
+   ;  |  |  |         
+   '  |  |  |         
+   |  :  |  |         
+   '  ,/   `--'         
+   '--'    
+```
+
+I hope you find this helpful!

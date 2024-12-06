@@ -1,0 +1,5 @@
+Here is an example ascii art that forms an image of the hashtag symbol:
+
+```
+   #     
+  

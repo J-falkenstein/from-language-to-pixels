@@ -1,0 +1,9 @@
+Sure! Here's an ASCII art of the number 2:
+
+```
+  _______ 
+ /   ___ \
+|  |   \_|
+ \ \_____
+  \______|
+```

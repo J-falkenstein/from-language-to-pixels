@@ -1,0 +1,1 @@
+"""The symbol of a single quote is a small vertical line that is slightly tilted to the right. It is positioned at the upper right corner and extends downwards. The length of the line is relatively shorter compared to other symbols, and it is typically a straight line without any curves or bends."""

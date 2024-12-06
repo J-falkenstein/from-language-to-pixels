@@ -1,0 +1,10 @@
+00000000
+00111100
+01100110
+00111100
+01100110
+00110100
+00011000
+00000000
+
+In this example, the pixels are arranged in an 8 by 8 matrix, with 0s representing black pixels and 1s representing white pixels. This matrix creates the image of the number 6.

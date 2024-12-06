@@ -1,0 +1,1 @@
+"""The symbol of a colon is comprised of two stacked dots, with the upper dot slightly smaller than the lower one. The dots are aligned vertically, with the bottom dot directly below the top dot. There is a small, equal space between the two dots."""

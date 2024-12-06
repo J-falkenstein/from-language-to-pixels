@@ -1,0 +1,11 @@
+Unfortunately, I am unable to render an ascii art here. However, you can easily create an ascii art of the number 10 using the ASCII characters. Here is a simple example:
+
+'''
+ .-'''-.
+/ -    \
+| |
+\ -   -/
+ '-...-'
+'''
+
+This is just one example, and you can create your own variations and styles by using different combinations of characters.

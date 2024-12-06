@@ -1,0 +1,8 @@
+Here is an example of an ascii art symbol of an ampersand:
+
+'''
+     ,/|\
+    //^\\
+   (/  @ \)
+    ^\_^_/^
+'''

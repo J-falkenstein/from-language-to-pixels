@@ -1,0 +1,12 @@
+<svg width="200" height="200" viewBox="-100 -100 200 200">
+  <rect x="-50" y="-50" width="100" height="100" fill="#F4A460" />
+  <polygon points="-60,-50 60,-50 0,-100" fill="#8B0000" />
+  <line x1="-50" y1="50" x2="50" y2="50" stroke="#008000" stroke-width="2" />
+  <line x1="-10" y1="50" x2="-10" y2="0" stroke="#000" stroke-width="2" />
+  <rect x="-25" y="25" width="15" height="15" fill="#000" />
+  <rect x="10" y="25" width="15" height="15" fill="#000" />
+  <rect x="-25" y="-20" width="15" height="15" fill="#000" />
+  <rect x="10" y="-20" width="15" height="15" fill="#000" />
+  <rect x="-40" y="-60" width="20" height="40" fill="#8B0000" />
+  <rect x="20" y="-60" width="20" height="40" fill="#8B0000" />
+</svg>

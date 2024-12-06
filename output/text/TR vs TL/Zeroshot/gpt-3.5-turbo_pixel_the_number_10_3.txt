@@ -1,0 +1,11 @@
+```
+00000000
+00011000
+00011000
+00011000
+00011000
+00011000
+01111110
+01111110
+```
+Keep in mind that this representation is just an example and actual images may vary in their pixel arrangements.

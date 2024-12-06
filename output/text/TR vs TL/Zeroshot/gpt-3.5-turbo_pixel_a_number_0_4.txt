@@ -1,0 +1,11 @@
+```
+00011100
+00100010
+01100011
+01100011
+01111111
+01111111
+01100011
+00100010
+```
+Each 1 represents a black pixel, while each 0 represents a white pixel. By arranging these pixels in a specific pattern, we can create an image that represents the number 0.

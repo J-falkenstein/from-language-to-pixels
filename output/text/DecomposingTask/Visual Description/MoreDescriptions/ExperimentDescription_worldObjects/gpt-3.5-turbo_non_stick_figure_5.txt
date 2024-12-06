@@ -1,0 +1,15 @@
+Stick Figure:
+
+A stick figure is a simple and basic representation of a human figure. Start by drawing a straight vertical line, which will serve as the body. This line should be taller than it is wide, giving it a slim appearance. 
+
+For the head, draw a small circle or oval shape at the top of the body. It should be placed directly on top of the body, aligned with its center. 
+
+To represent the arms, draw two straight lines extending outward from the upper body. These lines should be approximately half the length of the body, pointing straight out to the sides. 
+
+Similarly, for the legs, draw two straight lines extending downward from the lower body. These lines should be slightly longer than the arms, reaching towards the bottom of the page or ground. 
+
+To indicate the hands and feet, simply draw small circles or oval shapes at the ends of the arms and legs, respectively. These shapes can be slightly larger than the head, but still proportionate to the rest of the stick figure. 
+
+Lastly, you can add some additional details if desired. For example, you can draw a small curve within the head to represent a smiling mouth. You can also add two dots within the head to suggest eyes, though this is not necessary. 
+
+Remember, the focus of a stick figure is on simplicity and conveying the basic human form using minimal lines and shapes. The overall shape should resemble a person, with a tall and slim body, a circular head, straight arms and legs, and small circles or ovals for hands and feet.

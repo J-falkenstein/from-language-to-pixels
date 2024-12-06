@@ -1,0 +1,7 @@
+The simplified 8x8 pixel representation of a house consists of a square shape measuring 6 pixels in height and 6 pixels in width, representing the main body of the house. The bottom row of the square represents the ground level. On top of the square, centered horizontally, there is a triangle shape measuring 4 pixels in height and 6 pixels in width, representing the roof. The top row of the triangle is aligned with the top row of the square.
+
+To distinguish the door, a single pixel is placed in the middle of the bottom row of the square. Windows are represented by two vertically aligned pixels positioned at the middle column of the second and third row of the square. The chimney is denoted by a single pixel located on the top-right corner of the square.
+
+To indicate a clear distinction between the roof and the main body, the pixels forming the roof are of a different color or shade than the ones composing the square.
+
+Overall, this simplified representation focuses on the fundamental features of a house, namely the square shape for the main body, a triangular roof, a central door, windows, and a small chimney.

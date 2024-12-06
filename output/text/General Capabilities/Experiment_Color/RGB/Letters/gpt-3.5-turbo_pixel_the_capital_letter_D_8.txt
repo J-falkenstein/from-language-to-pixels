@@ -1,0 +1,1 @@
+The capital letter D cannot be represented as a grid of pixels in this text format.

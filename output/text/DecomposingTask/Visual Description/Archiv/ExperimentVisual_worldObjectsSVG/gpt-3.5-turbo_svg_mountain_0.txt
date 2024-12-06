@@ -1,0 +1,11 @@
+<svg width="400" height="400" viewBox="-200 -200 400 400">
+  <path d="M-150,0 L0,-200 L150,0 Z" fill="#B8D8CD" />
+  <path d="M-150,0 L0,-150 L150,0 Z" fill="#83B0A4" />
+  <path d="M-150,0 L0,-100 L150,0 Z" fill="#2E6E5D" />
+  <path d="M-150,0 L0,-50 L150,0 Z" fill="#0B3C32" />
+  <path d="M-100,0 L0,-40 L100,0 Z" fill="#E3EDEB" />
+  <path d="M-80,0 L0,-30 L80,0 Z" fill="#C6E2E0" />
+  <path d="M-60,0 L0,-20 L60,0 Z" fill="#A8D8D6" />
+  <path d="M-40,0 L0,-15 L40,0 Z" fill="#8BCECC" />
+  <path d="M-20,0 L0,-10 L20,0 Z" fill="#6EC4C4" />
+</svg>

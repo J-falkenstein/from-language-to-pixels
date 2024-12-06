@@ -1,0 +1,11 @@
+Here is an example ascii art of a right curly brace symbol:
+
+'''
+    {
+   {
+  {
+ {
+{
+ {
+{
+'''

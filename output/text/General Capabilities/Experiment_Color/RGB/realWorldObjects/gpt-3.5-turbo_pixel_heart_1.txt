@@ -1,0 +1,1 @@
+Due to the complexity and size of an image of a heart, it would be difficult to represent it as a pixel matrix in a text format. However, in practice, an image of a heart would be represented as a pixel matrix just like any other image, with each pixel assigned a specific combination of RGB values that collectively form the shape of a heart.

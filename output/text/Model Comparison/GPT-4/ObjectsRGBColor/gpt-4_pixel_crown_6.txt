@@ -1,0 +1,1 @@
+Sorry, your last request is ambiguous. It's not possible to show an example of a pixel matrix for a complex image like a crown with just textual content. The best way to create such a pixel matrix would be using graphics processing software or a programming language with image processing capabilities.

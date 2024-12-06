@@ -1,0 +1,11 @@
+<svg width="200" height="200" viewBox="0 0 400 400">
+    <circle cx="200" cy="200" r="150" fill="#FDDC99" />
+    <circle cx="155" cy="160" r="20" fill="black" />
+    <circle cx="245" cy="160" r="20" fill="black" />
+    <path d="M150,250 C190,320 250,320 290,250" stroke="black" fill="transparent" />
+    <path d="M200,280 C215,270 240,270 255,280" stroke="black" fill="transparent" />
+    <line x1="165" y1="225" x2="200" y2="225" stroke="black" stroke-width="5" />
+    <line x1="235" y1="225" x2="270" y2="225" stroke="black" stroke-width="5" />
+    <path d="M150,220 C160,200 240,200 250,220" stroke="black" fill="transparent" />
+    <path d="M190,180 Q200,150 210,180" stroke="black" fill="transparent" />
+</svg>

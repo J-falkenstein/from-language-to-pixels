@@ -1,0 +1,10 @@
+Here is an example of ascii art representing the at sign symbol:
+
+'''
+   __   _
+ / _/  | |
+| |_ __| |
+|  _|__  |
+| |   | ||
+ \_\  |_|
+'''

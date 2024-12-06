@@ -1,0 +1,9 @@
+
+Hexidecimal:    0x0012
+Decimal:        5
+Binary:         00101
+Octal:          017
+Character (ASCII): 5
+Binary in Bytes: 0000000000000000000000000101000000000000
+Pixels:         0000000000000000000000000101000000000000
+To store the value 5 in binary a pixel matrix of two bytes is needed. First we fill the first pixel listed with a 0. Then we fill the second pixel with a 1. This can be done by using

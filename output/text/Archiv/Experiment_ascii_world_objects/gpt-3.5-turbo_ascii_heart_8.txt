@@ -1,0 +1,8 @@
+Here is an example of an ASCII art representation of a heart:
+
+  ,d88b.d88b,
+  88888888888
+  `Y8888888Y'
+    `Y888Y'
+      `Y'
+

@@ -1,0 +1,5 @@
+To draw a simplified version of the number 6, imagine a large oval lying horizontally. Starting from the top left of the oval, draw a curved line that smoothly follows the shape of the left side of the oval, moving towards the right and slightly downwards. When you reach the bottom right of the oval, continue the curve upwards, creating a rounded bump towards the top right of the oval. This bump should have a smaller size compared to the main oval.
+
+Now, draw a short horizontal line starting from the bottom right of the main oval towards the right. This line should be positioned slightly above the bottom edge of the main oval. Finally, add a small curve to the bottom right of the horizontal line, curving upwards and touching the right side of the main oval.
+
+Overall, the number 6 should have a rounded, oval shape with a curved line starting from the top left, moving smoothly towards the right and downwards. At the bottom right, this line curves upwards with a smaller bump towards the top right. A short horizontal line extends from the bottom right, slightly above the bottom edge of the main oval, and ends with a small curve touching the right side of the oval.

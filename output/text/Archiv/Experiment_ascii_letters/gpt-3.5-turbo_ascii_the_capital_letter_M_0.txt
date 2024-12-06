@@ -1,0 +1,12 @@
+Here is an example ascii art that forms an image of the letter M:
+
+'''
+|M      M|
+|MM    MM|
+|M M  M M|
+|M  MM  M|
+|M      M|
+|M      M|
+|M      M|
+'''
+

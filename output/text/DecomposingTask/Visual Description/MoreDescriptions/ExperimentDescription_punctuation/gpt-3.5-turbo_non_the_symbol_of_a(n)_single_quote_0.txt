@@ -1,0 +1,1 @@
+"""The symbol of a single quote is a small, vertical line that stands alone. It is positioned at the bottom center of where the line would be if it were a lowercase 'i'. The single quote is taller than it is wide, and it does not touch any other lines or elements."""

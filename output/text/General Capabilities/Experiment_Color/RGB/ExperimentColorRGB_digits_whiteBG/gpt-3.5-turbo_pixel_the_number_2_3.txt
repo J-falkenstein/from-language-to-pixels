@@ -1,0 +1,1 @@
+Unfortunately, the example of the grid of pixels is missing. Can you please provide the pixel matrix for the image of the number 2?

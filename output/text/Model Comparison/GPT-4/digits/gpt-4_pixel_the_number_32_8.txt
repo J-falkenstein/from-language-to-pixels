@@ -1,0 +1,11 @@
+It's not possible to represent multi-digit numbers (like 32) with an 8x8 pixel matrix as it wouldn't have sufficient resolution to differentiate between two numbers. However, we can represent each number individually in two separate 8x8 grids:
+
+For the number 3:
+00000000
+00111110
+00000110
+00111100
+00001110
+00000110
+00111100
+00000000

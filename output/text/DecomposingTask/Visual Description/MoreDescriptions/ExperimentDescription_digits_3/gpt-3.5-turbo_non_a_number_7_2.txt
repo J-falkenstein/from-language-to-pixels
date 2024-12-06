@@ -1,0 +1,7 @@
+To draw a simplified version of the number 7, imagine a vertical line as the main feature. Start at the top by drawing a small horizontal line that extends to the right, at a slight angle downwards. This short line should be positioned a little below the top edge of the vertical line. 
+
+From the end of that short line, continue downwards with a longer line, parallel to the vertical line, until it reaches about three-fourths down. 
+
+Then, draw a short horizontal line that extends to the left, slightly below the end of the longer line. This line should be of similar length as the first small horizontal line but pointing in the opposite direction. 
+
+That's it! The simplified version of the number 7 consists of a vertical line with two small horizontal lines: one pointing right and another pointing left, both positioned below the top edge of the vertical line.

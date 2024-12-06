@@ -1,0 +1,18 @@
+To describe the visual characteristics of the number 32, you can mention the following:
+
+The digit 3:
+- Start by drawing a vertical line from the top to the bottom.
+- At the top of this line, draw a semi-circle facing towards the right, connecting to the top of the vertical line.
+- The semi-circle should be placed slightly to the left side of the vertical line.
+- This curved part gives the digit a rounded shape.
+- The combination of the vertical line and the rounded top forms the digit 3.
+
+The digit 2:
+- Start with a vertical line from the top to the bottom.
+- Roughly halfway down this vertical line, draw a slightly curved horizontal line, facing towards the right.
+- The horizontal line should be placed slightly below the center of the vertical line.
+- Connect the end of this horizontal line with the bottom of the vertical line using another curved line, facing towards the left.
+- This curved line should be placed below the horizontal line.
+- The combination of the vertical line, the slightly curved horizontal line, and the curved line below forms the digit 2.
+
+Remember to emphasize that the 3 has a rounded top and is positioned slightly to the left of the vertical line, while the 2 has a curved horizontal line connecting to the vertical line and a curved line below it.

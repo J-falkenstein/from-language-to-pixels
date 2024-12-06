@@ -1,0 +1,36 @@
+```
+00000000
+00111000
+01111100
+01111110
+01111110
+01111110
+00111100
+00011000
+```
+
+This is an example of a grid of pixels that form an image of a letter A:
+
+```
+00111100
+01100110
+11000011
+11000011
+11111111
+11000011
+11000011
+11000011
+```
+
+This is an example of a grid of pixels that form an image of a smiley face:
+
+```
+00000000
+01100110
+01100110
+00000000
+10000001
+10000001
+01111110
+00000000
+```

@@ -1,0 +1,15 @@
+Here is an example of ASCII art depicting a skull:
+
+  .-""""""-.
+ /          \
+|   R I P    |
+|            |
+|   ____     |
+|  '    '    |
+|  (o) (o)   |
+|    ____    |
+|   '    '   |
+|   '~~~~'   |
+ \          /
+  '-......-'
+

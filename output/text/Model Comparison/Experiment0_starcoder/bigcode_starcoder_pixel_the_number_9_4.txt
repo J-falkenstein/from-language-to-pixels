@@ -1,0 +1,11 @@
+
+00000000
+00110110
+01101100
+00111100
+00001100
+00000110
+00111100
+00000000
+
+Note that the numbers 1, 4, 7 and 8 have configureable pixels while the other numerals only change

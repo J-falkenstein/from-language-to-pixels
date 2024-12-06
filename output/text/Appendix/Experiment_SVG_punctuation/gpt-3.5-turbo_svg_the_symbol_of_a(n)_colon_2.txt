@@ -1,0 +1,5 @@
+<svg width="20" height="20" viewBox="0 0 20 20">
+  <circle cx="10" cy="10" r="8" stroke="black" stroke-width="1" fill="none" />
+  <circle cx="10" cy="6" r="1" fill="black" />
+  <circle cx="10" cy="14" r="1" fill="black" />
+</svg>

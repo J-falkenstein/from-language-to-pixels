@@ -1,0 +1,20 @@
+<svg width="400" height="400" viewBox="-100 -100 200 200">
+  <circle cx="0" cy="0" r="10" fill="black" /> <!-- Head -->
+  <rect x="-20" y="-40" width="40" height="60" fill="black" /> <!-- Thorax -->
+  <ellipse cx="0" cy="25" rx="20" ry="15" fill="black" /> <!-- Abdomen -->
+  
+  <circle cx="-5" cy="-3" r="4" fill="white" /> <!-- Compound eye 1 -->
+  <circle cx="5" cy="-3" r="4" fill="white" /> <!-- Compound eye 2 -->
+  
+  <path d="M-2,-1 L2,-1 L0,3 Z" fill="black" /> <!-- Proboscis -->
+  
+  <path d="M-12,-25 Q-5,-35 5,-25" fill="transparent" stroke="black" /> <!-- Wing 1 -->
+  <path d="M-12,-27 Q-5,-37 5,-27" fill="transparent" stroke="black" /> <!-- Wing 2 -->
+  
+  <line x1="-5" y1="35" x2="-7" y2="40" stroke="black" /> <!-- Leg 1 -->
+  <line x1="5" y1="35" x2="7" y2="40" stroke="black" /> <!-- Leg 2 -->
+  <line x1="-9" y1="37" x2="-11" y2="42" stroke="black" /> <!-- Leg 3 -->
+  <line x1="9" y1="37" x2="11" y2="42" stroke="black" /> <!-- Leg 4 -->
+  <line x1="-6" y1="42" x2="-4" y2="47" stroke="black" /> <!-- Leg 5 -->
+  <line x1="6" y1="42" x2="4" y2="47" stroke="black" /> <!-- Leg 6 -->
+</svg>

@@ -1,0 +1,12 @@
+Note: The exact representation of a complex image such as a cactus image would require a large pixel matrix and cannot be accurately represented in text. However, a simplified version could look something like this:
+
+[
+  (0, 128, 0), (0, 128, 0), (255, 255, 255), (255, 255, 255), (0, 128, 0), (0, 128, 0)
+  (0, 128, 0), (0, 128, 0), (255, 255, 255), (255, 255, 255), (0, 128, 0), (0, 128, 0)
+  (255, 255, 255), (255, 255, 255), (0, 128, 0), (0, 128, 0), (255, 255, 255), (255, 255, 255)
+  (255, 255, 255), (255, 255, 255), (0, 128, 0), (0, 128, 0), (255, 255, 255), (255, 255, 255)
+] 
+
+Here, a green (0, 128, 0) pixel represents a part of the cactus and a white (255, 255, 255) pixel represents the background.
+
+This is a very simplified representation and an actual cactus image would have a significantly larger pixel matrix with a wide array of colors for detailing.

@@ -1,0 +1,9 @@
+The number 10 can be simplified as a vertical line followed by a horizontal line on top of it. 
+
+Start by drawing a tall straight line that stands upright, representing the number 1. This line should be long and occupy most of the vertical space. 
+
+Next, add a shorter horizontal line at the very top of the vertical line. It should be straight and aligned perfectly with the upper end of the vertical line. This horizontal line represents the number 0. 
+
+Ensure that the horizontal line extends fully from one side to the other, so it connects with the vertical line on both ends. 
+
+By drawing a vertical line and placing a shorter horizontal line on top, you will have effectively created the simplified shape of the number 10. Remember, it's important to keep the lines straight and in proper alignment to capture the essence of the digit.

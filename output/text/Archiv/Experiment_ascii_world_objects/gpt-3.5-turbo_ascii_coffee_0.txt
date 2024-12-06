@@ -1,0 +1,11 @@
+Here is an example of ASCII art that forms an image of a coffee cup:
+
+    ( (
+     ) )
+    ( (
+     ) )
+    .-' '-.
+   /       \
+  |,       ,|
+   \       /
+    `.___.'

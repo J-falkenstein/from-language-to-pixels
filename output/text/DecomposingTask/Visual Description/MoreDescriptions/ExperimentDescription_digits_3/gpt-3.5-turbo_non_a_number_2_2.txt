@@ -1,0 +1,9 @@
+The number 2 can be described as a curved line that starts at the top left, smoothly curves down, and ends at the bottom right. Imagine drawing a gently slanted line from the top left corner to around two-thirds down the right side of a blank space.
+
+At the top left corner, draw a small curved hook shape, facing towards the right. This hook will serve as the starting point of the number 2. As you move downwards, continue the curve of the hook gently towards the right, forming a rounded hump. This hump should be proportionate in size to the hook and not too large. 
+
+Now, from the end of the hump, start another curved line that slopes down diagonally towards the left and slightly curves back upwards to form a small loop. This loop should be connected to the hump and positioned towards the bottom right. The loop should be relatively small and not overlap the hump significantly. 
+
+Once you have drawn the loop, you can end the number 2 with a short straight line extending downwards from the loop's peak, towards the bottom right corner of the space. This line should be aligned with the right side of the hump and loop but should not extend too far down. 
+
+To summarize, a simplified version of the number 2 is a curved line with a small hook at the top left, followed by a rounded hump that slopes down to the right. From the hump's end, a small loop connects back towards the left, and the number ends with a short straight line extending downward from the loop's peak.

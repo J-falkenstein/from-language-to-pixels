@@ -1,0 +1,28 @@
+Unfortunately, I cannot provide the exact HTML code for an SVG showing a crab as it requires more complex shapes and path definitions. However, I can provide you with a general idea of how you can create an SVG representation of a crab using geometric primitives and paths.
+
+```html
+<svg width="200" height="200" viewBox="-100 -100 200 200">
+  <!-- Body of the crab (rounded triangle) -->
+  <path d="M 0 -70 Q 40 0, 0 70 Q -40 0, 0 -70" fill="brown" />
+
+  <!-- Pincers (curved shape) -->
+  <path d="M -30 -50 Q -30 -80, -70 -70" fill="brown" />
+  <path d="M 30 -50 Q 30 -80, 70 -70" fill="brown" />
+
+  <!-- Legs (lines) -->
+  <line x1="-30" y1="40" x2="-50" y2="90" stroke="gray" stroke-width="2" />
+  <line x1="-20" y1="40" x2="-40" y2="80" stroke="gray" stroke-width="2" />
+  <line x1="-10" y1="40" x2="-30" y2="70" stroke="gray" stroke-width="2" />
+  <line x1="0" y1="40" x2="-20" y2="60" stroke="gray" stroke-width="2" />
+  <line x1="10" y1="40" x2="10" y2="60" stroke="gray" stroke-width="2" />
+  <line x1="20" y1="40" x2="20" y2="60" stroke="gray" stroke-width="2" />
+  <line x1="30" y1="40" x2="30" y2="70" stroke="gray" stroke-width="2" />
+  <line x1="40" y1="40" x2="50" y2="80" stroke="gray" stroke-width="2" />
+
+  <!-- Eyes (circles) -->
+  <circle cx="-15" cy="-30" r="3" fill="black" />
+  <circle cx="15" cy="-30" r="3" fill="black" />
+</svg>
+```
+
+Please note that this is a simplified representation of a crab and may not be anatomically accurate. You can adjust the dimensions, colors, and details as per your requirements.

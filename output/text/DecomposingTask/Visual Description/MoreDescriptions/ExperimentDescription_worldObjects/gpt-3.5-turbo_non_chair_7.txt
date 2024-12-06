@@ -1,0 +1,9 @@
+A chair is a simple piece of furniture designed for sitting. It typically consists of a horizontal seat with a backrest attached to it. The fundamental shape of a chair can be described as a rectangle. The seat is a flat surface usually positioned at a right angle to the backrest, creating a 90-degree angle. The backrest is vertically aligned with the seat, providing support for the person sitting.
+
+To simplify the sketch, you can imagine the chair as two rectangles intersecting each other. The larger rectangle represents the seat, while the smaller rectangle represents the backrest. The seat rectangle should be wider than the backrest rectangle to emphasize their size difference.
+
+The proportions between the seat and backrest can be roughly estimated as the seat being about two times wider than the backrest. This will give a clear distinction between the two elements of the chair.
+
+In terms of spatial relationships, the backrest should align vertically with the seat, creating a straight line that extends upward from the seat's back edge. The backrest's height can vary, but it should be shorter than the overall height of a person. The seat's height from the ground should allow comfortable sitting, so it's typically placed at a standard dining table height (around 18 inches or 45 centimeters).
+
+Remember to emphasize the distinction between the seat and backrest by clearly indicating their sizes and aligning them correctly. This simple sketch will enable the blind person to understand the basic characteristics of a chair and recognize it visually.

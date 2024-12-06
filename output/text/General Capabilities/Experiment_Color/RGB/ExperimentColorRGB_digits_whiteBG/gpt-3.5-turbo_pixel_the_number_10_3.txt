@@ -1,0 +1,1 @@
+Unfortunately, the example of a grid of pixels that forms the number 10 is missing.

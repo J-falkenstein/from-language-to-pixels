@@ -1,0 +1,18 @@
+objects. Be mindful of using descriptive words to help the blind person form a mental image of the object. Here are a few examples:
+
+1. Tree:
+The object is tall and has a slim, cylindrical shape. It has a trunk that extends vertically from the ground and branches that spread horizontally. The branches are thinner and shorter compared to the trunk, and they grow in various directions. The tree has a rounded crown of leaves on top.
+
+2. Cup:
+This object has a cylindrical shape. It is small in size with a wider opening at the top and a narrower base. The top rim curves inward, creating a lip. The sides are smooth and vertical, and there is a handle attached to one side that curves outward and allows for gripping.
+
+3. Car:
+This object has a rectangular shape and is longer horizontally. It has a smooth exterior with four round wheels positioned at the corners. The front of the car is slightly slanted and has two smaller rectangular lights on either side. Towards the rear, there are two larger rectangular lights. On top, there is a roof that slopes downward towards the rear.
+
+4. Chair:
+This object has a square-shaped seat and a tall, vertical backrest. The seat and backrest are connected by vertical legs positioned at the four corners. The backrest is slightly tilted backward, providing support. The seat is flat and has no arms or cushions. The legs are evenly spaced and parallel to each other.
+
+5. Book:
+This object has a rectangular shape, similar to a box. It is slightly wider horizontally than vertically. The front cover is bigger than the back cover. The spine runs vertically along one edge, connecting the front and back covers. The pages are stacked neatly between the covers and are aligned with the spine.
+
+Remember, the goal is to provide enough information for the blind person to create a simplified sketch, so keep the descriptions concise and focus on the key features that make each object recognizable.

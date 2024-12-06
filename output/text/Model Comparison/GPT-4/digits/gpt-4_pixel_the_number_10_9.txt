@@ -1,0 +1,13 @@
+As the matrix size is 8x8, representing a two-digit number like 10 would require two different grids - one for the number 1 and another for the number 0. 
+
+Here is an example:
+
+For the number 1:
+00000000
+00011000
+00111000
+00011000
+00011000
+00011000
+00111100
+00000000

@@ -1,0 +1,7 @@
+<svg width= "200" height= "200">
+  <path d="M40 145 Q60 130 80 145 T120 145 T160 145 T180 130 Q200 145 160 160 T120 160 T80 160 T40 160 T0 145 Z" fill="#7FC6A4" />
+  <path d="M40 145 Q60 130 80 145 T120 145 T160 145 T180 130 Q200 145 160 160 T120 160 T80 160 T40 160 T0 145 Z" fill="#C8E9C9" transform="rotate(180 100 100)" />
+  <path d="M75 110 L75 170 Q100 190 125 170 L125 110 Z" fill="#FFF2E6" />
+  <circle cx="100" cy="140" r="5" fill="#FFF2E6" />
+  <line x1="75" y1="110" x2="125" y2="110" stroke="#000" stroke-width="1" />
+</svg>

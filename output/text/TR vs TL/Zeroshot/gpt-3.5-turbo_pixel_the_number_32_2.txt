@@ -1,0 +1,11 @@
+```
+00000000
+00011000
+00011000
+00100100
+00100100
+01000010
+01000010
+01111110
+```
+Each 0 represents a white pixel and each 1 represents a black pixel. The combination of black and white pixels forms the shape of the number 32.

@@ -1,0 +1,11 @@
+```
+  .xxxxx.
+  xxxxxxx
+     xx
+     xx
+  xxxxxxx
+  xxxxxxx
+      xx
+  xxxxxxx
+  .xxxxx.
+```

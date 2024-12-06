@@ -1,0 +1,7 @@
+<svg width="200" height="200" viewBox="-100 -100 200 200">
+  <path d="M-50 -80 a 50 50 0 0 1 100 0 h -20 v 40 h -60 v -40 h -20 z" fill="#FFB74D" />
+  <path d="M-70 20 h 140 v 50 h -140 z" fill="#FFB74D" />
+  <path d="M-90 70 h 180 v 40 h -180 z" fill="#FFB74D" />
+  <path d="M-90 110 h 180 v 20 h -180 z" fill="#D32F2F" />
+  <circle cx="0" cy="-80" r="10" fill="#FFF" />
+</svg>

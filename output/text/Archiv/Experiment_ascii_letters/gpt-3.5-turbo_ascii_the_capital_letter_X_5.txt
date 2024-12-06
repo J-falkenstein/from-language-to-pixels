@@ -1,0 +1,9 @@
+Here is an example of ASCII art depicting the capital letter X:
+
+```plaintext
+__        __  
+ \ \      / /  
+  \ \ /\ / /_   
+   \ V  V / _ \  
+    \_/\_/ (_) \
+```

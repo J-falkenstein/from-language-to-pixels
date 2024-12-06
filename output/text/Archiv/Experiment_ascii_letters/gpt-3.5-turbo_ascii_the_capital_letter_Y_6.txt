@@ -1,0 +1,10 @@
+Here is an example of an ascii art representation of the capital letter Y:
+
+```
+  __   __
+  \ \ / /
+   \ V / 
+    > <  
+   / . \ 
+  /_/ \_\
+```

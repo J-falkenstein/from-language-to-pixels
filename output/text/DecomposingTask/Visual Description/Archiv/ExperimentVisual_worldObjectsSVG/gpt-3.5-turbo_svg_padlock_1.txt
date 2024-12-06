@@ -1,0 +1,7 @@
+<svg width="200" height="200" viewBox="-100 -100 200 200">
+  <rect x="-50" y="-80" width="100" height="140" rx="10" ry="10" fill="#7C97C2" />
+  <rect x="-40" y="-70" width="80" height="80" rx="5" ry="5" fill="#BCC9E4" />
+  <path d="M -35 -55 L 35 -55 L 35 -5 L 26 5 L -26 5 L -35 -5 Z" fill="#7C97C2" />
+  <circle cx="0" cy="-25" r="15" fill="#BCC9E4" />
+  <circle cx="0" cy="-25" r="5" fill="#7C97C2" />
+</svg>
